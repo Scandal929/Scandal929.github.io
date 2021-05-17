@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Buckhouse</title>
+      <title>Scandal929</title>
       <link rel="shortcut icon" type="image/png" href="favicon.png">
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-45198036-2"></script>
@@ -82,7 +82,7 @@
       <div class="container-fluid">
          <div class="row">
                <div class="col-sm-9">
-                  <h3>Johnathan's Ski Resort challenge</h3>
+                  <h3>Scandal929's Ski Resort challenge</h3>
                </div>
                <div class="col-sm-3">
                   <p class="pull-right icons-right">
@@ -104,7 +104,7 @@
 
             <!-- Progress -->
             <div>
-               <p>Johnathan has visited {{visitedCount}} out of {{skiResortCount}} resorts so far! <i>last updated: {{lastUpdated}}</i></p>
+               <p>Scandal929 has visited {{visitedCount}} out of {{skiResortCount}} resorts so far! <i>last updated: {{lastUpdated}}</i></p>
             </div>
 
             <!-- Search column -->
@@ -205,7 +205,7 @@
          <div>
             <hr>
             <hr>
-            <h3>Johnathan's Stats</h3>
+            <h3>Scandal929's Stats</h3>
             <!-- <p><i>Last updated: {{newResortStatsLastUpdated}}</i></p> -->
 
             <p><b>Every U.S. Ski Resort Progress</b></p>
@@ -273,7 +273,7 @@
 
             <p><b>Notes:</b></p>
             <ul>
-               <li>If Johnathan can go to 40 new resorts a season, he'll finish the U.S. resorts by 2031. Good luck Johnathan!</li>
+               <li>If Scandal929 can go to 40 new resorts a season, he'll finish the U.S. resorts by 2031. Good luck Johnathan!</li>
                <li>Season 0 is considered the videos on his channel before he started making the vlogs (2011-2016).</li>
                <li>Live streams, family vlogs, mountain biking, wakeboarding, skateboarding videos, etc. are not included in this website.</li>
                <!-- <li>The view counts are cumulative. In other words, season 4 videos are still getting tons of views during season 5.</li> -->
@@ -297,12 +297,12 @@
       <div class="navbar navbar-default navbar-fixed-bottom">
                <p class="navbar-text pull-left">
                      Follow Johnathan
-                     <a href="https://www.youtube.com/c/JohnathanBuckhouse" target="_blank"><i class="fa fa-youtube-play"></i></a>
-                     <a href="https://www.instagram.com/johnathanbuckhouse" target="_blank"><i class="fa fa-instagram"></i></a>
-                     <a href="https://twitter.com/johnbuckhouse" target="_blank"><i class="fa fa-twitter"></i></a>
+                     <a href="https://www.youtube.com/c/Scandal929" target="_blank"><i class="fa fa-youtube-play"></i></a>
+                     <a href="https://www.instagram.com/Scandal929" target="_blank"><i class="fa fa-instagram"></i></a>
+                     <a href="https://twitter.com/Scandal929" target="_blank"><i class="fa fa-twitter"></i></a>
                </p>
                <p class="navbar-text pull-right">
-                  Website suggestions? <a href="mailto:shellnut@gmail.com?subject=Buckhouse Ski Map">Email Kenny</a>
+                  Website suggestions? <a href="mailto:Scandal929@yahoo.com">Email Scandal929</a>
                </p>
          </div>
                     
@@ -377,7 +377,7 @@
       }]);
 
       // Set the default view
-      var defaultCoordinates = [39.480243, -106.06667]; // breckenridge coords
+      var defaultCoordinates = [41.05130634603515, -75.35542208734779]; // Camelback coords
       var defaultZoom = 4;
       var mymap = L.map('mapid').setView(defaultCoordinates, defaultZoom);
 
@@ -505,19 +505,19 @@
         var videoWidth = 400;
         var videoHeight = 225;
         if (allData[i].videos.length === 0) {
-          videoLinks = `<p>Johnathan hasn't traveled here yet! Check back soon</p>`;
+          videoLinks = `<p>Scandal929 hasn't traveled here yet! Check back soon</p>`;
         }
         else if (allData[i].videos.length === 1) {
-          videoLinks = `<p>Here is the only video of Johnathan from this location <p><iframe width="${videoWidth}" height="${videoHeight}" src="https://www.youtube-nocookie.com/embed/${allData[i].videos[0]}?playlist=${allData[i].videos.join(',')}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>`;
+          videoLinks = `<p>Here is the only video of Scandal929 from this location <p><iframe width="${videoWidth}" height="${videoHeight}" src="https://www.youtube-nocookie.com/embed/${allData[i].videos[0]}?playlist=${allData[i].videos.join(',')}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>`;
         }
         else if (allData[i].videos.length > 1) {
            if (allData[i].videos.length > 200) {
              videoHeight = 150;
-             videoLinks = `<p>Here are ${allData[i].videos.length} videos (in 2 playlists) of Johnathan from this location <p><iframe width="${videoWidth}" height="${videoHeight}" src="https://www.youtube-nocookie.com/embed/${allData[i].videos[0]}?playlist=${allData[i].videos.slice(0, 200).join(',')}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>` +
+             videoLinks = `<p>Here are ${allData[i].videos.length} videos (in 2 playlists) of Scandal929 from this location <p><iframe width="${videoWidth}" height="${videoHeight}" src="https://www.youtube-nocookie.com/embed/${allData[i].videos[0]}?playlist=${allData[i].videos.slice(0, 200).join(',')}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>` +
              `<p><iframe width="${videoWidth}" height="${videoHeight}" src="https://www.youtube-nocookie.com/embed/${allData[i].videos[200]}?playlist=${allData[i].videos.slice(200).join(',')}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>`
            }
            else {
-             videoLinks = `<p>Here are ${allData[i].videos.length} videos (in a playlist) of Johnathan from this location <p><iframe width="${videoWidth}" height="${videoHeight}" src="https://www.youtube-nocookie.com/embed/${allData[i].videos[0]}?playlist=${allData[i].videos.join(',')}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>`;              
+             videoLinks = `<p>Here are ${allData[i].videos.length} videos (in a playlist) of Scandal929 from this location <p><iframe width="${videoWidth}" height="${videoHeight}" src="https://www.youtube-nocookie.com/embed/${allData[i].videos[0]}?playlist=${allData[i].videos.join(',')}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>`;              
            }
         }
 
@@ -544,7 +544,7 @@
         // Link to the score
         var resortReview = '';
         if (allData[i].resortReviewScore) {
-          resortReview = `<p>Johnathan's Resort Review Score: <a target="_blank" href="https://www.youtube.com/watch/${allData[i].resortReviewLink}">${allData[i].resortReviewScore}/100</a></p>`;
+          resortReview = `<p>Scandal929's Resort Review Score: <a target="_blank" href="https://www.youtube.com/watch/${allData[i].resortReviewLink}">${allData[i].resortReviewScore}/100</a></p>`;
         }
 
         // HTML popup content
