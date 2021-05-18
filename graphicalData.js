@@ -1,7 +1,7 @@
 var videoData = 
 
 // Last updated date
-var newResortStatsLastUpdated = '03/09/21';
+newResortStatsLastUpdated = '03/09/21';
 
 // Percentage Complete by Region
 var midwestData = allData.filter(val=>val.region==='Midwest' && val.officialSkiResort);
