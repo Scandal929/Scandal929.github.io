@@ -12,6 +12,8 @@ var midAtlanticData = allData.filter(val=>val.region==='Mid-Atlantic' && val.off
 var southeastData = allData.filter(val=>val.region==='Southeast' && val.officialSkiResort);
 var coloradoData = allData.filter(val=>val.state==='Colorado' && val.officialSkiResort);
 
+
+
 var regionData = {
   midwest: 100*(midwestData.filter(val=>val.videos.length>0).length / midwestData.length),
   westCoast: 100*(westCoastData.filter(val=>val.videos.length>0).length / westCoastData.length),
@@ -19,6 +21,7 @@ var regionData = {
   newEngland: 100*(newEnglandData.filter(val=>val.videos.length>0).length / newEnglandData.length),
   midAtlantic: 100*(midAtlanticData.filter(val=>val.videos.length>0).length / midAtlanticData.length),
   southeast: 100*(southeastData.filter(val=>val.videos.length>0).length / southeastData.length)
+
 };
 
 // Percentage Complete by State
@@ -101,6 +104,16 @@ var stateData = {
   wisconsin: 100*(wisconsinData.filter(val=>val.videos.length>0).length / wisconsinData.length),
   wyoming: 100*(wyomingData.filter(val=>val.videos.length>0).length / wyomingData.length),
 };
+
+//Percent Complete by Country
+var asiaData = allData.filter(val=>val.state==='Asia' && val.officialSkiResort);
+
+
+var countryData = {
+  asia: 100*(asiatData.filter(val=>val.videos.length>0).length / asiaData.length)
+};
+
+
 
 // Season start dates
 var s1Start = '2016-10-22T16:44:04Z';
