@@ -7826,5 +7826,10 @@ var allData = [
     "lat": 42.8618697,
     "lng": 140,6963752
   },
-  "officialSkiResort": true}
-];
+  "officialSkiResort": true
+}
+
+
+
+  
+]
