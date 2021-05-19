@@ -4524,6 +4524,7 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Breckenridge",
     "videos": [
+      "mQnjJSEfJgw",
       "cGtFNU-YkkY",
       "f5LkSrM38Nk",
       "gRY-ZBM0F94",
@@ -7802,31 +7803,17 @@ var allData = [
     "website": "http://www.skiwhitepass.com"
   },
   {
-    "resortName": "Grand Hirafu",
-    "Country": "Japan",
-    "region": "Asia",
-    "city": "Niseko",
-    "videos": [],
-    "position": {
-      "lat": 42.8618697,
-      "lng": 140.6963752
-    },
-   "officialSkiREsort": true,
-   "id": "1001",
-   "website": "https://www.grand-hirafu.jp/winter/en/"
-  },
-  {
     "resortName": "McChord Skatepark",
     "state": "Washington",
     "region": "West Coast",
     "city": "McChord AFB",
     "videos": [
-    "nq_nd1ZvKtA"
-  ],
-  "position": {
-    "lat": 47.129648041353164,
-    "lng": -122.52345578183599
-  },
-  "officialSkiResort": false
+      "nq_nd1ZvKtA"
+    ],
+    "position": {
+      "lat": 47.129648041353164,
+      "lng": -122.52345578183599
+    },
+    "officialSkiResort": false
   }
-],
+];
