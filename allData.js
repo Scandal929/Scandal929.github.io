@@ -4524,7 +4524,6 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Breckenridge",
     "videos": [
-      "mQnjJSEfJgw",
       "cGtFNU-YkkY",
       "f5LkSrM38Nk",
       "gRY-ZBM0F94",
@@ -7815,5 +7814,18 @@ var allData = [
       "lng": -122.52345578183599
     },
     "officialSkiResort": false
-  }
-];
+  },
+  {
+    "resortName": "Grand Hirafu",
+  "Country": "Japan",
+  "region": "Asia",
+  "city": "Niseko",
+  "videos": [
+    "nq_nd1ZvKtA"
+  ],
+  "position": {
+    "lat": 42.8618697,
+    "lng": 140,6963752
+  },
+  "officialSkiREsort": true
+},]
