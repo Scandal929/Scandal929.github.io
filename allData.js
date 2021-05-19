@@ -7814,5 +7814,17 @@ var allData = [
       "lng": -122.52345578183599
     },
     "officialSkiResort": false
-  }
+  },
+  {"resortName": "Grand Hirafu",
+  "Country": "Japan",
+  "region": "Asia",
+  "city": "Niseko",
+  "videos": [
+    "nq_nd1ZvKtA"
+  ],
+  "position": {
+    "lat": 39.03733129616391,
+    "lng": -76.74053999999998
+  },
+  "officialSkiResort": true}
 ];
