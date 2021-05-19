@@ -15085,28 +15085,7 @@ var geoJsonData = {
                     ]
                 ]
             }
-        },
-    {
-        "type": "Feature",
-        "id": "57",
-        "properties": {
-            "name": "Japan",
-            "density": 5.851,
-            "region": "Asia"
-        },
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-                [
-                    [
-                        42.8618697,
-                        140.6963752
-                    ]
-                ]
-            ]
-        }
-    }
-]
-         },
-          {        
-          }
+         }
+        ]
+         }
+
