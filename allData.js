@@ -7823,8 +7823,8 @@ var allData = [
     "nq_nd1ZvKtA"
   ],
   "position": {
-    "lat": 39.03733129616391,
-    "lng": -76.74053999999998
+    "lat": -76.74053999999998,
+    "lng": 39.03733129616391
   },
   "officialSkiResort": true}
 ];
