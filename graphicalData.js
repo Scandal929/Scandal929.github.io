@@ -108,10 +108,12 @@ var stateData = {
 
 //Percent Complete by Country
 var asiaData = allData.filter(val=>val.state==='Asia' && val.officialSkiResort);
+var euoropeData = allData.filter(val=>val.state==='Europe' && val.officialSkiResort);
 
 
 var countryData = {
-  asia: 100*(asiatData.filter(val=>val.videos.length>0).length / asiaData.length)
+  asia: 100*(asiatData.filter(val=>val.videos.length>0).length / asiaData.length),
+  europe: 100*(europeData.filter(val=>val.videos.lenght>0).lenght / euoropeData.lenght)
 };
 
 
