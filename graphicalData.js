@@ -21,9 +21,8 @@ var regionData = {
   newEngland: 100*(newEnglandData.filter(val=>val.videos.length>0).length / newEnglandData.length),
   midAtlantic: 100*(midAtlanticData.filter(val=>val.videos.length>0).length / midAtlanticData.length),
   southeast: 100*(southeastData.filter(val=>val.videos.length>0).length / southeastData.length),
-  asia: 100*(asiaData.filter(val=>val.videos.length>0).length / asia.length),
-  europe: 100*(europeData.filter(val=>val.videos.length>0).length / europe.length)
-
+  asia: 100*(asiaData.filter(val=>val.videos.length>0).length / asia.length)
+  
 };
 
 // Percentage Complete by State
