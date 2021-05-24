@@ -424,9 +424,7 @@ var allData = [
     "state": "Massachusetts",
     "region": "New England",
     "city": "Hancock",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.55537784801918,
       "lng": -73.2922293595082
@@ -972,9 +970,7 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Peru",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.21361675115109,
       "lng": -72.9349254241979
@@ -1071,9 +1067,7 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Killington",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.626463482520855,
       "lng": -72.79673079000918
@@ -1087,9 +1081,7 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Killington",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.646509245137636,
       "lng": -72.7896801091444
@@ -1173,9 +1165,7 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "West Dover",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.969241583262686,
       "lng": -72.89617860130123
@@ -1345,9 +1335,7 @@ var allData = [
     "state": "New Jersey",
     "region": "Mid-Atlantic",
     "city": "East Rutherford (indoor)",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 40.80972110512825,
       "lng": -74.07089431436135
@@ -1363,9 +1351,7 @@ var allData = [
     "state": "New Jersey",
     "region": "Mid-Atlantic",
     "city": "Mahwah",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.059356280224485,
       "lng": -74.19500664495334
@@ -1421,9 +1407,7 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Highmount",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.14197859167307,
       "lng": -74.50222554454848
@@ -1521,9 +1505,7 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "North Creek",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.67414698551106,
       "lng": -74.00667386724834
@@ -1607,9 +1589,7 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Hunter",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.20377699301453,
       "lng": -74.22450818315733
@@ -1819,9 +1799,7 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Glens Falls",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.286431660901286,
       "lng": -73.72507045205768
@@ -1849,9 +1827,7 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Wilmington",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 44.35393325780303,
       "lng": -73.86172634787795
@@ -1865,9 +1841,7 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Windham",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.299825491696716,
       "lng": -74.25610128421872
@@ -2245,9 +2219,7 @@ var allData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Blowing Rock",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 36.173468638681165,
       "lng": -81.66401347733257
@@ -2289,9 +2261,7 @@ var allData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Beech Mountain",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 36.195625208901824,
       "lng": -81.87785788527373
@@ -2305,9 +2275,7 @@ var allData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Sugar Mountain",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 36.13369100484302,
       "lng": -81.86734557268886
@@ -2405,10 +2373,7 @@ var allData = [
     "state": "Virginia",
     "region": "Southeast",
     "city": "Lynchburg",
-    "videos": [
-      "",
-     
-    ],
+    "videos": [],
     "position": {
       "lat": 37.352932264382524,
       "lng": -79.16673525951036
@@ -3178,9 +3143,7 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Afton",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 44.86061008777023,
       "lng": -92.78835875081165
@@ -3208,9 +3171,7 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Burnsville",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 44.724632484858674,
       "lng": -93.28610667422542
@@ -3294,10 +3255,7 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Bloomington",
-    "videos": [
-      "",
-    
-    ],
+    "videos": [],
     "position": {
       "lat": 44.84426865923526,
       "lng": -93.36352519746762
@@ -3313,9 +3271,7 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Maple Grove",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 45.13950018178829,
       "lng": -93.43891807280477
@@ -3427,9 +3383,7 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Taylors Falls",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 45.48953553300454,
       "lng": -92.70552080460024
@@ -3443,10 +3397,7 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Minneapolis",
-    "videos": [
-      "",
-      
-    ],
+    "videos": [],
     "position": {
       "lat": 44.79138856443794,
       "lng": -93.48308841164287
@@ -3642,10 +3593,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "East Troy",
-    "videos": [
-      "",
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.73670694583553,
       "lng": -88.427878267612
@@ -3745,9 +3693,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Portage",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.50425333584542,
       "lng": -89.51734275936641
@@ -3789,9 +3735,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Franklin",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.9207217405258,
       "lng": -88.01520287205463
@@ -3833,9 +3777,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Wausau",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 44.931659282795586,
       "lng": -89.68308064152886
@@ -3905,9 +3847,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Slinger",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.338604524942745,
       "lng": -88.27885529515784
@@ -3991,9 +3931,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Mount Morris",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 44.11923485005523,
       "lng": -89.17608896360498
@@ -4049,9 +3987,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Kewaskum",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.49465171657186,
       "lng": -88.2239641104351
@@ -4093,9 +4029,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Dresser",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 45.35185842666144,
       "lng": -92.61822227100298
@@ -4109,9 +4043,7 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Mount Horeb",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.04493589100869,
       "lng": -89.78393716459492
@@ -4223,9 +4155,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Keystone",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.642685273554704,
       "lng": -105.87192897305502
@@ -4295,9 +4225,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Beaver Creek",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.604468135598864,
       "lng": -106.51679673257871
@@ -4311,9 +4239,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Breckenridge",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.48049884182705,
       "lng": -106.06667208881282
@@ -4343,9 +4269,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Copper Mountain",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.50236230347042,
       "lng": -106.14973588840155
@@ -4359,9 +4283,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Gunnison",
-    "videos": [
-      "7"
-    ],
+    "videos": [],
     "position": {
       "lat": 38.587159592238294,
       "lng": -106.89600754424221
@@ -4389,9 +4311,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Evergreen",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.68472204161028,
       "lng": -105.51940353072584
@@ -4405,9 +4325,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Eldora",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.93740125815273,
       "lng": -105.58259277119723
@@ -4435,9 +4353,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Steamboat Springs",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 40.48357228637695,
       "lng": -106.83796137303607
@@ -4465,9 +4381,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Keystone",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.60856586489557,
       "lng": -105.94363711538396
@@ -4497,9 +4411,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Georgetown",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.68021913649513,
       "lng": -105.89798941723349
@@ -4513,9 +4425,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Salida",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 38.51229014611595,
       "lng": -106.33198263075141
@@ -4571,10 +4481,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Ouray",
-    "videos": [
-      "LFPk8tirHl8",
-      "FK3LaCiJ0IY"
-    ],
+    "videos": [],
     "position": {
       "lat": 38.01938861057263,
       "lng": -107.66914151607332
@@ -4588,16 +4495,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Silverton",
-    "videos": [
-      "E5VMAqSPTe8",
-      "V727drc0E8k",
-      "pCLVipvn2Zs",
-      "gY7ZEkHocWU",
-      "et1kev7SItY",
-      "0ko1FQgcUos",
-      "sQodqgFFSlo",
-      "i-GmeOffDlo"
-    ],
+    "videos": [],
     "position": {
       "lat": 37.88476886631995,
       "lng": -107.66585462891373
@@ -4611,12 +4509,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Leadville",
-    "videos": [
-      "JQnkiIR__hw",
-      "O9VQLnjHn54",
-      "WDWstwmxBGo",
-      "AAo147A-G_0"
-    ],
+    "videos": [],
     "position": {
       "lat": 39.36036098452235,
       "lng": -106.30131625586652
@@ -4644,14 +4537,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Steamboat Springs",
-    "videos": [
-      "dkac4hATPoc",
-      "beQpaB25oTk",
-      "QAeZMK63pQw",
-      "OdEqDcpYi-U",
-      "bnY2u6lip84",
-      "Fb2IkeovOMg"
-    ],
+    "videos": [],
     "position": {
       "lat": 40.45904915460927,
       "lng": -106.80461955812207
@@ -4679,9 +4565,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Telluride",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 37.941558807472155,
       "lng": -107.84789172323913
@@ -4695,9 +4579,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Vail",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.60632623071879,
       "lng": -106.35501461723521
@@ -4711,9 +4593,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Winter Park",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.887020291324646,
       "lng": -105.76248800188542
@@ -4727,9 +4607,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Pagosa Springs",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 37.47244179734956,
       "lng": -106.79304353077356
@@ -4744,9 +4622,7 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Georgetown",
     "officialSkiResort": false,
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.664983552666754,
       "lng": -105.8787492562817
@@ -4757,9 +4633,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Idaho Springs",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.83477566710968,
       "lng": -105.64599881875618
@@ -4773,9 +4647,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Colorado Springs",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 38.86038034391107,
       "lng": -104.79821295754127
@@ -4789,9 +4661,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Leadville",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.23879814438246, 
       "lng": -106.30335758286941
@@ -4805,9 +4675,7 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Near Breckenridge",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.36182990162865,
       "lng": -106.06250200741185
@@ -4822,9 +4690,7 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Summit County",
     "officialSkiResort": false,
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.59955455089273,
       "lng": -106.09567554187014
@@ -4838,9 +4704,7 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Denver",
     "officialSkiResort": false,
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.68836495750509,
       "lng": -105.00359721854255
@@ -4854,9 +4718,7 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Frisco",
     "officialSkiResort": true,
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.574141958565235,
       "lng": -106.07759352892558
@@ -4870,9 +4732,7 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Silverthorne",
     "officialSkiResort": false,
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.616663843391365,
       "lng": -106.14252201307508
@@ -4884,9 +4744,7 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Silverthorne",
     "officialSkiResort": false,
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.52935522361592,
       "lng": -106.21762991587998
@@ -4911,9 +4769,7 @@ var allData = [
     "state": "Idaho",
     "region": "Rocky Mountains",
     "city": "Boise",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.765418699699026,
       "lng": -116.10235942063434
@@ -5544,9 +5400,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Big Cottonwood Canyon",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 40.59838410945486,
       "lng": -111.58319284282311
@@ -5617,9 +5471,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Park City",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 40.653755293189285,
       "lng": -111.50955073373208
@@ -5635,9 +5487,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Park City",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 40.75506564993516,
       "lng": -111.58585457671353
@@ -5651,9 +5501,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Eden",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.37994174775305,
       "lng": -111.78019592340156
@@ -5667,9 +5515,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Huntsville",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.21325108120479,
       "lng": -111.85333347301953
@@ -5683,9 +5529,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Snowbird",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 40.581599711175265,
       "lng": -111.65631945992962
@@ -5699,9 +5543,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Big Cottonwood Canyon",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 40.62001485269844,
       "lng": -111.59191718837644
@@ -5771,9 +5613,7 @@ var allData = [
     "state": "Wyoming",
     "region": "Rocky Mountains",
     "city": "Teton Village",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.59828801471585,
       "lng": -110.84759647219776
@@ -5829,9 +5669,7 @@ var allData = [
     "state": "Wyoming",
     "region": "Rocky Mountains",
     "city": "Centennial",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.34136677078399,
       "lng": -106.18344170000124
@@ -5859,9 +5697,7 @@ var allData = [
     "state": "Wyoming",
     "region": "Rocky Mountains",
     "city": "Cody",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 44.989197128932155,
       "lng": -109.43696394899811
@@ -6043,9 +5879,7 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Big Bear Lake",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 34.22911371690905,
       "lng": -116.86084113187107
@@ -6157,9 +5991,7 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "South Lake Tahoe",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 38.93578766770377,
       "lng": -119.93972411256449
@@ -6201,9 +6033,7 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Kirkwood",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 38.68491887730613,
       "lng": -120.06517723074771
@@ -6217,9 +6047,7 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Mammoth Lakes",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 37.651960114071905,
       "lng": -119.02685323665459
@@ -6275,9 +6103,7 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Wrightwood",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 34.377172008800834,
       "lng": -117.69144910014853
@@ -6291,9 +6117,7 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Truckee",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.27475880391958,
       "lng": -120.12112558840658
@@ -6365,9 +6189,7 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Olympic Valley",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 39.20021431848183,
       "lng": -120.23718191472324
@@ -6423,9 +6245,7 @@ var allData = [
     "state": "Nevada",
     "region": "West Coast",
     "city": "Las Vegas",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 36.303883351345306,
       "lng": -115.67969707497707
@@ -6621,9 +6441,7 @@ var allData = [
     "state": "Oregon",
     "region": "West Coast",
     "city": "Government Camp",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 45.33131664034,
       "lng": -121.71099567291978
@@ -6695,9 +6513,7 @@ var allData = [
     "state": "Washington",
     "region": "West Coast",
     "city": "near Enumclaw",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 46.935457448813246,
       "lng": -121.47477475938616
@@ -6879,9 +6695,7 @@ var allData = [
     "state": "Washington",
     "region": "West Coast",
     "city": "Snoqualmie Pass",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 47.4103197355071,
       "lng": -121.41349281526888
@@ -6951,9 +6765,7 @@ var allData = [
     "state": "Washington",
     "region": "West Coast",
     "city": "McChord AFB",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 47.129648041353164,
       "lng": -122.52345578183599
