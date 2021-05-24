@@ -11,6 +11,8 @@ var newEnglandData = allData.filter(val=>val.region==='New England' && val.offic
 var midAtlanticData = allData.filter(val=>val.region==='Mid-Atlantic' && val.officialSkiResort);
 var southeastData = allData.filter(val=>val.region==='Southeast' && val.officialSkiResort);
 var coloradoData = allData.filter(val=>val.state==='Colorado' && val.officialSkiResort);
+var asiaData = allData.filter(val=>val.region==='Asia' && val.officialSkiResort);
+var europeData = allData.filter(val=>val.region==='Europe' && val.officialSkiResort),
 
 
 
@@ -21,8 +23,8 @@ var regionData = {
   newEngland: 100*(newEnglandData.filter(val=>val.videos.length>0).length / newEnglandData.length),
   midAtlantic: 100*(midAtlanticData.filter(val=>val.videos.length>0).length / midAtlanticData.length),
   southeast: 100*(southeastData.filter(val=>val.videos.length>0).length / southeastData.length),
-  
-  
+  asia : 100*(asiaData.filter(val=>val.videos.length>0).length / asiaData.length),
+  europe : 100*(europeData.filter(val=>val.videos.length>0).length / europeData.length),
 };
 
 // Percentage Complete by State
