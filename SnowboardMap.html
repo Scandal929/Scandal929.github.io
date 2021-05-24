@@ -182,10 +182,10 @@
                      <span>{{data.resortName}}</span>
                      <!-- <span ng-show="!data.officialSkiResort">(unofficial ski resort)</span> -->
                   </td>
-                  <td>{{data.country}}</td>
                   <td>{{data.region}}</td>
                   <td>{{data.state}}</td>
                   <td>{{data.city}}</td>
+
                   <!-- <a ng-href="http://www.gravatar.com/avatar/{{hash}}">link1</a> -->
                   <td> 
                      <span ng-show="data.videos.length===0">{{data.videos.length}}</span>
@@ -414,8 +414,11 @@
             'Southeast': 'yellow',
             'Midwest': 'green',
             'Rocky Mountains': 'blue',
-            'West Coast': 'purple'
+            'West Coast': 'purple',
+            'Asia': 'Black',
+            'Europe': 'Pink',
          }
+         
          // Loop over geo json data
          for (var i=0; i<geoJsonData.features.length; i++) {
             var geoColor = regionColor[geoJsonData.features[i].properties.region];
