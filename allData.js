@@ -12,7 +12,7 @@
 //       }
 //   }  
 // }
-var lastUpdated = '05/18/2021';
+var lastUpdated = '05/24/2021';
 var allData = [
   {
     "resortName": "Mohawk Mountain Ski Area",
