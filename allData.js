@@ -7817,20 +7817,6 @@ var allData = [
     "website": "https://www.grand-hirafu.jp/winter/en/"
   },
   {
-    "resortName": "St. Moritz",
-    "state": "Switzerland",
-    "region": "Europe",
-    "city": "Engadin",
-    "videos": [],
-    "position": {
-      "lat": 46.5174107,
-      "lng": 9.7378703
-    },
-    "officialSkiResort": true,
-    "id": "1002",
-    "website": "https://www.stmoritz.com/en/ski-alpine/"
-  },
-  {
     "resortName": "McChord Skatepark",
     "state": "Washington",
     "region": "West Coast",
