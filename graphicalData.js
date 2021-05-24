@@ -21,7 +21,7 @@ var regionData = {
   newEngland: 100*(newEnglandData.filter(val=>val.videos.length>0).length / newEnglandData.length),
   midAtlantic: 100*(midAtlanticData.filter(val=>val.videos.length>0).length / midAtlanticData.length),
   southeast: 100*(southeastData.filter(val=>val.videos.length>0).length / southeastData.length),
-  asia: 100*(asiaData.filter(val=>val.videos.length>0).length / asia.length)
+  
   
 };
 
@@ -113,7 +113,7 @@ var europeData = allData.filter(val=>val.state==='Europe' && val.officialSkiReso
 
 var countryData = {
   asia: 100*(asiatData.filter(val=>val.videos.length>0).length / asiaData.length),
-  europe: 100*(europeData.filter(val=>val.videos.lenght>0).lenght / euoropeData.lenght)
+  europe: 100*(europeData.filter(val=>val.videos.lenght>0).lenght / europeData.lenght)
 };
 
 
