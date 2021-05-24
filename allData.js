@@ -7803,20 +7803,6 @@ var allData = [
     "website": "http://www.skiwhitepass.com"
   },
   {
-    "resortName": "Grand Hirafu",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Niseko",
-    "videos": [],
-    "position": {
-      "lat": 42.8618697,
-      "lng": 140.6963752
-    },
-    "officialSkiResort": true,
-    "id": "1001",
-    "website": "https://www.grand-hirafu.jp/winter/en/"
-  },
-  {
     "resortName": "McChord Skatepark",
     "state": "Washington",
     "region": "West Coast",

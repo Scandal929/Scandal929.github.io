@@ -20,8 +20,7 @@ var regionData = {
   rockyMountain: 100*(rockyMountainData.filter(val=>val.videos.length>0).length / rockyMountainData.length),
   newEngland: 100*(newEnglandData.filter(val=>val.videos.length>0).length / newEnglandData.length),
   midAtlantic: 100*(midAtlanticData.filter(val=>val.videos.length>0).length / midAtlanticData.length),
-  southeast: 100*(southeastData.filter(val=>val.videos.length>0).length / southeastData.length),
-  asia: 100*(asiaData.filter(val=>val.videos.length>0).length / asia.length)
+  southeast: 100*(southeastData.filter(val=>val.videos.length>0).length / southeastData.length)
 
 };
 
