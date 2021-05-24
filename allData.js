@@ -973,7 +973,7 @@ var allData = [
     "region": "New England",
     "city": "Peru",
     "videos": [
-      "MDIUtXK_vDg"
+      ""
     ],
     "position": {
       "lat": 43.21361675115109,
@@ -1072,7 +1072,7 @@ var allData = [
     "region": "New England",
     "city": "Killington",
     "videos": [
-      "ZOeCwntoVtE"
+      ""
     ],
     "position": {
       "lat": 43.626463482520855,
@@ -1088,7 +1088,7 @@ var allData = [
     "region": "New England",
     "city": "Killington",
     "videos": [
-      "Ym2MVTRKNPY"
+      ""
     ],
     "position": {
       "lat": 43.646509245137636,
@@ -1174,10 +1174,7 @@ var allData = [
     "region": "New England",
     "city": "West Dover",
     "videos": [
-      "SvYeSrOyf_c",
-      "-mvFOkabbl0",
-      "_87dos9R-v4",
-      "DsWE-5wW1hg"
+      ""
     ],
     "position": {
       "lat": 42.969241583262686,
@@ -1349,14 +1346,7 @@ var allData = [
     "region": "Mid-Atlantic",
     "city": "East Rutherford (indoor)",
     "videos": [
-      "-vhU47d1AGk",
-      "gpsfxa1XqPc",
-      "mem-CIP2YtY",
-      "y-ItqbR7lRY",
-      "SiGuxDeDSeY",
-      "ICwfoylK4QI",
-      "uUNJzdFcVT4",
-      "XzHfvMMrY4E"
+      ""
     ],
     "position": {
       "lat": 40.80972110512825,
@@ -1374,7 +1364,7 @@ var allData = [
     "region": "Mid-Atlantic",
     "city": "Mahwah",
     "videos": [
-      "WaGdIsCQdvc"
+      ""
     ],
     "position": {
       "lat": 41.059356280224485,
@@ -1432,7 +1422,7 @@ var allData = [
     "region": "Mid-Atlantic",
     "city": "Highmount",
     "videos": [
-      "UOMfbbJoK6Y"
+      ""
     ],
     "position": {
       "lat": 42.14197859167307,
@@ -1532,7 +1522,7 @@ var allData = [
     "region": "Mid-Atlantic",
     "city": "North Creek",
     "videos": [
-      "aSBHRrFU1Og"
+      ""
     ],
     "position": {
       "lat": 43.67414698551106,
@@ -1618,7 +1608,7 @@ var allData = [
     "region": "Mid-Atlantic",
     "city": "Hunter",
     "videos": [
-      "PiA0bdO8tAI"
+      ""
     ],
     "position": {
       "lat": 42.20377699301453,
@@ -1860,7 +1850,7 @@ var allData = [
     "region": "Mid-Atlantic",
     "city": "Wilmington",
     "videos": [
-      "g-ZA8FpJCnU"
+      ""
     ],
     "position": {
       "lat": 44.35393325780303,
@@ -1876,7 +1866,7 @@ var allData = [
     "region": "Mid-Atlantic",
     "city": "Windham",
     "videos": [
-      "b8025jQTa68"
+      ""
     ],
     "position": {
       "lat": 42.299825491696716,
@@ -2073,7 +2063,7 @@ var allData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Carroll Valley",
-    "videos": [],
+    "videos": ["cFmGmNJYRaw"],
     "position": {
       "lat": 39.76445139227571,
       "lng": -77.37545903008194
@@ -2256,7 +2246,7 @@ var allData = [
     "region": "Southeast",
     "city": "Blowing Rock",
     "videos": [
-      "_AnRnjuJNXo"
+      ""
     ],
     "position": {
       "lat": 36.173468638681165,
@@ -2416,13 +2406,8 @@ var allData = [
     "region": "Southeast",
     "city": "Lynchburg",
     "videos": [
-      "A6MUhNr2Mxk",
-      "jqBUm4poIQk",
-      "6I4O4VGj-NQ",
-      "B_rNQNIoBLU",
-      "8Ua7njpZBLc",
-      "rkA9nxTJIvU",
-      "TW_aCTT7UYw"
+      "",
+     
     ],
     "position": {
       "lat": 37.352932264382524,
@@ -3224,7 +3209,7 @@ var allData = [
     "region": "Midwest",
     "city": "Burnsville",
     "videos": [
-      "uQ4_fewP7-Q"
+      ""
     ],
     "position": {
       "lat": 44.724632484858674,
@@ -3310,10 +3295,8 @@ var allData = [
     "region": "Midwest",
     "city": "Bloomington",
     "videos": [
-      "piO2Qq-UJu0",
-      "NfBk_WQM7PM",
-      "gcvMTBF3lYU",
-      "SdhESMcpxnk"
+      "",
+    
     ],
     "position": {
       "lat": 44.84426865923526,
@@ -3331,7 +3314,7 @@ var allData = [
     "region": "Midwest",
     "city": "Maple Grove",
     "videos": [
-      "MAjfZMHFlmk"
+      ""
     ],
     "position": {
       "lat": 45.13950018178829,
@@ -3445,7 +3428,7 @@ var allData = [
     "region": "Midwest",
     "city": "Taylors Falls",
     "videos": [
-      "n2rGN_94J1w"
+      ""
     ],
     "position": {
       "lat": 45.48953553300454,
@@ -3461,10 +3444,8 @@ var allData = [
     "region": "Midwest",
     "city": "Minneapolis",
     "videos": [
-      "gVM7nEv3JJE",
-      "d8F0eSxoFWE",
-      "U2kyDWcnBWw",
-      "a3FuRWAuC0A"
+      "",
+      
     ],
     "position": {
       "lat": 44.79138856443794,
@@ -3662,8 +3643,8 @@ var allData = [
     "region": "Midwest",
     "city": "East Troy",
     "videos": [
-      "jpFaLyNq-qI",
-      "6a--suhNwak"
+      "",
+      ""
     ],
     "position": {
       "lat": 42.73670694583553,
@@ -3672,7 +3653,7 @@ var allData = [
     "officialSkiResort": true,
     "id": "169",
     "resortReviewScore": "49",
-    "resortReviewLink": "6a--suhNwak",
+    "resortReviewLink": "",
     "website": "https://www.alpinevalleyresort.com/"
   },
   {
