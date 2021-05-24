@@ -182,7 +182,6 @@
                      <span>{{data.resortName}}</span>
                      <!-- <span ng-show="!data.officialSkiResort">(unofficial ski resort)</span> -->
                   </td>
-                  <td>{{data.country}}</td>
                   <td>{{data.region}}</td>
                   <td>{{data.state}}</td>
                   <td>{{data.city}}</td>
@@ -414,8 +413,11 @@
             'Southeast': 'yellow',
             'Midwest': 'green',
             'Rocky Mountains': 'blue',
-            'West Coast': 'purple'
+            'West Coast': 'purple',
+            'Asia': 'Black',
+            'Europe': 'Pink',
          }
+         
          // Loop over geo json data
          for (var i=0; i<geoJsonData.features.length; i++) {
             var geoColor = regionColor[geoJsonData.features[i].properties.region];
