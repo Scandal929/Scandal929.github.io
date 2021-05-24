@@ -7803,6 +7803,34 @@ var allData = [
     "website": "http://www.skiwhitepass.com"
   },
   {
+    "resortName": "Grand Hirafu",
+    "state": "Japan",
+    "region": "Asia",
+    "city": "Niseko",
+    "videos": [],
+    "position": {
+      "lat": 42.8618697,
+      "lng": 140.6963752
+    },
+    "officialSkiResort": true,
+    "id": "1001",
+    "website": "https://www.grand-hirafu.jp/winter/en/"
+  },
+  {
+    "resortName": "St. Moritz",
+    "state": "Switzerland",
+    "region": "Europe",
+    "city": "Engadin",
+    "videos": [],
+    "position": {
+      "lat": 46.5174107,
+      "lng": 9.7378703
+    },
+    "officialSkiResort": true,
+    "id": "1002",
+    "website": "https://www.stmoritz.com/en/ski-alpine/"
+  },
+  {
     "resortName": "McChord Skatepark",
     "state": "Washington",
     "region": "West Coast",
