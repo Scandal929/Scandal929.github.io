@@ -7265,9 +7265,7 @@ var allData = [
     "region": "West Coast",
     "city": "Las Vegas",
     "videos": [
-      "FOHDFI5JmcU",
-      "5wfE3GL8tQ4",
-      "PlwA08EGj20"
+      ""
     ],
     "position": {
       "lat": 36.303883351345306,
