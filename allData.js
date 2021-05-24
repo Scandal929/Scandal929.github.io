@@ -5476,8 +5476,6 @@ var allData = [
       "lat": 40.653755293189285,
       "lng": -111.50955073373208
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "229",
     "website": "http://parkcitymountain.com"
