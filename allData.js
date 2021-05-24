@@ -1170,8 +1170,8 @@ var allData = [
       "lat": 42.969241583262686,
       "lng": -72.89617860130123
     },
-    "resortReviewScore": [],
-    "resortReviewLink": "SvYeSrOyf_c",
+    "resortReviewScore": "N/A",
+    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "210",
     "website": "http://mountsnow.com/"
@@ -1340,8 +1340,8 @@ var allData = [
       "lat": 40.80972110512825,
       "lng": -74.07089431436135
     },
-    "resortReviewScore": [],
-    "resortReviewLink": "gpsfxa1XqPc",
+    "resortReviewScore": "N/A",
+    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "2658",
     "website": "https://www.bigsnowamericandream.com/"
@@ -3260,8 +3260,8 @@ var allData = [
       "lat": 44.84426865923526,
       "lng": -93.36352519746762
     },
-    "resortReviewScore": [],
-    "resortReviewLink": "NfBk_WQM7PM",
+    "resortReviewScore": "N/A",
+    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "389",
     "website": "http://hylandski.com/"
@@ -3600,8 +3600,8 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "169",
-    "resortReviewScore": [],
-    "resortReviewLink": "",
+    "resortReviewScore": "N/A",
+    "resortReviewLink": [],
     "website": "https://www.alpinevalleyresort.com/"
   },
   {
@@ -4244,8 +4244,8 @@ var allData = [
       "lat": 39.48049884182705,
       "lng": -106.06667208881282
     },
-    "resortReviewScore": [],
-    "resortReviewLink": "_tSdgrJk3h8",
+    "resortReviewScore": "N/A",
+    "resortReviewLink":  [],
     "officialSkiResort": true,
     "id": "510",
     "website": "https://www.breckenridge.com/"
@@ -4386,8 +4386,8 @@ var allData = [
       "lat": 39.60856586489557,
       "lng": -105.94363711538396
     },
-    "resortReviewLink": "28gC3Ea-imo",
-    "resortReviewScore": [],
+    "resortReviewLink": [],
+    "resortReviewScore": "N/A",
     "officialSkiResort": true,
     "id": "519",
     "website": "http://www.keystone.snow.com"
@@ -5476,8 +5476,8 @@ var allData = [
       "lat": 40.653755293189285,
       "lng": -111.50955073373208
     },
-    "resortReviewScore": [],
-    "resortReviewLink": "sq_LFhyqXbg",
+    "resortReviewScore": "N/A",
+    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "229",
     "website": "http://parkcitymountain.com"
@@ -6122,8 +6122,8 @@ var allData = [
       "lat": 39.27475880391958,
       "lng": -120.12112558840658
     },
-    "resortReviewScore": [],
-    "resortReviewLink": "PXdEWAuTKEU",
+    "resortReviewScore": "N/A",
+    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "531",
     "website": "http://www.northstarcalifornia.com"
@@ -6447,8 +6447,8 @@ var allData = [
       "lng": -121.71099567291978
     },
     "officialSkiResort": true,
-    "resortReviewScore": [],
-    "resortReviewLink": "2AgHpI1Tab8",
+    "resortReviewScore": "N/A",
+    "resortReviewLink": [],
     "id": "5019",
     "website": "https://www.timberlinelodge.com"
   },
