@@ -1170,7 +1170,7 @@ var allData = [
       "lat": 42.969241583262686,
       "lng": -72.89617860130123
     },
-    "resortReviewScore": "56",
+    "resortReviewScore": [],
     "resortReviewLink": "SvYeSrOyf_c",
     "officialSkiResort": true,
     "id": "210",
@@ -1340,7 +1340,7 @@ var allData = [
       "lat": 40.80972110512825,
       "lng": -74.07089431436135
     },
-    "resortReviewScore": "47",
+    "resortReviewScore": [],
     "resortReviewLink": "gpsfxa1XqPc",
     "officialSkiResort": true,
     "id": "2658",
@@ -3260,7 +3260,7 @@ var allData = [
       "lat": 44.84426865923526,
       "lng": -93.36352519746762
     },
-    "resortReviewScore": "55",
+    "resortReviewScore": [],
     "resortReviewLink": "NfBk_WQM7PM",
     "officialSkiResort": true,
     "id": "389",
@@ -3600,7 +3600,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "169",
-    "resortReviewScore": "49",
+    "resortReviewScore": [],
     "resortReviewLink": "",
     "website": "https://www.alpinevalleyresort.com/"
   },
@@ -4244,7 +4244,7 @@ var allData = [
       "lat": 39.48049884182705,
       "lng": -106.06667208881282
     },
-    "resortReviewScore": "72",
+    "resortReviewScore": [],
     "resortReviewLink": "_tSdgrJk3h8",
     "officialSkiResort": true,
     "id": "510",
@@ -4387,7 +4387,7 @@ var allData = [
       "lng": -105.94363711538396
     },
     "resortReviewLink": "28gC3Ea-imo",
-    "resortReviewScore": "69",
+    "resortReviewScore": [],
     "officialSkiResort": true,
     "id": "519",
     "website": "http://www.keystone.snow.com"
@@ -5476,7 +5476,7 @@ var allData = [
       "lat": 40.653755293189285,
       "lng": -111.50955073373208
     },
-    "resortReviewScore": "74",
+    "resortReviewScore": [],
     "resortReviewLink": "sq_LFhyqXbg",
     "officialSkiResort": true,
     "id": "229",
@@ -6122,7 +6122,7 @@ var allData = [
       "lat": 39.27475880391958,
       "lng": -120.12112558840658
     },
-    "resortReviewScore": "62",
+    "resortReviewScore": [],
     "resortReviewLink": "PXdEWAuTKEU",
     "officialSkiResort": true,
     "id": "531",
@@ -6447,7 +6447,7 @@ var allData = [
       "lng": -121.71099567291978
     },
     "officialSkiResort": true,
-    "resortReviewScore": "(Summer) 71",
+    "resortReviewScore": [],
     "resortReviewLink": "2AgHpI1Tab8",
     "id": "5019",
     "website": "https://www.timberlinelodge.com"
