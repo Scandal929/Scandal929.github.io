@@ -1122,7 +1122,6 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Fayston (ski only)",
-    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 44.202645696018386,
