@@ -6784,8 +6784,6 @@ var allData = [
     "website": "https://www.grand-hirafu.jp/winter/"
     },
     {
-    "officialSkiResort": true,
-    "id": "1001",
     "resortName": "Mt Hutt",
     "state": "New Zealand",
     "region": "Oceania",
