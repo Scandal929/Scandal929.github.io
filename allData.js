@@ -6784,7 +6784,7 @@ var allData = [
     "website": "https://www.grand-hirafu.jp/winter/"
     },
     {
-    "resortName": "Mt Hutt",
+    "resortName": "Mt. Hutt",
     "state": "New Zealand",
     "region": "Oceania",
     "city": "Methven",
@@ -6794,7 +6794,7 @@ var allData = [
       "lng": 171.5176679
     },
     "officialSkiResort": true,
-    "id": "1002",
+    "id": "1003",
     "website": "https://www.mthutt.co.nz/"
   }
 ];
