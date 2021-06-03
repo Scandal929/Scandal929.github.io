@@ -1917,7 +1917,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "14439",
-    "website": "https://www.aalski.no/"
+    "website": "https://blueknob.com/"
   },
   {
     "resortName": "Blue Mountain Ski Area",
@@ -6768,5 +6768,35 @@ var allData = [
       "lng": -122.52345578183599
     },
     "officialSkiResort": false
+  },
+  {
+    "resortName": "Grand Hirafu",
+    "state": "Japan",
+    "region": "Asia",
+    "city": "Niseko",
+    "videos": [],
+    "position": {
+      "lat": 42.8618697,
+      "lng": 140.6963752
+    },
+    "officialSkiResort": true,
+    "id": "1001",
+    "website": "https://www.grand-hirafu.jp/winter/"
+    },
+    {
+    "officialSkiResort": true,
+    "id": "1001",
+    "resortName": "Mt Hutt",
+    "state": "New Zealand",
+    "region": "Oceania",
+    "city": "Methven",
+    "videos": [],
+    "position": {
+      "lat": -43.47165,
+      "lng": 171.5176679
+    },
+    "officialSkiResort": true,
+    "id": "1002",
+    "website": "https://www.mthutt.co.nz/"
   }
 ];
