@@ -5355,7 +5355,7 @@ var allData = [
     "resortName": "Alta",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Alta (ski only)",
+    "city": "Alta",
     "skiOnly": true,
     "videos": [],
     "position": {
@@ -5426,7 +5426,7 @@ var allData = [
     "resortName": "Deer Valley",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Park City (ski only)",
+    "city": "Park City",
     "skiOnly": true,
     "videos": [],
     "position": {
