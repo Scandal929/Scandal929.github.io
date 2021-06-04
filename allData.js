@@ -6744,6 +6744,34 @@ var allData = [
     "website": "https://www.grand-hirafu.jp/winter/en/"
   },
   {
+    "resortName": "Hakuba Happo-One",
+    "state": "Japan",
+    "region": "Asia",
+    "city": "Hakuba",
+    "videos": [],
+    "position": {
+      "lat": 36.6909153,
+      "lng": 137.7755379
+    },
+    "officialSkiResort": true,
+    "id": "1009",
+    "website": "https://www.happo-one.jp/en/"
+  },
+  {
+    "resortName": "Hakuba Sanosaka",
+    "state": "Japan",
+    "region": "Asia",
+    "city": "Hakuba",
+    "videos": [],
+    "position": {
+      "lat": 36.629392,
+      "lng": 137.7716392
+    },
+    "officialSkiResort": true,
+    "id": "1010",
+    "website": "https://sanosaka.jp/"
+  },
+  {  
     "resortName": "St. Moritz",
     "state": "Switzerland",
     "region": "Europe",
