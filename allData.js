@@ -6770,20 +6770,6 @@ var allData = [
     "officialSkiResort": false
   },
   {
-    "resortName": "Grand Hirafu",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Niseko",
-    "videos": [],
-    "position": {
-      "lat": 42.8618697,
-      "lng": 140.6963752
-    },
-    "officialSkiResort": true,
-    "id": "1001",
-    "website": "https://www.grand-hirafu.jp/winter/"
-    },
-    {
     "resortName": "Mt. Hutt",
     "state": "New Zealand",
     "region": "Oceania",
