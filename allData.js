@@ -6731,7 +6731,8 @@ var allData = [
   },
   {
     "resortName": "Grand Hirafu",
-    "state": "Japan",
+    "country": "Japan",
+    "state":[],
     "region": "Asia",
     "city": "Niseko",
     "videos": [],
@@ -6773,7 +6774,8 @@ var allData = [
   },
   {  
     "resortName": "St. Moritz",
-    "state": "Switzerland",
+    "country": "Switzerland",
+    "state":[],
     "region": "Europe",
     "city": "Engadin",
     "videos": [],
@@ -6799,7 +6801,8 @@ var allData = [
   },
   {
     "resortName": "Mt. Hutt",
-    "state": "New Zealand",
+    "country": "New Zealand",
+    "state": [],
     "region": "Oceania",
     "city": "Methven",
     "videos": [],
