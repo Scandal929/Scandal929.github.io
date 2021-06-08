@@ -148,6 +148,15 @@
                      </a>
                   </th>
                   <th>
+                     <a ng-click="orderByField='country'; reverseSort = !reverseSort">
+                        <span>Country</span> 
+                        <span ng-show="orderByField == 'country'">
+                           <span ng-show="!reverseSort"><i class="fa fa-caret-up"></i></span>
+                           <span ng-show="reverseSort"><i class="fa fa-caret-down"></i></span>
+                        </span>
+                     </a>
+                  </th>
+                  <th>
                      <a ng-click="orderByField='city'; reverseSort = !reverseSort">
                         <span>City</span> 
                         <span ng-show="orderByField == 'city'">
@@ -185,6 +194,7 @@
                   <td>{{data.region}}</td>
                   <td>{{data.state}}</td>
                   <td>{{data.city}}</td>
+                  <td>{{data.country}}</td>
 
                   <!-- <a ng-href="http://www.gravatar.com/avatar/{{hash}}">link1</a> -->
                   <td> 
