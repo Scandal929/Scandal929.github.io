@@ -6746,7 +6746,8 @@ var allData = [
   },
   {
     "resortName": "Hakuba Happo-One",
-    "state": "Japan",
+    "country":"Japan",
+    "state": "",
     "region": "Asia",
     "city": "Hakuba",
     "videos": [],
@@ -6760,7 +6761,8 @@ var allData = [
   },
   {
     "resortName": "Hakuba Sanosaka",
-    "state": "Japan",
+    "country": "Japan",
+    "state": "",
     "region": "Asia",
     "city": "Hakuba",
     "videos": [],
