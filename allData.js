@@ -1122,6 +1122,7 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Fayston (ski only)",
+    "ski only": true,
     "videos": [],
     "position": {
       "lat": 44.202645696018386,
@@ -5364,7 +5365,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "14439",
-    "website": "https://www.aalski.no/"
+    "website": "https://www.alta.com/"
   },
   {
     "resortName": "Beaver Mountain",
