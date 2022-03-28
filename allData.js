@@ -1122,7 +1122,7 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Fayston (ski only)",
-    "ski only": true,
+    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 44.202645696018386,
@@ -5356,7 +5356,7 @@ var allData = [
     "resortName": "Alta",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Alta, (ski only)",
+    "city": "Alta (ski only)",
     "skiOnly": true,
     "videos": [],
     "position": {
