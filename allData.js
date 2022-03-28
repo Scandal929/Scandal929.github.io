@@ -5356,13 +5356,12 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Alta",
-    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 40.58861731925453,
       "lng": -111.63858070186969
     },
-    "officialSkiResort": true,
+    "skiOnly": true,
     "id": "14439",
     "website": "https://www.aalski.no/"
   },
@@ -6733,7 +6732,7 @@ var allData = [
     "resortName": "Grand Hirafu",
     "country": "Japan",
     "state":[],
-    "region": "Asia",
+    "region": "",
     "city": "Niseko",
     "videos": [],
     "position": {
@@ -6748,7 +6747,7 @@ var allData = [
     "resortName": "Hakuba Happo-One",
     "country":"Japan",
     "state": "",
-    "region": "Asia",
+    "region": "",
     "city": "Hakuba",
     "videos": [],
     "position": {
@@ -6763,7 +6762,7 @@ var allData = [
     "resortName": "Hakuba Sanosaka",
     "country": "Japan",
     "state": "",
-    "region": "Asia",
+    "region": "",
     "city": "Hakuba",
     "videos": [],
     "position": {
@@ -6778,7 +6777,7 @@ var allData = [
     "resortName": "St. Moritz",
     "country": "Switzerland",
     "state":[],
-    "region": "Europe",
+    "region": "",
     "city": "Engadin",
     "videos": [],
     "position": {
