@@ -505,14 +505,14 @@
        // Red Ski Icon (not yet visited)
       var redSkiIcon = new L.Icon({
         iconUrl: `img/${iconPreference}/not_visited_ski.png`,
-        shadowUrl: 'im      /g/marker_shadow.png',
+        shadowUrl: 'img/marker_shadow.png',
         iconSize: !!localStorage.getItem('plainMarker') ? [25, 41] : [35, 57],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
         shadowSize: [41, 41]
       });
 
-      // Ski Only Icon (Ski ONLY)
+      // Blue Ski Only Icon (Ski ONLY)
       var BlueSkiOnlyIcon = new L.Icon({
         iconUrl: `img/${iconPreference}/Ski_0nly.png`,
         shadowUrl: 'img/marker_shadow.png',
@@ -533,7 +533,7 @@
            icon = greenSkiIcon; // visited ski only resort
         }
         else if (allData[i].skiOnly && allData[i].videos.length === 0) {
-           icon = redSkiIcon; // not yet visited for ski only resort
+           icon = BlueSkiOnlyIcon; // not yet visited for ski only resort
         }
         else if (allData[i].videos.length > 0) {
            icon = greenIcon; // visited
