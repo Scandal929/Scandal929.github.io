@@ -5355,8 +5355,8 @@ var allData = [
     "resortName": "Alta",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Alta (ski only)",
-    "skiOnly": true, 
+    "city": "Alta",
+    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 40.58861731925453,
@@ -5364,7 +5364,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "14439",
-    "website": "https://www.alta.com/",
+    "website": "https://www.aalski.no/"
   },
   {
     "resortName": "Beaver Mountain",
@@ -5426,7 +5426,8 @@ var allData = [
     "resortName": "Deer Valley",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Park City (ski only)",
+    "city": "Park City",
+    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 40.63755095147229,
@@ -6730,9 +6731,8 @@ var allData = [
   },
   {
     "resortName": "Grand Hirafu",
-    "country": "Japan",
-    "state":[],
-    "region": "",
+    "state": "Japan",
+    "region": "Asia",
     "city": "Niseko",
     "videos": [],
     "position": {
@@ -6745,9 +6745,8 @@ var allData = [
   },
   {
     "resortName": "Hakuba Happo-One",
-    "country":"Japan",
-    "state": "",
-    "region": "",
+    "state": "Japan",
+    "region": "Asia",
     "city": "Hakuba",
     "videos": [],
     "position": {
@@ -6760,9 +6759,8 @@ var allData = [
   },
   {
     "resortName": "Hakuba Sanosaka",
-    "country": "Japan",
-    "state": "",
-    "region": "",
+    "state": "Japan",
+    "region": "Asia",
     "city": "Hakuba",
     "videos": [],
     "position": {
@@ -6775,9 +6773,8 @@ var allData = [
   },
   {  
     "resortName": "St. Moritz",
-    "country": "Switzerland",
-    "state":[],
-    "region": "",
+    "state": "Switzerland",
+    "region": "Europe",
     "city": "Engadin",
     "videos": [],
     "position": {
@@ -6802,8 +6799,7 @@ var allData = [
   },
   {
     "resortName": "Mt. Hutt",
-    "country": "New Zealand",
-    "state": [],
+    "state": "New Zealand",
     "region": "Oceania",
     "city": "Methven",
     "videos": [],
