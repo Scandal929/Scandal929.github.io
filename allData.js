@@ -5356,7 +5356,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Alta",
-    "videos": [],
+    "videos": [0],
     "position": {
       "lat": 40.58861731925453,
       "lng": -111.63858070186969
@@ -5426,7 +5426,7 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Park City",
-    "videos": [],
+    "videos": [0],
     "position": {
       "lat": 40.63755095147229,
       "lng": -111.4783274595402
