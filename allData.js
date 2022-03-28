@@ -5426,13 +5426,12 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Park City",
-    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 40.63755095147229,
       "lng": -111.4783274595402
     },
-    "officialSkiResort": true,
+    "skiOnly": true,
     "id": "223",
     "website": "https://www.deervalley.com/"
   },
