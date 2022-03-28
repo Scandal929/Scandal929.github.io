@@ -502,7 +502,7 @@
         shadowSize: [41, 41]
       });
 
-      // Red Ski Icon (not yet visited)
+       // Red Ski Icon (not yet visited)
       var redSkiIcon = new L.Icon({
         iconUrl: `img/${iconPreference}/not_visited_ski.png`,
         shadowUrl: 'img/marker_shadow.png',
@@ -511,6 +511,15 @@
         popupAnchor: [1, -34],
         shadowSize: [41, 41]
       });
+
+      // Ski Only Icon (Ski ONLY)
+      var SkiOnlyIcon = new L.Icon({ 
+         iconUrl: 'img/${iconPreference}/Ski_ONLY.png',
+         shadowUrl: 'img/marker_shadow.png',
+         iconSize: [28, 34],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
 
       for (var i = 0; i<allData.length; i++) {
 
