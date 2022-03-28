@@ -5355,15 +5355,16 @@ var allData = [
     "resortName": "Alta",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Alta",
-    "videos": [0],
+    "city": "Alta (ski only)",
+    "skiOnly": true, 
+    "videos": [],
     "position": {
       "lat": 40.58861731925453,
       "lng": -111.63858070186969
     },
-    "skiOnly": true,
+    "officialSkiResort": true,
     "id": "14439",
-    "website": "https://www.aalski.no/"
+    "website": "https://www.alta.com/",
   },
   {
     "resortName": "Beaver Mountain",
@@ -5425,13 +5426,13 @@ var allData = [
     "resortName": "Deer Valley",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Park City",
-    "videos": [0],
+    "city": "Park City (ski only)",
+    "videos": [],
     "position": {
       "lat": 40.63755095147229,
       "lng": -111.4783274595402
     },
-    "skiOnly": true,
+    "officialSkiResort": true,
     "id": "223",
     "website": "https://www.deervalley.com/"
   },
