@@ -1953,7 +1953,7 @@ var allData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Tannersville",
-    "videos": ["xptv5RSx5Ds"],
+    "videos": ["xptv5RSx5Ds","YsHsp0HTONg"],
     "position": {
       "lat": 41.051811334929965,
       "lng": -75.35550284495609
