@@ -1314,7 +1314,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "203",
-    "website": "https://www.woodstockinn.com/ski-area"
+    "website": "https://www.saskadenasix.com/"
   },
   {
     "resortName": "Wisp Ski Resort",
