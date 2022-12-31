@@ -1303,7 +1303,7 @@ var allData = [
     "website": "https://www.sugarbush.com/"
   },
   {
-    "resortName": "Saskadena Six(Suicide Six)",
+    "resortName": "Saskadena Six (Suicide Six)",
     "state": "Vermont",
     "region": "New England",
     "city": "South Pomfret",
