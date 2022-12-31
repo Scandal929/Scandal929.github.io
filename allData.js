@@ -12,7 +12,7 @@
 //       }
 //   }  
 // }
-var lastUpdated = '05/24/2021';
+var lastUpdated = '12/31/2022';
 var allData = [
   {
     "resortName": "Mohawk Mountain Ski Area",
@@ -424,7 +424,9 @@ var allData = [
     "state": "Massachusetts",
     "region": "New England",
     "city": "Hancock",
-    "videos": [],
+    "videos": [
+      "kgZtJ0__uVA"
+    ],
     "position": {
       "lat": 42.55537784801918,
       "lng": -73.2922293595082
@@ -970,7 +972,9 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Peru",
-    "videos": [],
+    "videos": [
+      "MDIUtXK_vDg"
+    ],
     "position": {
       "lat": 43.21361675115109,
       "lng": -72.9349254241979
@@ -1067,7 +1071,9 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Killington",
-    "videos": [],
+    "videos": [
+      "ZOeCwntoVtE"
+    ],
     "position": {
       "lat": 43.626463482520855,
       "lng": -72.79673079000918
@@ -1081,7 +1087,9 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Killington",
-    "videos": [],
+    "videos": [
+      "Ym2MVTRKNPY"
+    ],
     "position": {
       "lat": 43.646509245137636,
       "lng": -72.7896801091444
@@ -1165,13 +1173,18 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "West Dover",
-    "videos": [],
+    "videos": [
+      "SvYeSrOyf_c",
+      "-mvFOkabbl0",
+      "_87dos9R-v4",
+      "DsWE-5wW1hg"
+    ],
     "position": {
       "lat": 42.969241583262686,
       "lng": -72.89617860130123
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
+    "resortReviewScore": "56",
+    "resortReviewLink": "SvYeSrOyf_c",
     "officialSkiResort": true,
     "id": "210",
     "website": "http://mountsnow.com/"
@@ -1303,7 +1316,7 @@ var allData = [
     "website": "https://www.sugarbush.com/"
   },
   {
-    "resortName": "Suicide Six",
+    "resortName": "Saskadena Six (Suicide Six)",
     "state": "Vermont",
     "region": "New England",
     "city": "South Pomfret",
@@ -1335,13 +1348,22 @@ var allData = [
     "state": "New Jersey",
     "region": "Mid-Atlantic",
     "city": "East Rutherford (indoor)",
-    "videos": [],
+    "videos": [
+      "-vhU47d1AGk",
+      "gpsfxa1XqPc",
+      "mem-CIP2YtY",
+      "y-ItqbR7lRY",
+      "SiGuxDeDSeY",
+      "ICwfoylK4QI",
+      "uUNJzdFcVT4",
+      "XzHfvMMrY4E"
+    ],
     "position": {
       "lat": 40.80972110512825,
       "lng": -74.07089431436135
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
+    "resortReviewScore": "47",
+    "resortReviewLink": "gpsfxa1XqPc",
     "officialSkiResort": true,
     "id": "2658",
     "website": "https://www.bigsnowamericandream.com/"
@@ -1351,7 +1373,9 @@ var allData = [
     "state": "New Jersey",
     "region": "Mid-Atlantic",
     "city": "Mahwah",
-    "videos": [],
+    "videos": [
+      "WaGdIsCQdvc"
+    ],
     "position": {
       "lat": 41.059356280224485,
       "lng": -74.19500664495334
@@ -1407,7 +1431,9 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Highmount",
-    "videos": [],
+    "videos": [
+      "UOMfbbJoK6Y"
+    ],
     "position": {
       "lat": 42.14197859167307,
       "lng": -74.50222554454848
@@ -1505,7 +1531,9 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "North Creek",
-    "videos": [],
+    "videos": [
+      "aSBHRrFU1Og"
+    ],
     "position": {
       "lat": 43.67414698551106,
       "lng": -74.00667386724834
@@ -1589,7 +1617,9 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Hunter",
-    "videos": [],
+    "videos": [
+      "PiA0bdO8tAI"
+    ],
     "position": {
       "lat": 42.20377699301453,
       "lng": -74.22450818315733
@@ -1799,7 +1829,9 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Glens Falls",
-    "videos": [],
+    "videos": [
+      "l6978o4mw1g"
+    ],
     "position": {
       "lat": 43.286431660901286,
       "lng": -73.72507045205768
@@ -1827,7 +1859,9 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Wilmington",
-    "videos": [],
+    "videos": [
+      "g-ZA8FpJCnU"
+    ],
     "position": {
       "lat": 44.35393325780303,
       "lng": -73.86172634787795
@@ -1841,7 +1875,9 @@ var allData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Windham",
-    "videos": [],
+    "videos": [
+      "b8025jQTa68"
+    ],
     "position": {
       "lat": 42.299825491696716,
       "lng": -74.25610128421872
@@ -1918,7 +1954,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "14439",
-    "website": "https://blueknob.com/"
+    "website": "https://www.aalski.no/"
   },
   {
     "resortName": "Blue Mountain Ski Area",
@@ -1953,10 +1989,7 @@ var allData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Tannersville",
-    "videos": [
-    "xptv5RSx5Ds",
-    "YsHsp0HTONg"
-  ],
+    "videos": [],
     "position": {
       "lat": 41.051811334929965,
       "lng": -75.35550284495609
@@ -2040,7 +2073,7 @@ var allData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Carroll Valley",
-    "videos": ["cFmGmNJYRaw"],
+    "videos": [],
     "position": {
       "lat": 39.76445139227571,
       "lng": -77.37545903008194
@@ -2222,7 +2255,9 @@ var allData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Blowing Rock",
-    "videos": [],
+    "videos": [
+      "_AnRnjuJNXo"
+    ],
     "position": {
       "lat": 36.173468638681165,
       "lng": -81.66401347733257
@@ -2264,7 +2299,9 @@ var allData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Beech Mountain",
-    "videos": [],
+    "videos": [
+      "W4wR6QML3XE"
+    ],
     "position": {
       "lat": 36.195625208901824,
       "lng": -81.87785788527373
@@ -2278,7 +2315,9 @@ var allData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Sugar Mountain",
-    "videos": [],
+    "videos": [
+      "SUvpR8jJF4M"
+    ],
     "position": {
       "lat": 36.13369100484302,
       "lng": -81.86734557268886
@@ -2376,7 +2415,15 @@ var allData = [
     "state": "Virginia",
     "region": "Southeast",
     "city": "Lynchburg",
-    "videos": [],
+    "videos": [
+      "A6MUhNr2Mxk",
+      "jqBUm4poIQk",
+      "6I4O4VGj-NQ",
+      "B_rNQNIoBLU",
+      "8Ua7njpZBLc",
+      "rkA9nxTJIvU",
+      "TW_aCTT7UYw"
+    ],
     "position": {
       "lat": 37.352932264382524,
       "lng": -79.16673525951036
@@ -3146,7 +3193,9 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Afton",
-    "videos": [],
+    "videos": [
+      "5OfBG7hUo9o"
+    ],
     "position": {
       "lat": 44.86061008777023,
       "lng": -92.78835875081165
@@ -3174,7 +3223,9 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Burnsville",
-    "videos": [],
+    "videos": [
+      "uQ4_fewP7-Q"
+    ],
     "position": {
       "lat": 44.724632484858674,
       "lng": -93.28610667422542
@@ -3258,13 +3309,18 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Bloomington",
-    "videos": [],
+    "videos": [
+      "piO2Qq-UJu0",
+      "NfBk_WQM7PM",
+      "gcvMTBF3lYU",
+      "SdhESMcpxnk"
+    ],
     "position": {
       "lat": 44.84426865923526,
       "lng": -93.36352519746762
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
+    "resortReviewScore": "55",
+    "resortReviewLink": "NfBk_WQM7PM",
     "officialSkiResort": true,
     "id": "389",
     "website": "http://hylandski.com/"
@@ -3274,7 +3330,9 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Maple Grove",
-    "videos": [],
+    "videos": [
+      "MAjfZMHFlmk"
+    ],
     "position": {
       "lat": 45.13950018178829,
       "lng": -93.43891807280477
@@ -3386,7 +3444,9 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Taylors Falls",
-    "videos": [],
+    "videos": [
+      "n2rGN_94J1w"
+    ],
     "position": {
       "lat": 45.48953553300454,
       "lng": -92.70552080460024
@@ -3400,7 +3460,12 @@ var allData = [
     "state": "Minnesota",
     "region": "Midwest",
     "city": "Minneapolis",
-    "videos": [],
+    "videos": [
+      "gVM7nEv3JJE",
+      "d8F0eSxoFWE",
+      "U2kyDWcnBWw",
+      "a3FuRWAuC0A"
+    ],
     "position": {
       "lat": 44.79138856443794,
       "lng": -93.48308841164287
@@ -3596,15 +3661,18 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "East Troy",
-    "videos": [],
+    "videos": [
+      "jpFaLyNq-qI",
+      "6a--suhNwak"
+    ],
     "position": {
       "lat": 42.73670694583553,
       "lng": -88.427878267612
     },
     "officialSkiResort": true,
     "id": "169",
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
+    "resortReviewScore": "49",
+    "resortReviewLink": "6a--suhNwak",
     "website": "https://www.alpinevalleyresort.com/"
   },
   {
@@ -3696,7 +3764,10 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Portage",
-    "videos": [],
+    "videos": [
+      "Gy4x-25vfP0",
+      "jZ1Y_AcvFWU"
+    ],
     "position": {
       "lat": 43.50425333584542,
       "lng": -89.51734275936641
@@ -3738,7 +3809,9 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Franklin",
-    "videos": [],
+    "videos": [
+      "ox7fADJJprI"
+    ],
     "position": {
       "lat": 42.9207217405258,
       "lng": -88.01520287205463
@@ -3780,7 +3853,9 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Wausau",
-    "videos": [],
+    "videos": [
+      "yJT_O4O8WBk"
+    ],
     "position": {
       "lat": 44.931659282795586,
       "lng": -89.68308064152886
@@ -3850,7 +3925,9 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Slinger",
-    "videos": [],
+    "videos": [
+      "UYWyxIXo4as"
+    ],
     "position": {
       "lat": 43.338604524942745,
       "lng": -88.27885529515784
@@ -3934,7 +4011,9 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Mount Morris",
-    "videos": [],
+    "videos": [
+      "mW-wvNNHh1E"
+    ],
     "position": {
       "lat": 44.11923485005523,
       "lng": -89.17608896360498
@@ -3990,7 +4069,10 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Kewaskum",
-    "videos": [],
+    "videos": [
+      "rxOGT9imhTM",
+      "ehIf0PMT9nM"
+    ],
     "position": {
       "lat": 43.49465171657186,
       "lng": -88.2239641104351
@@ -4032,7 +4114,12 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Dresser",
-    "videos": [],
+    "videos": [
+      "2rVv_-4HVFQ",
+      "BCHlDUxaQH0",
+      "pNd0rTEggtU",
+      "Uaa9pfe5bp0"
+    ],
     "position": {
       "lat": 45.35185842666144,
       "lng": -92.61822227100298
@@ -4046,7 +4133,9 @@ var allData = [
     "state": "Wisconsin",
     "region": "Midwest",
     "city": "Mount Horeb",
-    "videos": [],
+    "videos": [
+      "XRx0jb8dFpg"
+    ],
     "position": {
       "lat": 43.04493589100869,
       "lng": -89.78393716459492
@@ -4158,7 +4247,176 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Keystone",
-    "videos": [],
+    "videos": [
+      "Uw5Ebx-MUkw",
+      "C7Ir17CBotI",
+      "5NuCJa1vYGk",
+      "HkvbT5fivek",
+      "LzD06f9oQH4",
+      "gs65Ot4xofg",
+      "w7nMq53K1Bw",
+      "Iuv9quiGITU",
+      "NJ2fMJzH7kk",
+      "lLjKeBRJNK0",
+      "ZkDKpuwtLik",
+      "DUNNGKIgNEg",
+      "2p0Q0nGH1P0",
+      "rGzekXW4Sdo",
+      "82TPXnW_p58",
+      "A8B2VdjRUk0",
+      "fzRgmIUXGBk",
+      "rAsi52kg-P0",
+      "n7Kh1YH_OLM",
+      "57av97ZthLA",
+      "D_jAugSM1HM",
+      "Su9_P8pVYek",
+      "6gHHeJKdmDA",
+      "G6nUp6u0z_8",
+      "EaLaNA22nPQ",
+      "2jxlmkVcxf8",
+      "e16sPVZx8Q8",
+      "o4NsjjlSMeU",
+      "PJdmJyee4hI",
+      "QuPTOpMGlZA",
+      "hsqY5Qty_Xo",
+      "83IOSmlhfcw",
+      "_YjdmtaqAfU",
+      "zByyASJ3Fg8",
+      "d8IsgNFt9A0",
+      "weqKK8C23P0",
+      "jY5Z1sE23Og",
+      "QhanKYjklos",
+      "O3lUY5I4qcw",
+      "gkcy_6OGgNA",
+      "ZVuLpb3Kj_I",
+      "Kq8V8qVKflo",
+      "Z8s5jiBak58",
+      "HO-qf5o5kKg",
+      "XKv5pX3Fc2M",
+      "GPR1OCY8TI8",
+      "kfOyCIxGoPQ",
+      "2uBDT3Xrx40",
+      "cKdRWj0sHiM",
+      "FrO-wpUBTCM",
+      "IfWZXxE7qys",
+      "CzHQN7dTRM8",
+      "YKoMRRPVI2s",
+      "oKOLSCdTiyE",
+      "_mFzB0FaP6U",
+      "paAN8trUDrE",
+      "Bde50Xd4DQg",
+      "o4fDQ5P5se4",
+      "s5JB8Kv8d3A",
+      "UW27MStwkEM",
+      "qIca0laCLFc",
+      "8iB9p9a0ybQ",
+      "vZSaHAHIiLk",
+      "dnSB-YUTUj8",
+      "gVoyP_XwCRw",
+      "IJNmKRyHySQ",
+      "IN6dWNMHKkY",
+      "bbiUlRlrggY",
+      "4vDOj2ZCcd0",
+      "Zh3aGOWWjSY",
+      "TkFKWM2RxfQ",
+      "j9YM8nyRsvk",
+      "bF-wuLAO7xc",
+      "tme0TycrF64",
+      "89O3B4XRW6A",
+      "a_OMsRfRznE",
+      "2eBw9nE2zm8",
+      "Z0c0fV9KA44",
+      "vRVoHvqABIA",
+      "V4CMEiwv-6E",
+      "D8PMKejWhG8",
+      "3PVtWmtgID4",
+      "jXiBeGtoiNI",
+      "nHZLPpFSNSg",
+      "UqWGP_4Sd9M",
+      "11g3cfXMts8",
+      "OzXX3Akb3WA",
+      "FEAP-INxUwY",
+      "Q7_X-EDfAjc",
+      "bx6olWXZUME",
+      "PyATL14HUtA",
+      "-tJRdR3Aq9g",
+      "Boo7u1RydM8",
+      "T0F6vUdL_9I",
+      "zSROzYpQvGc",
+      "O7AIgS4s7tU",
+      "QMRrqyv8lpk",
+      "Vxb09X3dekM",
+      "yXoIK2fCpv8",
+      "VpWjuQY70Fg",
+      "gFG9IlAmAEI",
+      "0u0UKzwqsPY",
+      "Pqic-siuO2o",
+      "HFm-yLBjszs",
+      "2N5kJPN4PXs",
+      "_-E__KcqOE0",
+      "j267c1kC5Z8",
+      "CoXPOLwZy8E",
+      "OpMfDUeLY90",
+      "QO9wpNSVGz8",
+      "b38uyqJhWLY",
+      "V6qQSHXZ8QM",
+      "SLpgtdD5gw0",
+      "U5zdWSWfThs",
+      "DYM4GXq3K_c",
+      "zZeCZbFofxQ",
+      "aYtIe8TaNVU",
+      "IYwqYT1X2Z0",
+      "e54MMWynjUs",
+      "onqnpe46Gj8",
+      "uWi4cMkF6GM",
+      "s2D1zbeGqyc",
+      "hEiTP5DzqsU",
+      "r9AVI6F9Q10",
+      "uDpsqT2wB4A",
+      "JR73M0uNWqY",
+      "cT9orrubMYw",
+      "RL0COk9xUL0",
+      "kNfkmp4Imj8",
+      "SWtSnd2fVYQ",
+      "FjKfmfZ_faw",
+      "qFanNTiY6-0",
+      "VlDT88Q1ofY",
+      "lKk850CNBPo",
+      "qDWZ69GYNec",
+      "u72HeRZ6FFU",
+      "R2oG76pO-3g",
+      "Gqhwx6kOyQ8",
+      "bKM62xY2UIo",
+      "XWJz0HCkWt0",
+      "RTRm-xLQMb4",
+      "lpxYmeGzlTU",
+      "IliOKIa15oM",
+      "F8Z8HA70tPk",
+      "t3izDR30Km0",
+      "o_61frpmHQs",
+      "YPYCtKt248o",
+      "ljjF3lg9-Qk",
+      "kYKachwQhdo",
+      "xKd39EEOYRU",
+      "HzQuOmNgwCM",
+      "bbY9nRvroWQ",
+      "XSoXlLLMK1E",
+      "N3DOTxsZUHc",
+      "O5gr3kw0kdA",
+      "vc20suV9FBQ",
+      "bSLvi7yA_zY",
+      "JXQcIZO5Z3E",
+      "lx4JNtDkd1M",
+      "MyYduX8VhDo",
+      "W7ULJ05ExTk",
+      "UW870OTPS_g",
+      "wvRJtn0_ODg",
+      "vWq0zxJ7Euo",
+      "FWWYogfbgxg",
+      "MY7UK2PTI-0",
+      "JUBNNRfKM1Y",
+      "KOLBNffVF14"
+    ],
     "position": {
       "lat": 39.642685273554704,
       "lng": -105.87192897305502
@@ -4228,7 +4486,30 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Beaver Creek",
-    "videos": [],
+    "videos": [
+      "EMBZnbWkm4E",
+      "XnoWEKhU_4M",
+      "-o0BGbY47rE",
+      "HhGPdIlKAHc",
+      "mb6W6-sAT-U",
+      "jDllXaVMy6o",
+      "dfMQTHkOcJc",
+      "G8liu5pU43c",
+      "mKSRyRGhwVM",
+      "7Gxem92SCE8",
+      "QYWdLdROqSE",
+      "Zh3aGOWWjSY",
+      "QDZ3b0oKkSo",
+      "_8Kvx7FkSlc",
+      "o2c3w8Y9o8c",
+      "Dm2aCz-2Hxs",
+      "Eaehc1o7SCg",
+      "j1xqKR_tXrQ",
+      "PIiqXRGhjv8",
+      "VW10LNMD1nk",
+      "_d2acNooCHo",
+      "OXr7H32PtMk"
+    ],
     "position": {
       "lat": 39.604468135598864,
       "lng": -106.51679673257871
@@ -4242,13 +4523,117 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Breckenridge",
-    "videos": [],
+    "videos": [
+      "mQnjJSEfJgw",
+      "cGtFNU-YkkY",
+      "f5LkSrM38Nk",
+      "gRY-ZBM0F94",
+      "_tSdgrJk3h8",
+      "vZeYF3L99Tk",
+      "UA-qEGYqNIo",
+      "q9_YTMmVES0",
+      "JAXlPJra4vQ",
+      "tKAlYbD0coI",
+      "8OsIJKGdLVQ",
+      "pMSj4aGo1Aw",
+      "NfQ0ufdrOEk",
+      "qmkxZg_zfJc",
+      "ft5SIul07bY",
+      "YC6AGKZavXg",
+      "e8lLkrOUWek",
+      "-kUYN22NKts",
+      "NbKjmbRVRLE",
+      "IOMUUK_zicY",
+      "tyakibN5O3o",
+      "7cV8ggm9d1o",
+      "2JwtOy4sAsk",
+      "6hK6_d1SVPE",
+      "jdud__7JGcA",
+      "vjVDW-q70ck",
+      "9BCq4kc6Jk8",
+      "7yBqdqVXiCc",
+      "zz17MY8Wn9Y",
+      "SMXLgkA890k",
+      "O08na4A46ec",
+      "IIXYOKB9pRo",
+      "jjKzUYN42NE",
+      "pCq4nEe7lLM",
+      "PdxJGmu31e0",
+      "DimHwtPFcpg",
+      "P1nwS6qIcVw",
+      "7Zfgou3GX5I",
+      "_27-f-gLT4A",
+      "Lo5iZIVe-N4",
+      "f8QuB8XWD7w",
+      "Nbycq_yTUJY",
+      "PCkvvLgFLu0",
+      "nuL7ei4CLtA",
+      "5FGzhgcRsEI",
+      "ZGcKoCmuqP0",
+      "mjmc9AUMMx4",
+      "5L13mSE1m-s",
+      "amLvi5uQ7v0",
+      "ktALF7BZjGs",
+      "QtL-0f5548M",
+      "2mPYpFOib5A",
+      "EO8qPGD_ni8",
+      "7X4b3koD3j8",
+      "uYpUk4KQzlA",
+      "95bhYm54uyI",
+      "6tc9HeoCtFc",
+      "QNxhysP0E9A",
+      "hFg24lLphv4",
+      "iP6Tc6ZPv1s",
+      "Xces3G-PjFc",
+      "9bvgYLb5KeM",
+      "L_6vgfexLG8",
+      "Rs49VAoPBiQ",
+      "-3a65QpY2gs",
+      "pBLw5zUElOg",
+      "L3dwxViWW7M",      
+      "8i-SGKmqnJs",
+      "AxHBd6RJ0Ss",
+      "kAMXvXoexvs",
+      "l-upAJT_734",
+      "S7De8X0vL8M",
+      "SBGHxlRSlY4",
+      "_aPSbSoqx3s",
+      "0JMUC9Rg6DM",
+      "douU4tPvlnc",
+      "qPQyQRGu_no",
+      "dGYoxEqAKHg",
+      "XU1pLsN3dWI",
+      "jX4DJJ5-p2s",
+      "Ls-p6L5HY4g",
+      "eYmjWGQ8OTs",
+      "UO1U_KwJ4uk",
+      "NT5L6qS_1zg",
+      "vnVpmI5hvH0",
+      "dr0RsNNoL4c",
+      "Eaehc1o7SCg",
+      "n9RyAV-NvYg",
+      "qtRmFhPYY7k",
+      "onGeCn0g5BU",
+      "S3HPt3WPX6w",
+      "DZouEbPRyEU",
+      "Ct7soO1BVzg",
+      "OpY8_xtrnwg",
+      "bRikNrQPlyM",
+      "jUw0fjwVU8c",
+      "1cgIttZ7AHU",
+      "30-2HDdTujM",
+      "6rzKo1Ozwzk",
+      "y14r7ZayKLo",
+      "lU0MnABtiTI",
+      "OXr7H32PtMk",
+      "kJdmQ-_hfT0"
+    ],
     "position": {
       "lat": 39.48049884182705,
       "lng": -106.06667208881282
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink":  [],
+    "resortReviewScore": "72",
+    "resortReviewLink": "_tSdgrJk3h8",
     "officialSkiResort": true,
     "id": "510",
     "website": "https://www.breckenridge.com/"
@@ -4272,7 +4657,106 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Copper Mountain",
-    "videos": [],
+    "videos": [
+      "kM2VhNJuRs4",
+      "-suSD46s3II",
+      "QfVouIl8ycA",
+      "Br-Tho-XXPU",
+      "JQHmY4FSiGE",
+      "X6xSjarYc8c",
+      "xLaypZEz88Y",
+      "J0JKNztPtZA",
+      "WqKMH2EHVAU",
+      "LWy8UZM2AXo",
+      "17mn8fENquI",
+      "2-5nlPuXZSM",
+      "bGD-cEJXMRw",
+      "Q_uXvwsuleE",
+      "SLn6PZ-I5LM",
+      "zyt8FPW1pns",
+      "r1-TwbpN8-c",
+      "XdI_Wn2-Fd4",
+      "xrUQFDvOhYM",
+      "KkILh_wcPro",
+      "xIsAyLkurXU",
+      "Ru5863f2u2U",
+      "04kpCe3Qync",
+      "lNl_SjmaUE8",
+      "b7Y7UiVEXgI",
+      "1nabD5qiQSY",
+      "BVTarcS69kY",
+      "yM_8jlOpiKE",
+      "efqpLqGOO_w",
+      "4_bbguov99o",
+      "WiowveW_jhU",
+      "tG_Fyz4nL9s",
+      "NQJJ3JdHnHI",
+      "d4piRP6cEz0",
+      "wA8o4oCpz2E",
+      "Ii53Y_niidA",
+      "umKkKIrPeJY",
+      "DoMT86HDA1s",
+      "ZJD1_NBnEqY",
+      "BtO8wjzqDc0",
+      "j2bPU12Qb1o",
+      "7aZgqPdpskY",
+      "iN4WUDobd_E",
+      "soLMzO5he3I",
+      "L_T_kOczVhk",
+      "xVmxjyLsQaI",
+      "uyAtj8Kb9kw",
+      "fgWAaccJrvY",
+      "vYzRxBrN1f0",
+      "QQcyX9Ei7Kc",
+      "HEvdFTOAPEU",
+      "ifi9ndIH4C8",
+      "H7r6OD-49OQ",
+      "XNKv7HIuZik",
+      "uv0PTavkR9c",
+      "sUwxnXLaaRc",
+      "tOSG0lRo-bE",
+      "R6mn0fO3NwA",
+      "66OwkhZgmnI",
+      "PA-GW_GWB9g",
+      "Fp_TIMGXxXU",
+      "bUvOm_6ygy8",
+      "JE3JS3_VtN0",
+      "JE8YP8Wkr6c",
+      "RpHeU1e0df4",
+      "5jFJvj3Bkrg",
+      "TwmnuQEapqA",
+      "a_QAfqc6Suo",
+      "KgFosGXYKIc",
+      "6KyXeOlW7m8",
+      "i5bRjDSXUzw",
+      "WZ6VRJS_c8Q",
+      "2rWLxdh68ew",
+      "GySU24mCBiQ",
+      "_veeRGrLcWc",
+      "qUcIRaF3n5g",
+      "EJC23nsgvSI",
+      "_RgfSffBRiA",
+      "KL6jU1-WAZg",
+      "8cWDk_BqZSk",
+      "CPMNxqxarkk",
+      "aHrbzVBUpgI",
+      "W5oSdKXORSE",
+      "2M8vP7-VK1k",
+      "YqIzo3Dapfs",
+      "q3N7i40oXj0",
+      "2VQjFEoSYjU",
+      "NY0o_YniPt0",
+      "ioZKEm4pJ9Q",
+      "n_9YPoqKMRU",
+      "yb5ZD8knyXs",
+      "JNH3YXDYcxs",
+      "4JnuBCpaVoo",
+      "m1WKl2sw89k",
+      "b-9FcAwM8Zs",
+      "xDWQki4mR-I",
+      "tSs-Ts1WzeQ",
+      "nFawUEruXcY"
+    ],
     "position": {
       "lat": 39.50236230347042,
       "lng": -106.14973588840155
@@ -4286,7 +4770,9 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Gunnison",
-    "videos": [],
+    "videos": [
+      "7accKVSZDbc"
+    ],
     "position": {
       "lat": 38.587159592238294,
       "lng": -106.89600754424221
@@ -4314,7 +4800,9 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Evergreen",
-    "videos": [],
+    "videos": [
+      "ZlIiWYVypZE"
+    ],
     "position": {
       "lat": 39.68472204161028,
       "lng": -105.51940353072584
@@ -4328,7 +4816,11 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Eldora",
-    "videos": [],
+    "videos": [
+      "Xz0MdQOWeZc",
+      "PglRgXSccUU",
+      "C4XgzBFUDKU"
+    ],
     "position": {
       "lat": 39.93740125815273,
       "lng": -105.58259277119723
@@ -4356,7 +4848,9 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Steamboat Springs",
-    "videos": [],
+    "videos": [
+      "TTX7ZdaigO0"
+    ],
     "position": {
       "lat": 40.48357228637695,
       "lng": -106.83796137303607
@@ -4384,13 +4878,294 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Keystone",
-    "videos": [],
+    "videos": [
+      "-3pQCvVuNcU",
+      "LPRABi5BhKM",
+      "QWZJlriQa6I",
+      "I08wCQ5WvIQ",
+      "6a7H05dTLF8",
+      "D8aHShpQCQ0",
+      "ujdx1Hdcy5c",
+      "2MncCuCC5vA",
+      "OD8MMsVw45A",
+      "c6JkkT1VEtM",
+      "r9_h4sLGbbg",
+      "SibiF9MWvdE",
+      "gbjwHZDaJLE",
+      "g5ej_oEszFs",
+      "dszE7BcbdeU",
+      "ntGuwnHWruE",
+      "sRvjdgzeFM8",
+      "ibkt49s4bIA",
+      "quWnlnl88VI",
+      "BnjHJWVM-eA",
+      "4w5fU75RmzE",
+      "28gC3Ea-imo",
+      "BAHiTfrprKs",
+      "gUFkKGsl5tM",
+      "ds6cyTPTMxc",
+      "vtsJDApjUMo",
+      "Z2oh9FnCnFg",
+      "vXhXPnqxp_o",
+      "3IMLoAALBzU",
+      "OxkYHzHFZuI",
+      "ES4129d6feQ",
+      "8K48-gwxTBw",
+      "8m_TIOnLO9g",
+      "UXmdoj9OY6w",
+      "ADy_eQbolww",
+      "xX1010EgOh0",
+      "SEeZU8ydzJM",
+      "vsZiW-EVqlQ",
+      "SBWuWbsFr4k",
+      "niRQ6aK4f0U",
+      "-4UuGv1pTK0",
+      "DMelqyYId2c",
+      "lRt7gE20dJw",
+      "eMGl26p46Jw",
+      "lCf8mv2SzN4",
+      "ZEAoL5QpuQU",
+      "7VhUxs9PAIE",
+      "ivMBhOaaVqU",
+      "J9qjzg5vX9Y",
+      "YEB88zmjG1Y",
+      "n2no6A_Rx4o",
+      "MOtihsIEhKo",
+      "u3YBtgD96_g",
+      "bxMjOOFgGb8",
+      "RZJtdBglmiM",
+      "4XdD4_U4c_E",
+      "2XDtw7fmYQI",
+      "I5m6qv6yuf0",
+      "W2KlZehTvZA",
+      "n9bw38xQWVk",
+      "kPC-l075pyY",
+      "rn2n5e5e8X4",
+      "MY_BWDeY5vY",
+      "2KvxRxpcE_M",
+      "P6crQSwDjJY",
+      "j_oFo_Z0DJc",
+      "RyNlAwd2BIE",
+      "9Z_hrNwMjMg",
+      "NhCwoQNjouA",
+      "TgOfsuSp3EI",
+      "Z3fRQi6DCrA",
+      "vWspm6XM8ZY",
+      "k0dULiE4QLc",
+      "89aoCB1eGBw",
+      "2eylkHVb5Z4",
+      "j_9MZ7Pu7fs",
+      "x5iUWChWv2c",
+      "g7hNMVMnwjw",
+      "7JuhuFkzySo",
+      "PYcSjBOOPTc",
+      "UW27MStwkEM",
+      "-cSNXQjXGFE",
+      "uXRBSLj8SL0",
+      "iqIjHVx3uCg",
+      "LkGX8WlLJNc",
+      "Sqlbn54V_WY",
+      "_vyGEgNbx7c",
+      "Wl6miMhpQ6o",
+      "5RMxvlucR4Y",
+      "SAvuekIEfMw",
+      "gyA6ywe_Oto",
+      "An3Yyq2geZc",
+      "fuBF24sdyyA",
+      "YVdYy8u6034",
+      "_AAc8fomD1I",
+      "Hp4DIX-uWPM",
+      "bFJcAaptBZE",
+      "3H_PYLxwQxA",
+      "RVjZxTCuIVM",
+      "4nW0jYSqRK8",
+      "5YwOWdthbqw",
+      "NuXI-VyXlds",
+      "DconbzWtSBo",
+      "QX8wEaKBL1o",
+      "QMa_2CZ26VY",
+      "QvPCuuWyzVE",
+      "M_utHhuoF-Y",
+      "mRGLXoe9RFU",
+      "eoV_3rFIInE",
+      "e-MgTHeIZD8",
+      "2voMGiffBuI",
+      "OFZLSWMWyfk",
+      "-uUi7PsmlkI",
+      "pBLw5zUElOg",
+      "u2whkiVQt0s",
+      "aWcvdHNkSKw",
+      "A4SrBXxb7hM",
+      "gCgRW5WZ74Y",
+      "UUTilHZzg5Y",
+      "CmW2hOX2M_E",
+      "Z8nACD6sjAc",
+      "BVgMKW61gFs",
+      "V32t3nz78pQ",
+      "dKDln6gmq3A",
+      "ON4X1QLQBKk",
+      "GBAYJiy6We8",
+      "xwDgE0MwC8M",
+      "HjHs9U7c_Vw",
+      "E_uphfZ9cEE",
+      "TDip-KUACfc",
+      "SfBFDs6fguc",
+      "Z7nD_gogZRE",
+      "3V_-PtxRiHg",
+      "YUk1KEGNIQ4",
+      "ciEeYCSjh_c",
+      "k9GccB72c7Y",
+      "KZPuOM77Eys",
+      "QDltagYN0X0",
+      "kzmfKZGczuc",
+      "m-56x0K32aM",
+      "wq-_QGPd0_k",
+      "CZUUv6jQYOI",
+      "-7Rh2QjXhlg",
+      "s-9eRZSMpLU",
+      "nvQeAHpZyQ0",
+      "WgizOWXWHSQ",
+      "o0U4EPaSiE0",
+      "hd_jA12cCew",
+      "7zp3YohBVoU",
+      "W53tCRvmPH0",
+      "fNHLImhiffs",
+      "0RRfhYv2h5I",
+      "bKM62xY2UIo",
+      "9vK6DC2oLQI",
+      "3e-uPY7mPYg",
+      "nDhopGWId0U",
+      "dGYoxEqAKHg",
+      "I_dpzpWzFJs",
+      "cY07tiDnzsw",
+      "xOpQsgIlKCg",
+      "d0gN7ZPMp6w",
+      "4qHmEr5Ytxk",
+      "Gtq0ngU-czE",
+      "QFe9BjuNZiM",
+      "8vNHOvcYe4A",
+      "w8PSrav_lb8",
+      "bt00cpWG784",
+      "w1naA5JIBAc",
+      "t1jIwh2jZiM",
+      "eTB07Ghsl3U",
+      "NXrqtIjGgcM",
+      "StbbuQJIzCg",
+      "bCuuT5DOxpg",
+      "ZZu15L5bsF8",
+      "8cdMxd_bNyI",
+      "2DPt0m4K81A",
+      "mmcU7Wj_3gU",
+      "TBh96fSKt7Y",
+      "IE3bY-2HoNk",
+      "uVskOqTg06U",
+      "hbFKOi2gUhg",
+      "0wRKYKBor_4",
+      "ukA4xKvwAxE",
+      "HFPoPDiPltQ",
+      "eP34SnQLn8c",
+      "JFsmPx6hw2c",
+      "AXw0XCGfm3w",
+      "rKJ8DRAY80U",
+      "Eaehc1o7SCg",
+      "XCEq57pOCAM",
+      "63wdWUq9yEs",
+      "zeGqXki9hzE",
+      "UttgB_nhvIQ",
+      "JyebUggEKJ0",
+      "J2_8Vth9Qi4",
+      "stnaRunlfms",
+      "HzQl1h9Cf-s",
+      "BVY3te1HFKE",
+      "x1qtUclGJvg",
+      "FbQ6X8P-_a4",
+      "Bt24fYOkEME",
+      "jnbRPQSgZqM",
+      "i_N9_wc7YkI",
+      "XxkBpDkIRfA",
+      "XlqbG_kMa4w",
+      "ucslO8bipok",
+      "zuSaIPvU9jI",
+      "VbrbyQs1BFE",
+      "K4AbmbkLIYY",
+      "G4n0K32LHnY",
+      "QxYhK6TseTg",
+      "iH6qXIng400",
+      "6g_sXzjjyZY",
+      "USiLN1ZfP8Q",
+      "MwLdNeOPxIE",
+      "7ElrJxsESaw",
+      "mbu7IVzRGhw",
+      "Y_rCntiqjlI",
+      "IEn3-qK7rIE",
+      "1LVT1gw3OiY",
+      "hsJW1I0Bb0U",
+      "abLShPHSrT8",
+      "-3UODqCz5l4",
+      "p5JP3BZCDeU",
+      "jvLXMy5qci4",
+      "lMxfyXJIi24",
+      "3W3gX6MVeDM",
+      "lNpaqmM_5Oc",
+      "VAVBGXW06mQ",
+      "uguIcW6tQjA",
+      "zF-PrhyOlO4",
+      "46yf970vyh4",
+      "rabJXCbZcB4",
+      "XSo75gKEnfs",
+      "qUUnLyAwbyI",
+      "oMgbcJZRdEM",
+      "1ikMXjkwfXs",
+      "vaqA2Axqqog",
+      "IK6kpspgoAg",
+      "vsferAb4bNw",
+      "1MSYqotsD4g",
+      "iPRvX-YgEkw",
+      "vg6cLbt2kaE",
+      "wO2gK4Vtfq4",
+      "4K4RY4qoo6Y",
+      "cgl7bgbhaOw",
+      "QYq16PDSD4A",
+      "H4SKQqwxtZE",
+      "ouQCM-kV7v8",
+      "A1B_DkUcRlk",
+      "tC0UU5hqMdM",
+      "O1pAVVk6Hjc",
+      "jt0UAdj580Q",
+      "IvwDx4zFfpM",
+      "E5eDJi6Dsfc",
+      "_eVqanEaCaQ",
+      "i0KifHnKZwE",
+      "H6EZiDAGuww",
+      "j5VvLiFTTL8",
+      "p7Ar8FFKVfw",
+      "a7FGX_Ya3c8",
+      "FNfJsxFWFrE",
+      "8-enKc4XVno",
+      "Mg6LhjQ54pU",
+      "JIx91oH-YN4",
+      "UNH_VMqs6qw",
+      "b2FE66LzH4A",
+      "cQzr12FogXg",
+      "ZxhIRgSlc0A",
+      "JBZlNWahc4s",
+      "T-jg5FJAcfE",
+      "GIqk6hsXvAc",
+      "9AS4mL5nfcI",
+      "0GI4QHa9md0",
+      "s3dJE8w89SA",
+      "DmmQFNrFb0w",
+      "5XoSHAJJEOs",
+      "oz_x3xJCFHI",
+      "GMreHOCf7MU",
+      "_pn4HWDGVFw"
+    ],
     "position": {
       "lat": 39.60856586489557,
       "lng": -105.94363711538396
     },
-    "resortReviewLink": [],
-    "resortReviewScore": "N/A",
+    "resortReviewLink": "28gC3Ea-imo",
+    "resortReviewScore": "69",
     "officialSkiResort": true,
     "id": "519",
     "website": "http://www.keystone.snow.com"
@@ -4414,7 +5189,21 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Georgetown",
-    "videos": [],
+    "videos": [
+      "JmT7YT3PnLk",
+      "9rZ_ICt7Zek",
+      "x0aLDdwkrVQ",
+      "KrjewHjUn1g",
+      "1TPY7Hqi6G4",
+      "6wCNt6E1_Yg",
+      "DyBnalmkE-I",
+      "XIhc8OPrEFs",
+      "HT43csZOqdY",
+      "q7N7MvZkfTY",
+      "Kl1GSfRHMYY",
+      "xvDORZaj6rA",
+      "iioN5b7xXXY"
+    ],
     "position": {
       "lat": 39.68021913649513,
       "lng": -105.89798941723349
@@ -4428,7 +5217,12 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Salida",
-    "videos": [],
+    "videos": [
+      "js0F1p7ERpE",
+      "igO5eyDKW2c",
+      "BUaZZ7UGH-A",
+      "qEDmUKzZn1U"
+    ],
     "position": {
       "lat": 38.51229014611595,
       "lng": -106.33198263075141
@@ -4437,20 +5231,20 @@ var allData = [
     "id": "511",
     "website": "http://www.skimonarch.com/"
   },
-   {
-     "resortName": "Otter Mountain",
-     "state": "Colorado",
-     "region": "Rocky Mountains",
-     "city": "Georgetown",
-     "videos": [],
-     "position": {
-     "lat": 39.62876783506184,
-    "lng": -105.71198935956295
-     },
-     "officialSkiResort": true,     
-     "id": "",     
-     "website": "https://www.summitpost.org/otter-mountain/745850"  
-   },
+  // {
+  //   "resortName": "Otter Mountain",
+  //   "state": "Colorado",
+  //   "region": "Rocky Mountains",
+  //   "city": "Georgetown",
+  //   "videos": [],
+  //   "position": {
+  //     "lat": 39.62876783506184,
+  //     "lng": -105.71198935956295
+  //   },
+  //   "officialSkiResort": true,     
+  //   "id": "",     
+  //   "website": "https://www.summitpost.org/otter-mountain/745850"  
+  // },
   {
     "resortName": "Powderhorn Resort",
     "state": "Colorado",
@@ -4484,7 +5278,10 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Ouray",
-    "videos": [],
+    "videos": [
+      "LFPk8tirHl8",
+      "FK3LaCiJ0IY"
+    ],
     "position": {
       "lat": 38.01938861057263,
       "lng": -107.66914151607332
@@ -4498,7 +5295,16 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Silverton",
-    "videos": [],
+    "videos": [
+      "E5VMAqSPTe8",
+      "V727drc0E8k",
+      "pCLVipvn2Zs",
+      "gY7ZEkHocWU",
+      "et1kev7SItY",
+      "0ko1FQgcUos",
+      "sQodqgFFSlo",
+      "i-GmeOffDlo"
+    ],
     "position": {
       "lat": 37.88476886631995,
       "lng": -107.66585462891373
@@ -4512,7 +5318,12 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Leadville",
-    "videos": [],
+    "videos": [
+      "JQnkiIR__hw",
+      "O9VQLnjHn54",
+      "WDWstwmxBGo",
+      "AAo147A-G_0"
+    ],
     "position": {
       "lat": 39.36036098452235,
       "lng": -106.30131625586652
@@ -4540,7 +5351,14 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Steamboat Springs",
-    "videos": [],
+    "videos": [
+      "dkac4hATPoc",
+      "beQpaB25oTk",
+      "QAeZMK63pQw",
+      "OdEqDcpYi-U",
+      "bnY2u6lip84",
+      "Fb2IkeovOMg"
+    ],
     "position": {
       "lat": 40.45904915460927,
       "lng": -106.80461955812207
@@ -4568,7 +5386,11 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Telluride",
-    "videos": [],
+    "videos": [
+      "cSSvHkUz1mw",
+      "A3Ebu5-ipac",
+      "S9TplfnLryA"
+    ],
     "position": {
       "lat": 37.941558807472155,
       "lng": -107.84789172323913
@@ -4582,7 +5404,20 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Vail",
-    "videos": [],
+    "videos": [
+      "XsX_qb6twsE",
+      "aKBaKeG7PJQ",
+      "lTJprc9cD-0",
+      "p5ykjOArCk4",
+      "0JQKkGbGgMo",
+      "ARR2JNft-Y0",
+      "stMLUxdRi5Y",
+      "XfRcQa-wqtw",
+      "r0xyGfw4S4I",
+      "Eaehc1o7SCg",
+      "oiZHwKnHV8M",
+      "gndKUQTAfek"
+    ],
     "position": {
       "lat": 39.60632623071879,
       "lng": -106.35501461723521
@@ -4596,7 +5431,15 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Winter Park",
-    "videos": [],
+    "videos": [
+      "Pc9Ir-BXdRc",
+      "d-RKDR5YWiU",
+      "LNkocOzsCGo",
+      "387Phgq4CyA",
+      "0F0R1tpzrvk",
+      "lNIi3LD8YHQ",
+      "EqoMgL_G2jM"
+    ],
     "position": {
       "lat": 39.887020291324646,
       "lng": -105.76248800188542
@@ -4610,7 +5453,16 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Pagosa Springs",
-    "videos": [],
+    "videos": [
+      "9w2g01-aDZY",
+      "IB9d-8ifzEw",
+      "JBlns5NbQqg",
+      "d1fWlVLcatw",
+      "9mCzWMFCVzM",
+      "QnLpEcEvk5g",
+      "8p5Jax9NUgc",
+      "xdAAzY77wjc"
+    ],
     "position": {
       "lat": 37.47244179734956,
       "lng": -106.79304353077356
@@ -4625,7 +5477,41 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Georgetown",
     "officialSkiResort": false,
-    "videos": [],
+    "videos": [
+      "x8P1B9hncv0",
+      "EnIoeo--GZ0",
+      "-6bphZ0PFEg",
+      "4kSbfxghMc0",
+      "5peKt_bf-zs",
+      "0_39hY1i0o8",
+      "3qbgqd1E_k0",
+      "p0YZydl4B3g",
+      "LcyHt7vzE0o",
+      "SeCNXZyWrhA",
+      "VTWa5Mu4cv8",
+      "Hm41kruOoZo",
+      "IZkJ-jxnd-A",
+      "oxCA3qe71eg",
+      "4EiISY1OD_E",
+      "1NjgBZOvL2s",
+      "ltqlU4v1t7c",
+      "uVvlYLQmyyU",
+      "fqy9zD-PZiE",
+      "oQZ28U-gkp4",
+      "opBNeuqi83s",
+      "higsw06M2pg",
+      "YdbWZ0OjePA",
+      "a7suxVvckZo",
+      "J0JOkWJq-sQ",
+      "6QJFaHhFKrc",
+      "bB7-2Tccm1A",
+      "LxQ5bnbaYi4",
+      "eYjXpSwvugo",
+      "z95UrgIPskQ",
+      "-tJRdR3Aq9g",
+      "M1vMdkeFicc",
+      "h_TJVyqjhDQ"
+    ],
     "position": {
       "lat": 39.664983552666754,
       "lng": -105.8787492562817
@@ -4636,7 +5522,11 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Idaho Springs",
-    "videos": [],
+    "videos": [
+      "mdHYc_QblqU",
+      "YNueBnN6L2o",
+      "NW7GlZ345G0"
+    ],
     "position": {
       "lat": 39.83477566710968,
       "lng": -105.64599881875618
@@ -4650,7 +5540,9 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Colorado Springs",
-    "videos": [],
+    "videos": [
+      "iFRHU_6ZA9E"
+    ],
     "position": {
       "lat": 38.86038034391107,
       "lng": -104.79821295754127
@@ -4664,7 +5556,11 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Leadville",
-    "videos": [],
+    "videos": [
+      "wG8c90Fq2HY",
+      "UjVRKK8-A00",
+      "c9uLVLyyBp0"
+    ],
     "position": {
       "lat": 39.23879814438246, 
       "lng": -106.30335758286941
@@ -4678,7 +5574,9 @@ var allData = [
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Near Breckenridge",
-    "videos": [],
+    "videos": [
+      "0P10PLwPyF0"
+    ],
     "position": {
       "lat": 39.36182990162865,
       "lng": -106.06250200741185
@@ -4693,7 +5591,44 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Summit County",
     "officialSkiResort": false,
-    "videos": [],
+    "videos": [
+      "txPkS3EYV2c",
+      "3fMPGkThpzI",
+      "9QpfaTxzx44",
+      "uxFcZnPLlF0",
+      "-Ze9q-giubM",
+      "0ca93ksCPs0",
+      "6SdLK7ZYSJ0",
+      "WW_moaZnC2Q",
+      "2gtXZAcQm8o",
+      "9KnIM1NQn2k",
+      "aykE9VXD3IA",
+      "bND705Q1V6A",
+      "9S7GV5J_ta4",
+      "cWQ6Uz51l-k",
+      "JVGYA8FmJlE",
+      "1JYwCBVKpuo",
+      "2mr2lsHLeyY",
+      "BJnoze2TOR0",
+      "vlVJVXx6OR0",
+      "1nugyeyh4RM",
+      "bXUNBebv_uY",
+      "kfLGzpTb69I",
+      "D0fpRlmrgro",
+      "C7kfChMne14",
+      "gk835XI6LFE",
+      "POoRimej898",
+      "T4-WnmGZ6C0",
+      "PIlAJtH-01w",
+      "3UPLUodr2JA",
+      "mtzxHHa9ZNs",
+      "mAN0uOWEyw8",
+      "7WoZ8nnfri8",
+      "hUM4PuwJSEU",
+      "z5fDDPiO8CM",
+      "TMyXRDegblE",
+      "rc1WCHyktGM"
+    ],
     "position": {
       "lat": 39.59955455089273,
       "lng": -106.09567554187014
@@ -4707,7 +5642,9 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Denver",
     "officialSkiResort": false,
-    "videos": [],
+    "videos": [
+      "vQs0pbVZ9HQ"
+    ],
     "position": {
       "lat": 39.68836495750509,
       "lng": -105.00359721854255
@@ -4721,7 +5658,13 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Frisco",
     "officialSkiResort": true,
-    "videos": [],
+    "videos": [
+      "SDIMKBhCGE0",
+      "agIeWZPpAZs",
+      "rqB5LVrZv-M",
+      "B2xVDz3xnKQ",
+      "B71h3vMQOAY"
+    ],
     "position": {
       "lat": 39.574141958565235,
       "lng": -106.07759352892558
@@ -4735,7 +5678,9 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Silverthorne",
     "officialSkiResort": false,
-    "videos": [],
+    "videos": [
+      "eahz4Mo2zMk"
+    ],
     "position": {
       "lat": 39.616663843391365,
       "lng": -106.14252201307508
@@ -4747,7 +5692,10 @@ var allData = [
     "region": "Rocky Mountains",
     "city": "Silverthorne",
     "officialSkiResort": false,
-    "videos": [],
+    "videos": [
+      "C9P5o4ZW3LU",
+      "KT_qMrCUnTs"
+    ],
     "position": {
       "lat": 39.52935522361592,
       "lng": -106.21762991587998
@@ -4772,7 +5720,11 @@ var allData = [
     "state": "Idaho",
     "region": "Rocky Mountains",
     "city": "Boise",
-    "videos": [],
+    "videos": [
+      "ViV2yZNzn50",
+      "RdNyEvKXvTk",
+      "FESWug_ppOU"
+    ],
     "position": {
       "lat": 43.765418699699026,
       "lng": -116.10235942063434
@@ -5368,7 +6320,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "14439",
-    "website": "https://www.alta.com/"
+    "website": "https://www.aalski.no/"
   },
   {
     "resortName": "Beaver Mountain",
@@ -5403,7 +6355,9 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Big Cottonwood Canyon",
-    "videos": [],
+    "videos": [
+      "jY6toU_jRcw"
+    ],
     "position": {
       "lat": 40.59838410945486,
       "lng": -111.58319284282311
@@ -5474,11 +6428,24 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Park City",
-    "videos": [],
+    "videos": [
+      "sq_LFhyqXbg",
+      "cGf2K3kd7AE",
+      "d3DKF2Q1JZU",
+      "yt68HVtKAus",
+      "vjWWQ2KLIlo",
+      "_nGiKCC15v8",
+      "DyHtAdaM-3I",
+      "1kDSViHq_As",
+      "Xsywiuxt6zE",
+      "YTDqkd4lDto"
+    ],
     "position": {
       "lat": 40.653755293189285,
       "lng": -111.50955073373208
     },
+    "resortReviewScore": "74",
+    "resortReviewLink": "sq_LFhyqXbg",
     "officialSkiResort": true,
     "id": "229",
     "website": "http://parkcitymountain.com"
@@ -5488,7 +6455,9 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Park City",
-    "videos": [],
+    "videos": [
+      "iBM8QoUD7Ec"
+    ],
     "position": {
       "lat": 40.75506564993516,
       "lng": -111.58585457671353
@@ -5502,7 +6471,10 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Eden",
-    "videos": [],
+    "videos": [
+      "ngg25NA9CyE",
+      "Nivw9WdIzRs"
+    ],
     "position": {
       "lat": 41.37994174775305,
       "lng": -111.78019592340156
@@ -5516,7 +6488,9 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Huntsville",
-    "videos": [],
+    "videos": [
+      "1AKV3OgC2cw"
+    ],
     "position": {
       "lat": 41.21325108120479,
       "lng": -111.85333347301953
@@ -5530,7 +6504,10 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Snowbird",
-    "videos": [],
+    "videos": [
+      "8akc2LT5M5k",
+      "NZyAJjKg3Ks"
+    ],
     "position": {
       "lat": 40.581599711175265,
       "lng": -111.65631945992962
@@ -5544,7 +6521,9 @@ var allData = [
     "state": "Utah",
     "region": "Rocky Mountains",
     "city": "Big Cottonwood Canyon",
-    "videos": [],
+    "videos": [
+      "ohamKB1MSqg"
+    ],
     "position": {
       "lat": 40.62001485269844,
       "lng": -111.59191718837644
@@ -5614,7 +6593,10 @@ var allData = [
     "state": "Wyoming",
     "region": "Rocky Mountains",
     "city": "Teton Village",
-    "videos": [],
+    "videos": [
+      "yAEpyrBHbbE",
+      "K3CBFvCU43Y"
+    ],
     "position": {
       "lat": 43.59828801471585,
       "lng": -110.84759647219776
@@ -5670,7 +6652,9 @@ var allData = [
     "state": "Wyoming",
     "region": "Rocky Mountains",
     "city": "Centennial",
-    "videos": [],
+    "videos": [
+      "Jx-yuXNbsqE"
+    ],
     "position": {
       "lat": 41.34136677078399,
       "lng": -106.18344170000124
@@ -5698,7 +6682,12 @@ var allData = [
     "state": "Wyoming",
     "region": "Rocky Mountains",
     "city": "Cody",
-    "videos": [],
+    "videos": [
+      "5mb0r1Wev5U",
+      "rFRCajW-Jxc",
+      "i-sDhUj9WVU",
+      "noaSJkNEt8Y"
+    ],
     "position": {
       "lat": 44.989197128932155,
       "lng": -109.43696394899811
@@ -5880,7 +6869,10 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Big Bear Lake",
-    "videos": [],
+    "videos": [
+      "vV92iw_Oe7A",
+      "E3WBEpboWgA"
+    ],
     "position": {
       "lat": 34.22911371690905,
       "lng": -116.86084113187107
@@ -5992,7 +6984,17 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "South Lake Tahoe",
-    "videos": [],
+    "videos": [
+      "NrFkkgTPgxU",
+      "84c37-_3WJM",
+      "mfm3a3og3LI",
+      "h_W4dZ0rAgs",
+      "I1YwuAAZKnY",
+      "ov0cja1Oz5o",
+      "LP4KOe10_hY",
+      "PtvRpfiNQ-U",
+      "nWYQCvpLVGU"
+    ],
     "position": {
       "lat": 38.93578766770377,
       "lng": -119.93972411256449
@@ -6034,7 +7036,18 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Kirkwood",
-    "videos": [],
+    "videos": [
+      "BuGEyaWcBK8",
+      "hwAoUUtO3vo",
+      "wxpEQqfYKRg",
+      "kkYl8VQNrss",
+      "m-joOS28riE",
+      "7yY_x87ceAg",
+      "Z-LQyC4IGrQ",
+      "zy2I2MIFNxg",
+      "LhnhxVyHx8c",
+      "ac-aFTsprjw"
+    ],
     "position": {
       "lat": 38.68491887730613,
       "lng": -120.06517723074771
@@ -6048,7 +7061,14 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Mammoth Lakes",
-    "videos": [],
+    "videos": [
+      "n3D7tvxMcbo",
+      "13EteTV9qHg",
+      "ZI7mzBa-3OE",
+      "ViDxTEDjgw8",
+      "cDP3gzP9eLM",
+      "bsjjcH9uR-0",
+    ],
     "position": {
       "lat": 37.651960114071905,
       "lng": -119.02685323665459
@@ -6104,7 +7124,9 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Wrightwood",
-    "videos": [],
+    "videos": [
+      "_TKsy9lo8CM"
+    ],
     "position": {
       "lat": 34.377172008800834,
       "lng": -117.69144910014853
@@ -6118,13 +7140,26 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Truckee",
-    "videos": [],
+    "videos": [
+      "PXdEWAuTKEU",
+      "Jof3367cmgQ",
+      "H1Q-pGGMlzg",
+      "hRxzdR8whLo",
+      "QKPIg8Zwhos",
+      "rA9DUIsifZY",
+      "NN3LN1v8wtU",
+      "embTGS31-nM",
+      "ujVnRD51fAo",
+      "qAHOVfLrKQ8",
+      "fFxKszWGg50",
+      "eleIUzuE3rc"
+    ],
     "position": {
       "lat": 39.27475880391958,
       "lng": -120.12112558840658
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
+    "resortReviewScore": "62",
+    "resortReviewLink": "PXdEWAuTKEU",
     "officialSkiResort": true,
     "id": "531",
     "website": "http://www.northstarcalifornia.com"
@@ -6190,7 +7225,9 @@ var allData = [
     "state": "California",
     "region": "West Coast",
     "city": "Olympic Valley",
-    "videos": [],
+    "videos": [
+      "n9Joy5rkgko"
+    ],
     "position": {
       "lat": 39.20021431848183,
       "lng": -120.23718191472324
@@ -6246,7 +7283,11 @@ var allData = [
     "state": "Nevada",
     "region": "West Coast",
     "city": "Las Vegas",
-    "videos": [],
+    "videos": [
+      "FOHDFI5JmcU",
+      "5wfE3GL8tQ4",
+      "PlwA08EGj20"
+    ],
     "position": {
       "lat": 36.303883351345306,
       "lng": -115.67969707497707
@@ -6442,14 +7483,38 @@ var allData = [
     "state": "Oregon",
     "region": "West Coast",
     "city": "Government Camp",
-    "videos": [],
+    "videos": [
+      "2AgHpI1Tab8",
+      "g1FlWFSGGGA",
+      "Eq7TKyVN_-o",
+      "YmjtC2lfnXQ",
+      "WEO15wIXPpA",
+      "YlVCdw_BWGc",
+      "025SYXKE8nk",
+      "czfbMnC94f4",
+      "vBfCX8sE15Y",
+      "VhR4Mo5ccL0",
+      "Jp6k2OakYpc",
+      "j1mwBi1N6do",
+      "wVALDicA1ho",
+      "bHzYk-D8aPo",
+      "x_Z5NkXcB_M",
+      "wcyHa86CcZA",
+      "lBq2rJ2sHsk",
+      "NKh8PTlizB0",
+      "DnKdqp-cHK4",
+      "sYBAQfbNTDY",
+      "O1o94Nge7xA",
+      "oazyWJFtK_g",
+      "bNhA7x1dAD4"
+    ],
     "position": {
       "lat": 45.33131664034,
       "lng": -121.71099567291978
     },
     "officialSkiResort": true,
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
+    "resortReviewScore": "(Summer) 71",
+    "resortReviewLink": "2AgHpI1Tab8",
     "id": "5019",
     "website": "https://www.timberlinelodge.com"
   },
@@ -6514,7 +7579,9 @@ var allData = [
     "state": "Washington",
     "region": "West Coast",
     "city": "near Enumclaw",
-    "videos": [],
+    "videos": [
+      "DLHZ-143s_s"
+    ],
     "position": {
       "lat": 46.935457448813246,
       "lng": -121.47477475938616
@@ -6696,7 +7763,9 @@ var allData = [
     "state": "Washington",
     "region": "West Coast",
     "city": "Snoqualmie Pass",
-    "videos": [],
+    "videos": [
+      "5_moso8-_gQ"
+    ],
     "position": {
       "lat": 47.4103197355071,
       "lng": -121.41349281526888
@@ -6734,85 +7803,17 @@ var allData = [
     "website": "http://www.skiwhitepass.com"
   },
   {
-    "resortName": "Grand Hirafu",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Niseko",
-    "videos": [],
-    "position": {
-      "lat": 42.8618697,
-      "lng": 140.6963752
-    },
-    "officialSkiResort": true,
-    "id": "1001",
-    "website": "https://www.grand-hirafu.jp/winter/en/"
-  },
-  {
-    "resortName": "Hakuba Happo-One",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Hakuba",
-    "videos": [],
-    "position": {
-      "lat": 36.6909153,
-      "lng": 137.7755379
-    },
-    "officialSkiResort": true,
-    "id": "1009",
-    "website": "https://www.happo-one.jp/en/"
-  },
-  {
-    "resortName": "Hakuba Sanosaka",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Hakuba",
-    "videos": [],
-    "position": {
-      "lat": 36.629392,
-      "lng": 137.7716392
-    },
-    "officialSkiResort": true,
-    "id": "1010",
-    "website": "https://sanosaka.jp/"
-  },
-  {  
-    "resortName": "St. Moritz",
-    "state": "Switzerland",
-    "region": "Europe",
-    "city": "Engadin",
-    "videos": [],
-    "position": {
-      "lat": 46.5174107,
-      "lng": 9.7378703
-    },
-    "officialSkiResort": true,
-    "id": "1002",
-    "website": "https://www.stmoritz.com/en/ski-alpine/"
-  },
-  {
     "resortName": "McChord Skatepark",
     "state": "Washington",
     "region": "West Coast",
     "city": "McChord AFB",
-    "videos": [],
+    "videos": [
+      "nq_nd1ZvKtA"
+    ],
     "position": {
       "lat": 47.129648041353164,
       "lng": -122.52345578183599
     },
     "officialSkiResort": false
-  },
-  {
-    "resortName": "Mt. Hutt",
-    "state": "New Zealand",
-    "region": "Oceania",
-    "city": "Methven",
-    "videos": [],
-    "position": {
-      "lat": -43.47165,
-      "lng": 171.5176679
-    },
-    "officialSkiResort": true,
-    "id": "1003",
-    "website": "https://www.mthutt.co.nz/"
   }
 ];
