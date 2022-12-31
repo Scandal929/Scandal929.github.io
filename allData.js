@@ -12,7 +12,7 @@
 //       }
 //   }  
 // }
-var lastUpdated = '05/24/2021';
+var lastUpdated = '12/31/2022';
 var allData = [
   {
     "resortName": "Mohawk Mountain Ski Area",
@@ -1122,6 +1122,7 @@ var allData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Fayston (ski only)",
+    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 44.202645696018386,
@@ -1302,7 +1303,7 @@ var allData = [
     "website": "https://www.sugarbush.com/"
   },
   {
-    "resortName": "Suicide Six",
+    "resortName": "Saskadena Six(Suicide Six)",
     "state": "Vermont",
     "region": "New England",
     "city": "South Pomfret",
@@ -1952,7 +1953,10 @@ var allData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Tannersville",
-    "videos": ["xptv5RSx5Ds"],
+    "videos": [
+    "xptv5RSx5Ds",
+    "YsHsp0HTONg"
+  ],
     "position": {
       "lat": 41.051811334929965,
       "lng": -75.35550284495609
@@ -5355,7 +5359,7 @@ var allData = [
     "resortName": "Alta",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Alta",
+    "city": "Alta (ski only)",
     "skiOnly": true,
     "videos": [],
     "position": {
@@ -5364,7 +5368,7 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "14439",
-    "website": "https://www.aalski.no/"
+    "website": "https://www.alta.com/"
   },
   {
     "resortName": "Beaver Mountain",
@@ -5426,7 +5430,7 @@ var allData = [
     "resortName": "Deer Valley",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Park City",
+    "city": "Park City (ski only)",
     "skiOnly": true,
     "videos": [],
     "position": {
