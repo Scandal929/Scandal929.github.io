@@ -15095,7 +15095,7 @@ var geoJsonData = {
                 "region": "Europe"
             },
             "geometry": {
-                "type": "MultiPolygon",
+                "type": "Polygon",
                 "coordiantes":
                 [
                     [
@@ -15114,7 +15114,7 @@ var geoJsonData = {
                  "region": "Asia"
              },
              "geometry": { 
-                 "type": "MultiPolygon",
+                 "type": "Polygon",
                  "coordinates":
                  [
                      [
