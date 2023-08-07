@@ -15084,7 +15084,54 @@ var geoJsonData = {
                         ]
                     ]
                 ]
-            }
         }
-    ]
-}
+     },
+     {
+            "type": "Feature",
+            "id": "57",
+            "properties": {
+                "name": "Switzerland",
+                "denisty": 1.365,
+                "region": "Europe"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordiantes":
+                [
+                    [
+                        [
+                        46.5174107,
+                        9.7378703
+                    ]
+                ]
+            ]
+            },
+             "type": "Featuere",
+             "id": "58",
+             "properties": {
+                 "name": "Japan",
+                 "density": 1.364,
+                 "region": "Asia"
+             },
+             "geometry": { 
+                 "type": "Polygon",
+                 "coordinates":
+                 [
+                     [
+                         [
+                            42.8618697,
+                            140.6963752
+                         ],
+                         [
+                            36.6909153,
+                            137.7755379
+                         ],
+                         
+                            36.629392,
+                            137.7716392  
+                     ]
+                 ]
+                }
+            }
+        ]
+    }
