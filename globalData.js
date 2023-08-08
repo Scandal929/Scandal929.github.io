@@ -40,6 +40,7 @@
 // ------------------------------------------------------------------------------------------------
 
 var globalData = [
+  
     {
         "resortName": "Mohawk Mountain Ski Area",
         "state": "Connecticut",
