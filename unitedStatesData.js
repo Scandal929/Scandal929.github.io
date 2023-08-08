@@ -124,7 +124,7 @@ var unitedStatesData = [
     "id": "496",
     "website": "http://www.skisundown.com/",
     "resortReview": {
-      "score": , // must be a number not a string
+      "score": "" ,// must be a number not a string
       "link": "kppnPMYcwfQ",
       "note": "",
       "price": "6",
@@ -15788,7 +15788,7 @@ var unitedStatesData = [
     "id": "193",
     "website": "https://www.crystalmountainresort.com/",
     "resortReview": {
-      "score": ,
+      "score": "",
       "link": "eEw65ZpAr4o",
       "note": "",
       "price": "7",
