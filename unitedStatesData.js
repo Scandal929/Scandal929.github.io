@@ -4774,7 +4774,7 @@ var unitedStatesData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Tannersville",
-    "videos": [],
+    "videos": ["xptv5RSx5Ds&t=58s"],
     "position": {
       "lat": 41.051811334929965,
       "lng": -75.35550284495609
@@ -5006,7 +5006,7 @@ var unitedStatesData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Carroll Valley",
-    "videos": [],
+    "videos": ["cFmGmNJYRaw"],
     "position": {
       "lat": 39.76445139227571,
       "lng": -77.37545903008194
