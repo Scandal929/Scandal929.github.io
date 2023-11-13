@@ -39,9 +39,7 @@ var unitedStatesData = [
     "state": "Connecticut",
     "region": "New England",
     "city": "Plantsville",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.58224478364855,
       "lng": -72.92487811535197
@@ -79,9 +77,7 @@ var unitedStatesData = [
     "state": "Connecticut",
     "region": "New England",
     "city": "Middlefield",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.50181371863382,
       "lng": -72.73647575953296
@@ -113,9 +109,7 @@ var unitedStatesData = [
     "state": "Connecticut",
     "region": "New England",
     "city": "New Hartford",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.884852916742,
       "lng": -72.94668787301656
@@ -838,9 +832,7 @@ var unitedStatesData = [
     "state": "Massachusetts",
     "region": "New England",
     "city": "Pittsfield",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.419249186089814,
       "lng": -73.2765876730039
@@ -872,9 +864,7 @@ var unitedStatesData = [
     "state": "Massachusetts",
     "region": "New England",
     "city": "Great Barrington",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.18411496956803,
       "lng": -73.32024457014731
@@ -938,9 +928,7 @@ var unitedStatesData = [
     "state": "Massachusetts",
     "region": "New England",
     "city": "Hancock",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.55537784801918,
       "lng": -73.2922293595082
@@ -1036,9 +1024,7 @@ var unitedStatesData = [
     "state": "Massachusetts",
     "region": "New England",
     "city": "Otis",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.19658758951682,
       "lng": -73.09835475951671
@@ -3120,7 +3106,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 47,
       "link": "gpsfxa1XqPc",
-      "note": "Johnathan scored this one out of 11 categories. He included 'fun' and 'parking' categories instead of an 'employees' category. Technically this should be scored 47/110 (or 42.7/100)",
+      "note": "Scored this one out of 11 categories. He included 'fun' and 'parking' categories instead of an 'employees' category. Technically this should be scored 47/110 (or 42.7/100)",
       "price": "6",
       "easeOfAccess": "7",
       "parking": "4",
@@ -3513,7 +3499,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 45,
       "link": "ALt-VpjRQew",
-      "note": "Johnathan rated this 45/100 in the video, but the scores actually add up to 46.",
+      "note": "Rated this 45/100 in the video, but the scores actually add up to 46.",
       "price": "5",
       "easeOfAccess": "4",
       "lodging": "1",
@@ -4750,7 +4736,7 @@ var unitedStatesData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Tannersville",
-    "videos": [],
+    "videos": ["xptv5RSx5Ds"],
     "position": {
       "lat": 41.051811334929965,
       "lng": -75.35550284495609
@@ -4982,7 +4968,7 @@ var unitedStatesData = [
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Carroll Valley",
-    "videos": [],
+    "videos": ["cFmGmNJYRaw"],
     "position": {
       "lat": 39.76445139227571,
       "lng": -77.37545903008194
@@ -6809,7 +6795,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 44,
       "link": "sUunGfMwnVI",
-      "note": "Johnathan rated this 44/100 in the video, but the scores actually add up to 45.",
+      "note": "Scandal929 rated this 44/100 in the video, but the scores actually add up to 45.",
       "price": "6",
       "easeOfAccess": "6",
       "lodging": "1",
@@ -7101,7 +7087,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 38,
       "link": "38Gg2ylGRsw",
-      "note": "Johnathan rated this 38/100 in the video, but the scores actually add up to 43.",
+      "note": "Rated this 38/100 in the video, but the scores actually add up to 43.",
       "price": "6",
       "easeOfAccess": "5",
       "lodging": "0",
@@ -8869,7 +8855,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 40,
       "link": "HTapi9Qq1-0",
-      "note": "Johnathan rated this 40/100 in the video, but the scores actually add up to 45.",
+      "note": "Rated this 40/100 in the video, but the scores actually add up to 45.",
       "price": "6",
       "easeOfAccess": "10",
       "lodging": "0",
@@ -9452,8 +9438,8 @@ var unitedStatesData = [
     "website": "https://skisunburst.com/",
     "resortReview": {
       "score": 31,
-      "link": "QKgEauYkEAs",
-      "note": "Johnathan rated this 31/100 in the video, but the scores actually add up to 36.",
+      "link": "",
+      "note": "Rated this 31/100 in the video, but the scores actually add up to 36.",
       "price": "8",
       "easeOfAccess": "7",
       "lodging": "0",
@@ -9649,7 +9635,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 36,
       "link": "BP520C4ZGRE",
-      "note": "Johnathan rated this 36/100 in the video, but the scores actually add up to 41.",
+      "note": "Rated this 36/100 in the video, but the scores actually add up to 41.",
       "price": "6",
       "easeOfAccess": "7",
       "lodging": "1",
@@ -10434,7 +10420,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 63,
       "link": "7zncp7BSBr8",
-      "note": "Johnathan rated this 62/100 in the video, but the scores actually add up to 63.",
+      "note": "Rated this 62/100 in the video, but the scores actually add up to 63.",
       "price": "8",
       "easeOfAccess": "6",
       "lodging": "0",
@@ -13117,7 +13103,7 @@ var unitedStatesData = [
     "resortReview": {
       "score": 57,
       "link": "W8rHJCmziH0",
-      "note": "Johnathan rated this 57/100 in the video, but the scores actually add up to 53.",
+      "note": "Rated this 57/100 in the video, but the scores actually add up to 53.",
       "price": "7",
       "easeOfAccess": "6",
       "lodging": "6",
