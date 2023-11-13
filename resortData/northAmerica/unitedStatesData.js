@@ -1,19 +1,5 @@
-// -------------------------
-// All Ski Map data
-// -------------------------
-// for (var i=0; i<allData.length; i++) {
-//   for (var j=0; j<a.length; j++) {
-//       var resort1 = allData[i].resortName.replace("Mount", "Mt").replace("Mt.", "Mt");
-//       var resort2 = a[j].SkiArea.name.replace("Mount", "Mt").replace("Mt.", "Mt");
-//       if (resort1.includes(resort2) || resort2.includes(resort1)) {
-//           console.log('There was a match!');
-//           allData[i].id = a[j].SkiArea.id;
-//           allData[i].website = a[j].SkiArea.official_website;
-//       }
-//   }  
-// }
-var lastUpdated = '05/24/2021';
-var allData = [
+var lastUpdated = '11/13/2023';
+var unitedStatesData = [
   {
     "resortName": "Mohawk Mountain Ski Area",
     "state": "Connecticut",
@@ -26,51 +12,137 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "493",
-    "website": "http://www.mohawkmtn.com/"
+    "website": "http://www.mohawkmtn.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/k7vzp9xymxigq8xmb878hebozv3n",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Southington",
     "state": "Connecticut",
     "region": "New England",
     "city": "Plantsville",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 41.58224478364855,
       "lng": -72.92487811535197
     },
     "officialSkiResort": true,
     "id": "494",
-    "website": "http://www.mountsouthington.com/"
+    "website": "http://www.mountsouthington.com/",
+    "resortReview": {
+      "score": 39,
+      "link": "XruDZ8wKw58",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "7",
+      "lodging": "1",
+      "chairLifts": "3",
+      "runs": "3",
+      "terrainPark": "5",
+      "food": "4",
+      "employees": "4",
+      "views": "1",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/5lnfg1gnmtr121eewsnfk1ntnhfk",
+    "webcam": [
+      {
+        "title": "Mount Southington",
+        "link": "Jx5FPsPltz0"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Powder Ridge Ski Area",
     "state": "Connecticut",
     "region": "New England",
     "city": "Middlefield",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 41.50181371863382,
       "lng": -72.73647575953296
     },
     "officialSkiResort": true,
     "id": "492",
-    "website": "http://www.powderridgepark.com/"
+    "website": "http://www.powderridgepark.com/",
+    "resortReview": {
+      "score": 47,
+      "link": "kH6DxJg81X4",
+      "note": "",
+      "price": "8",
+      "easeOfAccess": "7",
+      "lodging": "3",
+      "chairLifts": "1",
+      "runs": "3",
+      "terrainPark": "6",
+      "food": "5",
+      "employees": "5",
+      "views": "2",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/75u4ifuia9kahk1ilkey09djilxo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Sundown",
     "state": "Connecticut",
     "region": "New England",
     "city": "New Hartford",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 41.884852916742,
       "lng": -72.94668787301656
     },
     "officialSkiResort": true,
     "id": "496",
-    "website": "http://www.skisundown.com/"
+    "website": "http://www.skisundown.com/",
+    "resortReview": {
+      "score": 45,
+      "link": "kppnPMYcwfQ",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "6",
+      "lodging": "0",
+      "chairLifts": "3",
+      "runs": "4",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "5",
+      "views": "4",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/hu4v50u2vosq1lisf026ot6676qo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Baker Mountain",
     "state": "Maine",
     "region": "New England",
@@ -82,9 +154,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3216",
-    "website": "https://www.facebook.com/Baker-Mt-Ski-Tow-Club-211892185489436/"
+    "website": "https://www.facebook.com/Baker-Mt-Ski-Tow-Club-211892185489436/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7e6lrw6j3qyfb8f9cno3hwhkfoxa",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Rock",
     "state": "Maine",
     "region": "New England",
@@ -96,9 +186,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "455",
-    "website": "http://www.bigrockmaine.com/"
+    "website": "http://www.bigrockmaine.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/dk5ytmnwd827anzqjgyluq0aisf2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Squaw",
     "state": "Maine",
     "region": "New England",
@@ -110,9 +220,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "457",
-    "website": "http://www.skibigsquaw.com/"
+    "website": "http://www.skibigsquaw.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/18rrf1qwc4fw2we111pjrn2jtlrp",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Black Mountain of Maine",
     "state": "Maine",
     "region": "New England",
@@ -124,9 +252,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "454",
-    "website": "http://www.skiblackmountain.org/"
+    "website": "http://www.skiblackmountain.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/lah8wdy34pu0x7sbp4is80nn03bh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Camden Snow Bowl",
     "state": "Maine",
     "region": "New England",
@@ -137,10 +285,28 @@ var allData = [
       "lng": -69.13468558830365
     },
     "officialSkiResort": true,
-    "id": "2907",
-    "website": "http://www.camdensnowbowl.com/"
+    "id": "452",
+    "website": "http://www.camdensnowbowl.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/gqzn64jq9q06wg216s45ipbcfqoj",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Eaton Mountain",
     "state": "Maine",
     "region": "New England",
@@ -152,9 +318,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "451",
-    "website": "http://www.eatonmountain.com/home.html"
+    "website": "http://www.eatonmountain.com/home.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/x8ezkaszgkfrn6fac6vls0wfvm01",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hermon Mountain",
     "state": "Maine",
     "region": "New England",
@@ -166,9 +350,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "453",
-    "website": "http://skihermonmountain.com/"
+    "website": "http://skihermonmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/b64t8ym429uo3mewkd53c5lv89cd",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lonesome Pine Trails",
     "state": "Maine",
     "region": "New England",
@@ -180,9 +382,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3204",
-    "website": "http://www.lonesomepines.org/"
+    "website": "http://www.lonesomepines.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/o4kfn6k7ejeaqv51yb24bsagbagr",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lost Valley",
     "state": "Maine",
     "region": "New England",
@@ -194,9 +414,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "449",
-    "website": "http://www.lostvalleyski.com/"
+    "website": "http://www.lostvalleyski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/3wqlrccrgoztalzwkw7fuh4skzcc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Abram",
     "state": "Maine",
     "region": "New England",
@@ -208,9 +446,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "447",
-    "website": "http://www.mtabram.com/"
+    "website": "http://www.mtabram.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/a0ai8igf8u5031retkkar0f7iw9f",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Jefferson Ski Area",
     "state": "Maine",
     "region": "New England",
@@ -222,9 +478,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "450",
-    "website": "http://www.skimtjefferson.com/"
+    "website": "http://www.skimtjefferson.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/yi2fleoq7iuddmbgjxui2fja7qyi",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pinnacle Ski Club",
     "state": "Maine",
     "region": "New England",
@@ -236,9 +510,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3275",
-    "website": "http://pinnacleskiclub.wordpress.com/"
+    "website": "http://pinnacleskiclub.wordpress.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/m60ju3fjyhzms4dvpu52ix0sn0eo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Powderhouse Hill",
     "state": "Maine",
     "region": "New England",
@@ -250,9 +542,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3210",
-    "website": "http://www.powderhousehill.com/"
+    "website": "http://www.powderhousehill.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/iwtd28pbxqn45diii5q29aazrzm0",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Quoggy Jo",
     "state": "Maine",
     "region": "New England",
@@ -264,9 +574,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3211",
-    "website": "http://www.skiquoggyjo.org/"
+    "website": "http://www.skiquoggyjo.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Saddleback Maine",
     "state": "Maine",
     "region": "New England",
@@ -278,9 +606,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "446",
-    "website": "http://www.saddlebackmaine.com/"
+    "website": "http://www.saddlebackmaine.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/5p9dubavvwg8xs7st43cgwkw2efs",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Shawnee Peak",
     "state": "Maine",
     "region": "New England",
@@ -292,9 +640,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "456",
-    "website": "http://www.shawneepeak.com/"
+    "website": "http://www.shawneepeak.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/kpebhk25zlcw1fy8ej0t1tuk0dt7",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sugarloaf",
     "state": "Maine",
     "region": "New England",
@@ -306,9 +672,36 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "448",
-    "website": "http://www.sugarloaf.com"
+    "website": "http://www.sugarloaf.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/hmgikna4vu0fsj4nb510on1hyy5c",
+    "webcam": [
+      {
+        "title": "Sugarloaf Webcam - Beach Cam",
+        "link": "q30GjuSB_ls"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sunday River",
     "state": "Maine",
     "region": "New England",
@@ -320,9 +713,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "459",
-    "website": "http://www.sundayriver.com/"
+    "website": "http://www.sundayriver.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/8nz8sl0d15uwd15uzz0sy0wnxhgh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Titcomb Mountain",
     "state": "Maine",
     "region": "New England",
@@ -334,9 +747,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "458",
-    "website": "http://www.titcombmountain.com/"
+    "website": "http://www.titcombmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/tximyerrm9hch5y2x46ijhn28wna",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Berkshire East Ski Resort",
     "state": "Massachusetts",
     "region": "New England",
@@ -347,23 +778,30 @@ var allData = [
       "lng": -72.87717791717822
     },
     "officialSkiResort": true,
-    "website": "https://berkshireeast.com/"
-  },
-  {
-    "resortName": "Blandford Ski Area",
-    "state": "Massachusetts",
-    "region": "New England",
-    "city": "Blandford",
-    "videos": [],
-    "position": {
-      "lat": 42.200658271605704,
-      "lng": -72.91711617348383
+    "id": "435",
+    "website": "https://berkshireeast.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "438",
-    "website": "https://skiblandford.com/"
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/b47decyjv9b22omyfjb8jd490au5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Blue Hills Ski Area",
     "state": "Massachusetts",
     "region": "New England",
@@ -375,37 +813,95 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "440",
-    "website": "https://www.bluehillsboston.com/"
+    "website": "https://www.bluehillsboston.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/qkcujivk5rbltifa2al2uknbaeqv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bousquet Ski Area",
     "state": "Massachusetts",
     "region": "New England",
     "city": "Pittsfield",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 42.419249186089814,
       "lng": -73.2765876730039
     },
     "officialSkiResort": true,
     "id": "444",
-    "website": "https://bousquetmountain.com/"
+    "website": "https://bousquetmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7radclyue2xgisb670zmh531ylxh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Butternut",
     "state": "Massachusetts",
     "region": "New England",
     "city": "Great Barrington",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 42.18411496956803,
       "lng": -73.32024457014731
     },
     "officialSkiResort": true,
     "id": "441",
-    "website": "http://www.skibutternut.com/"
+    "website": "http://www.skibutternut.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/z35w15sd138cw7aritnzb4gfbc4p",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Easton Ski Area at Eaglebrook School (private)",
     "state": "Massachusetts",
     "region": "New England",
@@ -417,23 +913,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2997",
-    "website": "http://www.eaglebrook.org"
+    "website": "http://www.eaglebrook.org",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/zf4acsg7afi3x37102j142gd61gu",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Jiminy Peak",
     "state": "Massachusetts",
     "region": "New England",
     "city": "Hancock",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 42.55537784801918,
       "lng": -73.2922293595082
     },
     "officialSkiResort": true,
     "id": "443",
-    "website": "http://www.jiminypeak.com"
+    "website": "http://www.jiminypeak.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ysxzbvl4f189upbxy46yhuq3d6si",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Greylock Ski Club",
     "state": "Massachusetts",
     "region": "New England",
@@ -445,9 +979,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3225",
-    "website": "http://www.mtgreylockskiclub.com/"
+    "website": "http://www.mtgreylockskiclub.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/n21kenidp1tsmxdfgzpvldpf3nsk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Nashoba Valley Ski Area",
     "state": "Massachusetts",
     "region": "New England",
@@ -459,23 +1011,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "436",
-    "website": "https://skinashoba.com/"
+    "website": "https://skinashoba.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/17mp2x9p1b83dh4vphaojl0pwmxh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Otis Ridge",
     "state": "Massachusetts",
     "region": "New England",
     "city": "Otis",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 42.19658758951682,
       "lng": -73.09835475951671
     },
     "officialSkiResort": true,
     "id": "434",
-    "website": "http://www.otisridge.com/"
+    "website": "http://www.otisridge.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/bqzm9d8of8c40gst2javtpep11mz",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Bradford",
     "state": "Massachusetts",
     "region": "New England",
@@ -487,9 +1077,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "439",
-    "website": "https://skibradford.com/"
+    "website": "https://skibradford.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/eaugfn5qd43ixxjutjknn4u71dsu",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Ward",
     "state": "Massachusetts",
     "region": "New England",
@@ -501,9 +1109,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "442",
-    "website": "https://www.skiward.com/"
+    "website": "https://www.skiward.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/mdtfrcjq8iedlw8qgetnp8ctjhs2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Wachusett Mountain",
     "state": "Massachusetts",
     "region": "New England",
@@ -515,9 +1141,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "437",
-    "website": "https://www.wachusett.com/"
+    "website": "https://www.wachusett.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/5z4zkhkehp12ttuazv1pa28hveju",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Abenaki Ski Area",
     "state": "New Hampshire",
     "region": "New England",
@@ -529,9 +1173,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4091",
-    "website": "http://www.wolfeboronh.us/abenaki-ski-area"
+    "website": "http://www.wolfeboronh.us/abenaki-ski-area",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/nyhlqmfnyrh4wgfcc8fflhxu019b",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Arrowhead",
     "state": "New Hampshire",
     "region": "New England",
@@ -543,9 +1205,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "15010",
-    "website": "https://www.beavercreek.com/"
+    "website": "https://www.beavercreek.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://skimap.org/data/2146/916/1335548315.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Attitash",
     "state": "New Hampshire",
     "region": "New England",
@@ -557,9 +1237,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "349",
-    "website": "https://www.attitash.com/"
+    "website": "https://www.attitash.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/ghkjnnmot9gc83z1ybxf2zeamgey",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Black Mountain",
     "state": "New Hampshire",
     "region": "New England",
@@ -571,9 +1271,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "454",
-    "website": "http://www.skiblackmountain.org/"
+    "website": "http://www.skiblackmountain.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/lah8wdy34pu0x7sbp4is80nn03bh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bretton Woods",
     "state": "New Hampshire",
     "region": "New England",
@@ -585,9 +1305,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "346",
-    "website": "https://www.brettonwoods.com/"
+    "website": "https://www.brettonwoods.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/z6zxouj9n62junsej3glljwlljos",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cannon Mountain",
     "state": "New Hampshire",
     "region": "New England",
@@ -599,9 +1337,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "347",
-    "website": "http://www.cannonmt.com/"
+    "website": "http://www.cannonmt.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/3c0avxx8az4elfr9dkgdzevtv12f",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Campton Mountain",
     "state": "New Hampshire",
     "region": "New England",
@@ -613,9 +1371,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3044",
-    "website": "https://www.camptonmountain.com/"
+    "website": "https://www.camptonmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ikra2tsl6zf142uiexocxv8shsna",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cranmore Mountain Resort",
     "state": "New Hampshire",
     "region": "New England",
@@ -627,9 +1403,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "344",
-    "website": "http://www.cranmore.com/"
+    "website": "http://www.cranmore.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vao2w387tzh4m8nba4lrfbmq6yo5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Crotched Mountain",
     "state": "New Hampshire",
     "region": "New England",
@@ -641,9 +1435,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "343",
-    "website": "https://www.crotchedmtn.com/"
+    "website": "https://www.crotchedmtn.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/0zfo8vwicawn016ubn0maiwzpg8l",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Dartmouth Skiway",
     "state": "New Hampshire",
     "region": "New England",
@@ -655,9 +1469,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "345",
-    "website": "https://sites.dartmouth.edu/skiway/"
+    "website": "https://sites.dartmouth.edu/skiway/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6ivuc0zdqdmcp6ujt9rd89izkxf3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Franklin Veterans Memorial Recreation Area",
     "state": "New Hampshire",
     "region": "New England",
@@ -669,9 +1501,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4092",
-    "website": "http://www.franklinoutingclub.org/vmra.html"
+    "website": "http://www.franklinoutingclub.org/vmra.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8fq0fudfxbdhd2yxbgspwa43j62k",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Granite Gorge",
     "state": "New Hampshire",
     "region": "New England",
@@ -683,9 +1533,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1076",
-    "website": "http://www.granitegorge.com/"
+    "website": "http://www.granitegorge.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6rf9dg6yw64af60ffervqgodx1tc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Gunstock Mountain Resort",
     "state": "New Hampshire",
     "region": "New England",
@@ -697,9 +1565,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": 342,
-    "website": "https://www.gunstock.com/"
+    "website": "https://www.gunstock.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/egax5zks6t6quywhm1fv1ein14fa",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Kanc Rec Area",
     "state": "New Hampshire",
     "region": "New England",
@@ -711,9 +1597,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "13097",
-    "website": "https://www.lincolnnh.org/recreation"
+    "website": "https://www.lincolnnh.org/recreation",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "King Pine",
     "state": "New Hampshire",
     "region": "New England",
@@ -725,9 +1629,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "354",
-    "website": "https://www.kingpine.com/"
+    "website": "https://www.kingpine.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/0a7k6vr5p0zg4spwnu555hy9fw12",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Loon Mountain",
     "state": "New Hampshire",
     "region": "New England",
@@ -739,9 +1661,35 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "352",
-    "website": "https://www.loonmtn.com/"
+    "website": "https://www.loonmtn.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/zdu0k4bi664axgf24utu3ymy8jp2",
+    "webcam": [
+      {
+        "title": "Live at Loon Mountain",
+        "link": "vEL7ZwOK65Y"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "McIntyre Ski Area",
     "state": "New Hampshire",
     "region": "New England",
@@ -753,9 +1701,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3012",
-    "website": "http://mcintyreskiarea.com/"
+    "website": "http://mcintyreskiarea.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ad1b78gdc33iblfhx6vcylh1mtjm",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Eustis - Littleton",
     "state": "New Hampshire",
     "region": "New England",
@@ -767,9 +1733,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2686",
-    "website": "http://www.mteustis.org"
+    "website": "http://www.mteustis.org",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Prospect",
     "state": "New Hampshire",
     "region": "New England",
@@ -781,9 +1765,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3224",
-    "website": "http://www.skiprospect.com/"
+    "website": "http://www.skiprospect.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Sunapee Resort",
     "state": "New Hampshire",
     "region": "New England",
@@ -795,9 +1797,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "357",
-    "website": "https://www.mountsunapee.com/"
+    "website": "https://www.mountsunapee.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/4m3mc78ejv8qffp17g5tiye5xbov",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pats Peak",
     "state": "New Hampshire",
     "region": "New England",
@@ -809,9 +1831,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "355",
-    "website": "https://www.patspeak.com/"
+    "website": "https://www.patspeak.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/3ywrxlw76ho7bhfdckglv2ch51nq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ragged Mountain",
     "state": "New Hampshire",
     "region": "New England",
@@ -823,9 +1865,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "351",
-    "website": "https://raggedmountainresort.com/"
+    "website": "https://raggedmountainresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/mzge3aqafrcam6hggoyb8q3qubeh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Red Hill Ski Club",
     "state": "New Hampshire",
     "region": "New England",
@@ -837,9 +1897,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4158",
-    "website": "http://www.redhillskiclub.org/"
+    "website": "http://www.redhillskiclub.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8wxg1kx6gogmi7hm4xqiebkkg31a",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Storrs Hill",
     "state": "New Hampshire",
     "region": "New England",
@@ -851,9 +1929,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4118",
-    "website": "http://www.storrshill.com"
+    "website": "http://www.storrshill.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/339id52u0m47sciq9c4m07djt4xk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Tenney Mountain Ski Resort",
     "state": "New Hampshire",
     "region": "New England",
@@ -865,9 +1961,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1077",
-    "website": "https://www.skitenney.com/"
+    "website": "https://www.skitenney.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/2vmlczpknq5x9aqfbtk324dhi12r",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "The Balsams Wilderness",
     "state": "New Hampshire",
     "region": "New England",
@@ -879,9 +1993,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "350",
-    "website": "https://thebalsamsresort.com/vision/ski-expansion/"
+    "website": "https://thebalsamsresort.com/vision/ski-expansion/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/fsx5v83j7wnz51hgnlnlvk4vqk5x",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Waterville Valley Resort",
     "state": "New Hampshire",
     "region": "New England",
@@ -893,9 +2025,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "353",
-    "website": "https://www.waterville.com/"
+    "website": "https://www.waterville.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/y7r7wpp2djkuqte489tf113qkhg5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Whaleback",
     "state": "New Hampshire",
     "region": "New England",
@@ -906,10 +2058,28 @@ var allData = [
       "lng": -72.18024354412688
     },
     "officialSkiResort": true,
-    "id": "3043",
-    "website": "http://whalebacknordic.com/"
+    "id": "1078",
+    "website": "https://www.whaleback.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/r2xxzlsdcc0e8p8fc45sxff14gmb",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Wildcat Mountain",
     "state": "New Hampshire",
     "region": "New England",
@@ -921,9 +2091,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "356",
-    "website": "https://www.skiwildcat.com/"
+    "website": "https://www.skiwildcat.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/k6x1ys7jzp96ezjzpsgwni9arb41",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Yawgoo Valley",
     "state": "Rhode Island",
     "region": "New England",
@@ -935,9 +2125,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "236",
-    "website": "http://www.yawgoo.com"
+    "website": "http://www.yawgoo.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/al9zw6ww0v21kkkhcxrd4u0hnm7p",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bellows Falls Ski Tow",
     "state": "Vermont",
     "region": "New England",
@@ -949,9 +2157,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "13027",
-    "website": "https://www.facebook.com/Bellows-Falls-Rope-tow-191875957504078/"
+    "website": "https://www.facebook.com/Bellows-Falls-Rope-tow-191875957504078/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bolton Valley Resort",
     "state": "Vermont",
     "region": "New England",
@@ -963,9 +2189,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "216",
-    "website": "http://www.boltonvalley.com"
+    "website": "http://www.boltonvalley.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/lnmwydbn22vxsczs4dvf66gnc9y9",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bromley Mountain",
     "state": "Vermont",
     "region": "New England",
@@ -977,9 +2223,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "217",
-    "website": "https://www.bromley.com/"
+    "website": "https://www.bromley.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/pbi2dq1nd2n9i2eyzk1f14shhxyo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Burke Mountain",
     "state": "Vermont",
     "region": "New England",
@@ -991,9 +2255,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2247",
-    "website": "https://skiburke.com/"
+    "website": "https://skiburke.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://skimap.org/data/208/3535/1573352974.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cochran's Ski Area",
     "state": "Vermont",
     "region": "New England",
@@ -1005,9 +2287,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "207",
-    "website": "http://www.cochranskiarea.org/"
+    "website": "http://www.cochranskiarea.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ktisvx2tn6jynosamlnc2lot85cn",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Harrington Hill",
     "state": "Vermont",
     "region": "New England",
@@ -1018,9 +2318,27 @@ var allData = [
       "lng": -72.36656731411041
     },
     "officialSkiResort": true,
-    "website": "https://www.newenglandskihistory.com/maps/mapsbyarea.php?filename=harringtonhill&state=vt"
+    "website": "https://www.newenglandskihistory.com/maps/mapsbyarea.php?filename=harringtonhill&state=vt",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hard 'Ack",
     "state": "Vermont",
     "region": "New England",
@@ -1032,10 +2350,28 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "12835",
-    "website": "https://www.facebook.com/HardAckInc/"
+    "website": "https://www.facebook.com/HardAckInc/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/wlr2rl2h43q9itpfg3yiyymcapn2",
+    "country": "United States"
   },
-  {
-    "resortName": "Haystack",
+  {    
+    "resortName": "Hermitage Club (formerly Haystack)",
     "state": "Vermont",
     "region": "New England",
     "city": "West Dover (private)",
@@ -1046,9 +2382,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2133",
-    "website": "http://hermitageclub.com"
+    "website": "http://hermitageclub.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vx8vmmr9vluzewof2pf7ulhav32y",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Jay Peak Resort",
     "state": "Vermont",
     "region": "New England",
@@ -1060,36 +2414,98 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "202",
-    "website": "http://jaypeakresort.com/"
+    "website": "http://jaypeakresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/dt07ns74rfacyfzu8aonv31afas3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Killington Ski Resort",
     "state": "Vermont",
     "region": "New England",
     "city": "Killington",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 43.626463482520855,
       "lng": -72.79673079000918
     },
     "officialSkiResort": true,
     "id": "211",
-    "website": "http://www.killington.com"
+    "website": "http://www.killington.com",
+    "resortReview": {
+      "score": 66,
+      "link": "ZKxshRQC66w",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "4",
+      "lodging": "5",
+      "chairLifts": "8",
+      "runs": "6",
+      "terrainPark": "10",
+      "food": "10",
+      "employees": "5",
+      "views": "4",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/wegu9p2txk3cl880726g71b9ot8s",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Dark Park at Darkside Snowboard Shop",
     "state": "Vermont",
     "region": "New England",
     "city": "Killington",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 43.646509245137636,
       "lng": -72.7896801091444
     },
     "officialSkiResort": false,
-    "website": "http://darksidesnowboards.com/"
+    "website": "http://darksidesnowboards.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://unofficialnetworks.com/wp-content/uploads/sites/88/2022/10/Screen-Shot-2022-10-27-at-10.49.50-PM.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Living Memorial Park",
     "state": "Vermont",
     "region": "New England",
@@ -1101,9 +2517,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4101",
-    "website": "http://www.vtsnowsports.org/"
+    "website": "http://www.vtsnowsports.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/v5efof3fa4gxh7kz54dr4z6mq4bh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lyndon Outing Club",
     "state": "Vermont",
     "region": "New England",
@@ -1115,13 +2549,32 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3962",
-    "website": "http://www.skilyndon.com/"
+    "website": "http://www.skilyndon.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ey7rkcq0jyiw6efhggagj2e7nlwd",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mad River Glen",
     "state": "Vermont",
     "region": "New England",
     "city": "Fayston (ski only)",
+    "skiOnly": true,
     "videos": [],
     "position": {
       "lat": 44.202645696018386,
@@ -1129,9 +2582,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "200",
-    "website": "http://www.madriverglen.com"
+    "website": "http://www.madriverglen.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/svmztveaincvv0ys15lkbfwlq1i6",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Magic Mountain",
     "state": "Vermont",
     "region": "New England",
@@ -1143,9 +2614,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "14790",
-    "website": "https://magicmtn.com/"
+    "website": "https://magicmtn.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ml0oryv67ve13c663f5h2ba24auj",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Middlebury College Snow Bowl",
     "state": "Vermont",
     "region": "New England",
@@ -1157,9 +2648,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2907",
-    "website": "https://www.middleburysnowbowl.com/"
+    "website": "https://www.middleburysnowbowl.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/zn8z17uazho4ojvj7qv7m7znoo3i",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Snow",
     "state": "Vermont",
     "region": "New England",
@@ -1169,13 +2678,31 @@ var allData = [
       "lat": 42.969241583262686,
       "lng": -72.89617860130123
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "210",
-    "website": "http://mountsnow.com/"
+    "website": "http://mountsnow.com/",
+    "resortReview": {
+      "score": 56,
+      "link": "SvYeSrOyf_c",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "5",
+      "lodging": "4",
+      "chairLifts": "6",
+      "runs": "4",
+      "terrainPark": "10",
+      "food": "5",
+      "employees": "5",
+      "views": "4",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/otxaauu3733qezco0vyy82oyzy3r",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Northeast Slopes",
     "state": "Vermont",
     "region": "New England",
@@ -1186,10 +2713,28 @@ var allData = [
       "lng": -72.25051395945886
     },
     "officialSkiResort": true,
-    "id": "4159",
-    "website": "http://www.northeastslopes.org/"
+    "id": "3019",
+    "website": "http://www.northeastslopes.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/q6qp6p4ary0r1c9m6vfpfebkfggs",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Okemo Mountain",
     "state": "Vermont",
     "region": "New England",
@@ -1201,9 +2746,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "204",
-    "website": "http://okemo.com"
+    "website": "http://okemo.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/bfmzp16mzhiwxygrypr1r4jq43t5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pico Mountain",
     "state": "Vermont",
     "region": "New England",
@@ -1215,9 +2780,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1091",
-    "website": "https://www.picomountain.com/"
+    "website": "https://www.picomountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/yt5qrp3h4zygsb2hexg6wz4l5fy5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Plymouth Notch",
     "state": "Vermont",
     "region": "New England",
@@ -1229,9 +2814,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1090",
-    "website": "http://www.skithenotch.com/"
+    "website": "http://www.skithenotch.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/opa0lptqwznl0anafe6nct7d2q1t",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Quechee Lakes Ski Area",
     "state": "Vermont",
     "region": "New England",
@@ -1243,9 +2846,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "215",
-    "website": "http://www.quecheeclub.com/"
+    "website": "http://www.quecheeclub.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/89mos3e6sutf7hrxrn4agxl76j63",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Smugglers' Notch",
     "state": "Vermont",
     "region": "New England",
@@ -1257,9 +2878,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "209",
-    "website": "http://www.smuggs.com/"
+    "website": "http://www.smuggs.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/d4o9uoc99b42dkb9psswoh8wb6oq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Stowe Mountain Resort",
     "state": "Vermont",
     "region": "New England",
@@ -1271,9 +2910,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "212",
-    "website": "http://www.stowe.com"
+    "website": "http://www.stowe.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/bmox7bj7mw9u0gd92q3t1keex6kh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Stratton Mountain Resort",
     "state": "Vermont",
     "region": "New England",
@@ -1285,9 +2944,35 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "213",
-    "website": "https://www.stratton.com/"
+    "website": "https://www.stratton.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/gn7it550on0h3ki0u5tp5xmkbqdx",
+    "webcam": [
+      {
+        "title": "Base Cam",
+        "link": "H-_sGi4Sbtk"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sugarbush Resort",
     "state": "Vermont",
     "region": "New England",
@@ -1299,10 +2984,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "205",
-    "website": "https://www.sugarbush.com/"
+    "website": "https://www.sugarbush.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/1zxkeb9cnb3zidb1pjopqkhl6dpq",
+    "country": "United States"
   },
-  {
-    "resortName": "Suicide Six",
+  {    
+    "resortName": "Saskadena Six",
     "state": "Vermont",
     "region": "New England",
     "city": "South Pomfret",
@@ -1313,9 +3018,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "203",
-    "website": "https://www.woodstockinn.com/ski-area"
+    "website": "https://www.woodstockinn.com/ski-area",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/275pkibdmava8hkb9szsumtqxxbi",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Ascutney Outdoors",
+    "state": "Vermont",
+    "region": "New England",
+    "city": "Brownsville",
+    "videos": [],
+    "position": {
+      "lat": 43.4608937800826,
+      "lng": -72.4632453918457
+    },
+    "officialSkiResort": true,
+    "id": "206",
+    "website": "https://www.ascutneyoutdoors.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/qhzdkz1fwmxhzc1rsy64pmsxz5uu",
+    "country": "United States"
+  },
+  {    
     "resortName": "Wisp Ski Resort",
     "state": "Maryland",
     "region": "Mid-Atlantic",
@@ -1327,9 +3084,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "445",
-    "website": "https://www.wispresort.com/"
+    "website": "https://www.wispresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ehwh4u20546qfhk6jpfo6uxhj4kt",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Snow American Dream",
     "state": "New Jersey",
     "region": "Mid-Atlantic",
@@ -1339,13 +3114,30 @@ var allData = [
       "lat": 40.80972110512825,
       "lng": -74.07089431436135
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "2658",
-    "website": "https://www.bigsnowamericandream.com/"
+    "website": "https://www.bigsnowamericandream.com/",
+    "resortReview": {
+      "score": 47,
+      "link": "gpsfxa1XqPc",
+      "note": "Johnathan scored this one out of 11 categories. He included 'fun' and 'parking' categories instead of an 'employees' category. Technically this should be scored 47/110 (or 42.7/100)",
+      "price": "6",
+      "easeOfAccess": "7",
+      "parking": "4",
+      "lodging": "0",
+      "chairLifts": "7",
+      "runs": "2",
+      "terrainPark": "6",
+      "food": "1",
+      "views": "0",
+      "fun": "7",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/fb18xxhj9yrmym6t93s7nza5xodf",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Campgaw Mountain",
     "state": "New Jersey",
     "region": "Mid-Atlantic",
@@ -1357,10 +3149,28 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "340",
-    "website": "https://www.skicampgaw.com/"
+    "website": "https://www.skicampgaw.com/",
+    "resortReview": {
+      "score": 28,
+      "link": "_5cfWpVnvhY",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "6",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "1",
+      "terrainPark": "1",
+      "food": "5",
+      "employees": "3",
+      "views": "2",
+      "wouldIGoBack": "2"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/t5ue03rarnkorfzt4bdsyvkfx42k",
+    "country": "United States"
   },
-  {
-    "resortName": "Hidden Valley",
+  {    
+    "resortName": "National Winter Activity Center",
     "state": "New Jersey",
     "region": "Mid-Atlantic",
     "city": "Vernon",
@@ -1370,24 +3180,62 @@ var allData = [
       "lng": -74.48167807558974
     },
     "officialSkiResort": true,
-    "id": "5231",
-    "website": "http://www.doublehranch.org/"
+    "id": "341",
+    "website": "https://winter4kids.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/cdoymwrimzq86njgjmzc309hm8y1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mountain Creek",
     "state": "New Jersey",
     "region": "Mid-Atlantic",
     "city": "Vernon",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 41.181196331155085,
       "lng": -74.51322156175259
     },
     "officialSkiResort": true,
     "id": "339",
-    "website": "http://www.mountaincreek.com"
+    "website": "http://www.mountaincreek.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/hcbg8wslbosqeb64ljfbme2ogpzi",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Beartown Ski Area",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1398,24 +3246,62 @@ var allData = [
       "lng": -73.58382034352545
     },
     "officialSkiResort": true,
-    "id": "14913",
-    "website": "https://www.newenglandskihistory.com/Massachusetts/beartownmtn.php"
+    "id": "3227",
+    "website": "www.skibeartown.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ubgn8qbu8d9bszt9oegqzxkyfog9",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Belleayre Ski Center",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Highmount",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 42.14197859167307,
       "lng": -74.50222554454848
     },
     "officialSkiResort": true,
     "id": "324",
-    "website": "http://www.belleayre.com/"
+    "website": "http://www.belleayre.com/",
+    "resortReview": {
+      "score": 41,
+      "link": "vKl_mBCF6mU",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "6",
+      "lodging": "1",
+      "chairLifts": "6",
+      "runs": "3",
+      "terrainPark": "3",
+      "food": "5",
+      "employees": "5",
+      "views": "2",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ub66gtj51dfhdq1a5npkggm67asp",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Tupper Ski Area",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1427,9 +3313,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2779",
-    "website": "http://skibigtupper.org/"
+    "website": "http://skibigtupper.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/n5cnlrp3zv3tkb8j768ocihmxeq0",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Brantling Ski Slopes",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1441,9 +3345,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "309",
-    "website": "http://www.brantling.com/"
+    "website": "http://www.brantling.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/49qh9b6douxj9m2st5iuueycrbkt",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bristol Mountain Ski Resort",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1455,9 +3377,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "313",
-    "website": "http://www.bristolmountain.com/"
+    "website": "http://www.bristolmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/mhm6nxn40zg06bxy04t8ypzzu6gc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Buffalo Ski Club",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1469,9 +3409,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3228",
-    "website": "http://www.bscskiarea.com/"
+    "website": "http://www.bscskiarea.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/salhogztslkd4xyoxj8aelqdi5bo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Catamount Ski Area",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1483,9 +3441,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "323",
-    "website": "http://www.catamountski.com/"
+    "website": "http://www.catamountski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/vkir2mo94qx2euo6fkuobuidw319",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Dry Hill Ski Area",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1497,23 +3475,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "304",
-    "website": "http://skidryhill.com"
+    "website": "http://skidryhill.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/n3s8fybcu52kdfpembq52wz2vt72",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Gore Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "North Creek",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 43.67414698551106,
       "lng": -74.00667386724834
     },
     "officialSkiResort": true,
     "id": "320",
-    "website": "http://www.goremountain.com"
+    "website": "http://www.goremountain.com",
+    "resortReview": {
+      "score": 45,
+      "link": "ALt-VpjRQew",
+      "note": "Johnathan rated this 45/100 in the video, but the scores actually add up to 46.",
+      "price": "5",
+      "easeOfAccess": "4",
+      "lodging": "1",
+      "chairLifts": "7",
+      "runs": "4",
+      "terrainPark": "6",
+      "food": "5",
+      "employees": "6",
+      "views": "3",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/59uvwtezz4j5lnihn67iqhevi34d",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Greek Peak",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1525,9 +3541,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "297",
-    "website": "http://www.greekpeak.net/"
+    "website": "http://www.greekpeak.net/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/vex5shtlibe3bcczscoogwubmpmp",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hickory Ski Center",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1539,9 +3575,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "298",
-    "website": "http://www.hickoryskicenter.com/"
+    "website": "http://www.hickoryskicenter.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/efvh01op2bji63b5udcm05ho6sql",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Holiday Valley",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1553,9 +3607,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "318",
-    "website": "http://www.holidayvalley.com/"
+    "website": "http://www.holidayvalley.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/r3bmiy5qh77942k8kp3j0vfxaz5f",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Holiday Mountain Ski & Fun",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1567,9 +3639,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "311",
-    "website": "https://holidaymtn.com/"
+    "website": "https://holidaymtn.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/5cc84cnv8zmlfmsyqypc121h53kt",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Holimont",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1581,23 +3671,63 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "312",
-    "website": "https://holimont.com"
+    "website": "https://holimont.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/k05ypq2l5wi7cjr6vcinemx9707z",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hunter Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Hunter",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 42.20377699301453,
       "lng": -74.22450818315733
     },
     "officialSkiResort": true,
     "id": "315",
-    "website": "http://www.huntermtn.com/"
+    "website": "http://www.huntermtn.com/",
+    "resortReview": {
+      "score": 52,
+      "link": "mpoKns226DM",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "5",
+      "lodging": "6",
+      "chairLifts": "6",
+      "runs": "6",
+      "terrainPark": "4",
+      "food": "6",
+      "employees": "6",
+      "views": "5",
+      "wouldIGoBack": "2"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/4g23mls6txsps13azq1chfi1db1b",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Kissing Bridge",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1609,9 +3739,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "292",
-    "website": "https://www.kbski.com/"
+    "website": "https://www.kbski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/v7jgj5tr5ktnb02ryr0saptq03h9",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Labrador Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1623,23 +3771,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "306",
-    "website": "https://www.skicny.com/labrador/"
+    "website": "https://www.skicny.com/labrador/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/d3srkvmdja0voqsih5mdpxiom5df",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Peter Ski Area",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Warwick",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 41.24854169492592,
       "lng": -74.29514441419944
     },
     "officialSkiResort": true,
     "id": "307",
-    "website": "http://mtpeter.com/"
+    "website": "http://mtpeter.com/",
+    "resortReview": {
+      "score": 36,
+      "link": "bQaygJcxJKs",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "6",
+      "lodging": "1",
+      "chairLifts": "3",
+      "runs": "3",
+      "terrainPark": "1",
+      "food": "7",
+      "employees": "4",
+      "views": "3",
+      "wouldIGoBack": "2"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7s9fji6nyewg9euu435b98cjg1kn",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "McCauley Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1651,9 +3837,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "328",
-    "website": "http://www.mccauleyny.com/"
+    "website": "http://www.mccauleyny.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/qq10bbd3esehk3m41zi6e2pvd51p",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Oak Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1665,9 +3869,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "294",
-    "website": "http://oakmountainski.com/oak/"
+    "website": "http://oakmountainski.com/oak/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/lm3ny7qh9c5cejvs6mxt27mfcn7o",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Plattekill Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1679,9 +3901,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "",
-    "website": "https://www.plattekill.com/"
+    "website": "https://www.plattekill.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://skimap.org/data/293/3535/1618775822.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Royal Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1693,9 +3933,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "291",
-    "website": "https://www.royalmountain.com/"
+    "website": "https://www.royalmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ahd67km10k0ydyw6hlxlzhtvscms",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Song Mountain Resort",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1707,9 +3965,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "308",
-    "website": "https://www.skicny.com/song/"
+    "website": "https://www.skicny.com/song/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/kinhrpucxmg2al25vgwdo8uwk57n",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snow Ridge Ski Resort",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1721,9 +3997,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "312",
-    "website": "https://snowridge.com"
+    "website": "https://snowridge.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/k05ypq2l5wi7cjr6vcinemx9707z",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Swain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1735,9 +4031,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "310",
-    "website": "http://www.swain.com/"
+    "website": "http://www.swain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/qjbi5i3435ddepatm5pxl55bw0bb",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sugar Hill",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1749,23 +4065,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "",
-    "website": "https://www.dec.ny.gov/lands/37446.html"
+    "website": "https://www.dec.ny.gov/lands/37446.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Thunder Ridge Ski Area",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Patterson",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 41.509190088831,
       "lng": -73.58532172149616
     },
     "officialSkiResort": true,
     "id": "300",
-    "website": "https://thunderridgeski.com/"
+    "website": "https://thunderridgeski.com/",
+    "resortReview": {
+      "score": 37,
+      "link": "1T4nnsYp-gI",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "6",
+      "lodging": "1",
+      "chairLifts": "2",
+      "runs": "3",
+      "terrainPark": "2",
+      "food": "5",
+      "employees": "5",
+      "views": "1",
+      "wouldIGoBack": "6"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/d5rnc8erfohdvdnr4a2kdpx6wdzg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Titus Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1777,9 +4131,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "316",
-    "website": "https://www.titusmountain.com/"
+    "website": "https://www.titusmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/9h2yg1o1jh6192i8pu3c5pjfqs61",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Toggenburg Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1789,25 +4163,65 @@ var allData = [
       "lat": 42.8269876850396,
       "lng": -75.96028862099682
     },
-    "officialSkiResort": true,     
+    "officialSkiResort": true,
     "id": "305",
-    "website": "https://www.skitog.com/"  
+    "website": "https://www.skitog.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vyvetjx36w35q02mwbbi023azr98",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "West Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Glens Falls",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 43.286431660901286,
       "lng": -73.72507045205768
     },
     "officialSkiResort": true,
     "id": "317",
-    "website": "https://westmountain.com/"
+    "website": "https://westmountain.com/",
+    "resortReview": {
+      "score": 39,
+      "link": "1T4nnsYp-gI",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "5",
+      "lodging": "1",
+      "chairLifts": "3",
+      "runs": "5",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "5",
+      "views": "2",
+      "wouldIGoBack": "4"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/m9kvw50wrjtzexcfyiayee9diu70",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Willard Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1819,37 +4233,97 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "326",
-    "website": "http://www.willardmountain.com/"
+    "website": "http://www.willardmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/q5jcvbv46oplzx1yk79ujq9hrn2c",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Whiteface Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Wilmington",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 44.35393325780303,
       "lng": -73.86172634787795
     },
     "officialSkiResort": true,
     "id": "295",
-    "website": "http://www.whiteface.com"
+    "website": "http://www.whiteface.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/b2d80n4b355uvmdww0m0vifagtzs",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Windham Mountain",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Windham",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 42.299825491696716,
       "lng": -74.25610128421872
     },
     "officialSkiResort": true,
     "id": "330",
-    "website": "https://www.windhammountain.com/"
+    "website": "https://www.windhammountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/7evvvw0lhtu3zjca7qiucitc4ipc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Woods Valley Ski Resort",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1859,11 +4333,29 @@ var allData = [
       "lat": 43.303541134858555,
       "lng": -75.38493309012867
     },
-    "officialSkiResort": true,     
-    "id": "327",     
-    "website": "http://www.woodsvalleyskiarea.com/"  
+    "officialSkiResort": true,
+    "id": "327",
+    "website": "http://www.woodsvalleyskiarea.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/3cc2ryd6y22qfbic4d7n18dzbkzq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Peek'n Peak Resort",
     "state": "New York",
     "region": "Mid-Atlantic",
@@ -1873,25 +4365,257 @@ var allData = [
       "lat": 42.06263637525066,
       "lng": -79.73562846528858
     },
-    "officialSkiResort": true,     
-    "id": "302",     
-    "website": "http://www.pknpk.com/"  
+    "officialSkiResort": true,
+    "id": "302",
+    "website": "http://www.pknpk.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ok6lda0yj6cc4an5cn961t9nqdn8",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Victor Constant Ski Area",
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "West Point",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 41.39560173530888,
       "lng": -73.98356132208971
     },
-    "officialSkiResort": true,     
-    "id": "5003",     
-    "website": "https://westpoint.armymwr.com/programs/victor-constant-ski-area"  
+    "officialSkiResort": true,
+    "id": "5003",
+    "website": "https://westpoint.armymwr.com/programs/victor-constant-ski-area",
+    "resortReview": {
+      "score": 32,
+      "link": "4W_SmXNdUos",
+      "note": "",
+      "price": "9",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "1",
+      "runs": "2",
+      "terrainPark": "1",
+      "food": "5",
+      "employees": "5",
+      "views": "3",
+      "wouldIGoBack": "1"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/0k3gs02skh43m5v5jyk5e4pt4sb2",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Mount Pisgah",
+    "state": "New York",
+    "region": "Mid-Atlantic",
+    "city": "Saranac Lake",
+    "videos": [],
+    "position": {
+      "lat": 44.34566948981706,
+      "lng": -74.12563945229611
+    },
+    "officialSkiResort": true,
+    "id": "314",
+    "website": "https://www.saranaclake.com/alpine-skiing/mt-pisgah-recreation-center",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ht43dq3mrwjokqmim3fdw6hmccut",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Maple Ski Ridge",
+    "state": "New York",
+    "region": "Mid-Atlantic",
+    "city": "Schenectady",
+    "videos": [],
+    "position": {
+      "lat": 42.81798390084334,
+      "lng": -74.03209222368078
+    },
+    "officialSkiResort": true,
+    "id": "3235",
+    "website": "http://mapleskiridge.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/v44rbspqq3ug5imaavmhrnc8y732",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Cockaigne Ski Resort",
+    "state": "New York",
+    "region": "Mid-Atlantic",
+    "city": "Cherry Creek",
+    "videos": [],
+    "position": {
+      "lat": 42.2644475136505,
+      "lng": -79.1664505004883
+    },
+    "officialSkiResort": true,
+    "id": "303",
+    "website": "http://www.cockaigne.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/h9oxqiik3qlvw36483cqrc3s63hc",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Four Seasons Ski Center",
+    "state": "New York",
+    "region": "Mid-Atlantic",
+    "country": "United States",
+    "city": "Fayetteville",
+    "videos": [],
+    "position": {
+      "lat": 43.035787773300804,
+      "lng": -75.97217559814453
+    },
+    "officialSkiResort": true,
+    "id": "321",
+    "website": "http://fourseasonsgolfandski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/xpl9robx55o1431cr7ef2brxae9k"
+  },
+  {    
+    "resortName": "Villa Roma Ski Area",
+    "state": "New York",
+    "region": "Mid-Atlantic",
+    "country": "United States",
+    "city": "Callicoon",
+    "videos": [],
+    "position": {
+      "lat": 41.76398173186272,
+      "lng": -74.96928691864014
+    },
+    "officialSkiResort": true,
+    "id": "322",
+    "website": "http://www.villaroma.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6i9lr5tp0fmh78ph7h6wwu8gxo8j"
+  },
+  {    
+    "resortName": "Hunt Hollow Ski Club",
+    "state": "New York",
+    "region": "Mid-Atlantic",
+    "country": "United States",
+    "city": "Naples",
+    "videos": [],
+    "position": {
+      "lat": 42.64172257190191,
+      "lng": -77.47732291951034
+    },
+    "officialSkiResort": true,
+    "id": "325",
+    "website": "http://www.villaroma.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/gydzlzaji3tpfbjyx6ppzsbc5dsn"
+  },
+  {    
     "resortName": "Bear Creek Mountain Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -1901,11 +4625,29 @@ var allData = [
       "lat": 40.47995733199577,
       "lng": -75.6217672991399
     },
-    "officialSkiResort": true,     
-    "id": "256",     
-    "website": "https://www.bcmountainresort.com/"  
+    "officialSkiResort": true,
+    "id": "256",
+    "website": "https://www.bcmountainresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/4pzf81vb7mw5uzytabanmjp35z04",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Blue Knob All Seasons Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -1916,10 +4658,30 @@ var allData = [
       "lng": -78.54366102989
     },
     "officialSkiResort": true,
-    "id": "14439",
-    "website": "https://blueknob.com/"
+    "id": "241",
+    "website": "https://blueknob.com/resort/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/0ryc26q5bfu4hoyhv9ct7dl27ppp",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Blue Mountain Ski Area",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -1930,10 +4692,28 @@ var allData = [
       "lng": -75.52077819901874
     },
     "officialSkiResort": true,
-    "id": "4685",
-    "website": "https://www.skibluemt.com/"
+    "id": "258",
+    "website": "https://www.skibluemt.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7o0v1qcg9pdqs9au9qcqy9uf3619",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Boyce Park",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -1944,24 +4724,60 @@ var allData = [
       "lng": -79.74675014055154
     },
     "officialSkiResort": true,
-    "id": "4110",
-    "website": "https://alleghenycounty.us/special-events/boyce-park-skiing---snow-tubing.aspx"
+    "id": "259",
+    "website": "https://alleghenycounty.us/special-events/boyce-park-skiing---snow-tubing.aspx",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Camelback Ski Area",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Tannersville",
-    "videos": ["xptv5RSx5Ds"],
+    "videos": [],
     "position": {
       "lat": 41.051811334929965,
       "lng": -75.35550284495609
     },
     "officialSkiResort": true,
     "id": "238",
-    "website": "https://www.camelbackresort.com/ski-tube/poconos-ski-resorts/"
+    "website": "https://www.camelbackresort.com/ski-tube/poconos-ski-resorts/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/eizdfjxwrm2xmatyvxpzk5e30kv5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Eagle Rock Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -1972,10 +4788,28 @@ var allData = [
       "lng": -76.09681379602092
     },
     "officialSkiResort": true,
-    "id": "4699",
-    "website": "https://ddresorts.com/eagle-rock/on-property/snow-sports/"
+    "id": "250",
+    "website": "https://ddresorts.com/eagle-rock/on-property/snow-sports/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ma91qnldpc6vrox7r5ty6aw6yme5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Elk Mountain",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -1987,9 +4821,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "251",
-    "website": "http://www.elkskier.com/"
+    "website": "http://www.elkskier.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/g52u49offtvrnulmv5hy7jqjgnjf",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hidden Valley Four Seasons Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2000,11 +4852,31 @@ var allData = [
       "lng": -79.26406688444423
     },
     "officialSkiResort": true,
-    "id": "5025",
-    "website": "http://www.hiddenvalleyresort.com/"
+    "id": "4115",
+    "website": "http://www.hiddenvalleyresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/3i3bgh2yz10s0wvugpvsxa2ojb41",
+    "country": "United States"
   },
-  {
-    "resortName": "Jack Frost Big Boulder",
+  {    
+    "resortName": "Jack Frost Ski Area",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Blakeslee",
@@ -2014,10 +4886,64 @@ var allData = [
       "lng": -75.65579196297945
     },
     "officialSkiResort": true,
-    "id": "13603",
-    "website": "http://www.jfbb.com"
+    "id": "254",
+    "website": "http://www.jfbb.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/0y4hmma9vdvdekep2ycgenvildlg",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Big Boulder Mountain",
+    "state": "Pennsylvania",
+    "region": "Mid-Atlantic",
+    "city": "Lake Harmony",
+    "videos": [],
+    "position": {
+      "lat": 41.050245616180355,
+      "lng": -75.601067425094
+    },
+    "officialSkiResort": true,
+    "id": "252",
+    "website": "http://www.jfbb.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/mqrhvklbh1a46ijs4tmkptm9hqx0",
+    "country": "United States"
+  },
+  {    
     "resortName": "Laurel Mountain Ski Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2029,37 +4955,63 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4114",
-    "website": "http://www.skilaurelmountain.com/"
+    "website": "http://www.skilaurelmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/14fr26k4oc7vc285qvc78ca8r63h",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Liberty Mountain Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
     "city": "Carroll Valley",
-    "videos": ["cFmGmNJYRaw"],
+    "videos": [],
     "position": {
       "lat": 39.76445139227571,
       "lng": -77.37545903008194
     },
     "officialSkiResort": true,
     "id": "243",
-    "website": "https://www.libertymountainresort.com/"
-  },
-  {
-    "resortName": "Mountain View at Edinboro",
-    "state": "Pennsylvania",
-    "region": "Mid-Atlantic",
-    "city": "Edinboro",
-    "videos": [],
-    "position": {
-      "lat": 41.85172390188738,
-      "lng": -80.0705874367098
+    "website": "https://www.libertymountainresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "122",
-    "website": "http://www.mountainviewmidland.com/"
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/m4oo7pzg361odura4d0ye2otvko7",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Seven Springs Mountain Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2071,9 +5023,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "240",
-    "website": "https://www.7springs.com/"
+    "website": "https://www.7springs.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/hh75yrqm3clf46axdgkjkhr706vd",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Shawnee Mountain Ski Area",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2085,9 +5057,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "246",
-    "website": "https://www.shawneemt.com/"
+    "website": "https://www.shawneemt.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/8z0e2itwhu16l8sr6vtjfif5ahwg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Big Bear",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2098,24 +5090,28 @@ var allData = [
       "lng": -75.02519137546481
     },
     "officialSkiResort": true,
-    "id": "15259",
-    "website": "http://ski-bigbear.com/"
-  },
-  {
-    "resortName": "Ski Denton",
-    "state": "Pennsylvania",
-    "region": "Mid-Atlantic",
-    "city": "Coudersport",
-    "videos": [],
-    "position": {
-      "lat": 41.776771404789244,
-      "lng": -77.83487465608353
+    "id": "237",
+    "website": "http://ski-bigbear.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "244",
-    "website": "https://www.dcnr.pa.gov/StateParks/FindAPark/DentonHillStatePark/Pages/Skiing.aspx"
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ri29ubt6v8alm3qgubf1a3yxl419",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Roundtop",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2127,9 +5123,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "242",
-    "website": "https://www.skiroundtop.com/"
+    "website": "https://www.skiroundtop.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/byac2c8ljku9x4pk3vcxn537auq9",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Spring Mountain",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2141,9 +5157,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "261",
-    "website": "https://springmountainadventures.com/"
+    "website": "https://springmountainadventures.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/brsl48ms7oi6squmhaky03sfwqbv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Sawmill",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2155,9 +5189,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "262",
-    "website": "http://skisawmill.com/"
+    "website": "http://skisawmill.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/za3meocq1bkealyqgtig1fh77f0r",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Montage Mountain Ski Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2169,9 +5223,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "248",
-    "website": "http://montagemountainresorts.com/"
+    "website": "http://montagemountainresorts.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/zxr3rd2gcyzc1s5ekvf20vyl377m",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Tussey Mountain Ski Area",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2183,9 +5257,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "257",
-    "website": "https://www.tusseymountain.com/"
+    "website": "https://www.tusseymountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/cn8n067orrinrg51fhur42lub8fc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Whitetail Ski Resort",
     "state": "Pennsylvania",
     "region": "Mid-Atlantic",
@@ -2197,9 +5291,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "260",
-    "website": "https://www.tusseymountain.com/"
+    "website": "https://www.tusseymountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/qkeqoqrvgq264m8a3tyycos8wx0f",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Mount Pleasant of Edinboro",
+    "state": "Pennsylvania",
+    "region": "Mid-Atlantic",
+    "city": "Cambridge Springs",
+    "videos": [],
+    "position": {
+      "lat": 41.8512290595026,
+      "lng": -80.07032250000002
+    },
+    "officialSkiResort": true,
+    "id": "245",
+    "website": "https://www.skimountpleasant.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/zskgw12wxtitk9730vy1flhmq8z1",
+    "country": "United States"
+  },
+  {    
     "resortName": "Cloudmont Ski & Golf Resort",
     "state": "Alabama",
     "region": "Southeast",
@@ -2209,25 +5355,63 @@ var allData = [
       "lat": 34.53616855817681,
       "lng": -85.60297698579936
     },
-    "officialSkiResort": true,     
-    "id": "276",     
-    "website": "https://www.cloudmont.com/"  
+    "officialSkiResort": true,
+    "id": "557",
+    "website": "https://www.cloudmont.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/slakkjmrnts33i00gguom9tqud7i",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Appalachian Ski Mountain",
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Blowing Rock",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 36.173468638681165,
       "lng": -81.66401347733257
     },
     "officialSkiResort": true,
     "id": "4637",
-    "website": "https://www.appskimtn.com/"
+    "website": "https://www.appskimtn.com/",
+    "resortReview": {
+      "score": 46,
+      "link": "XvI0SCH_0CA",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "4",
+      "lodging": "2",
+      "chairLifts": "3",
+      "runs": "3",
+      "terrainPark": "5",
+      "food": "5",
+      "employees": "7",
+      "views": "5",
+      "wouldIGoBack": "6"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6dq7papld9o5o5dhvyh7hg3hdseg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cataloochee Ski Area",
     "state": "North Carolina",
     "region": "Southeast",
@@ -2239,9 +5423,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "288",
-    "website": "http://cataloochee.com/index-home.php"
+    "website": "http://cataloochee.com/index-home.php",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/g85eq2utj5lwvjqh9xr425alck54",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sapphire Valley",
     "state": "North Carolina",
     "region": "Southeast",
@@ -2253,37 +5457,95 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "284",
-    "website": "http://www.sapphirevalley.com/Sapphire_Ski_Area.php"
+    "website": "http://www.sapphirevalley.com/Sapphire_Ski_Area.php",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/xpwo12pcf47u72e3p47sd930swqa",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Beech Mountain Resort",
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Beech Mountain",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 36.195625208901824,
       "lng": -81.87785788527373
     },
-    "officialSkiResort": true,     
-    "id": "287",     
-    "website": "https://www.beechmountainresort.com/"  
+    "officialSkiResort": true,
+    "id": "287",
+    "website": "https://www.beechmountainresort.com/",
+    "resortReview": {
+      "score": 56,
+      "link": "8zvrlaf4Utg",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "5",
+      "lodging": "2",
+      "chairLifts": "6",
+      "runs": "4",
+      "terrainPark": "6",
+      "food": "5",
+      "employees": "7",
+      "views": "6",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/2gwgt3nm4jj1cz9nh4x58g7c6jbz",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sugar Mountain",
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Sugar Mountain",
-    "videos": [],
+    "videos": [
+      ""
+    ],
     "position": {
       "lat": 36.13369100484302,
       "lng": -81.86734557268886
     },
     "officialSkiResort": true,
     "id": "290",
-    "website": "http://skisugar.com/trailmap/"
+    "website": "http://skisugar.com/trailmap/",
+    "resortReview": {
+      "score": 41,
+      "link": "Y2-2iAjBUqE",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "5",
+      "lodging": "5",
+      "chairLifts": "3",
+      "runs": "4",
+      "terrainPark": "1",
+      "food": "6",
+      "employees": "4",
+      "views": "5",
+      "wouldIGoBack": "2"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/q2p4ami68pu7s7mmcxirike6dpz8",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Wolf Ridge",
     "state": "North Carolina",
     "region": "Southeast",
@@ -2295,9 +5557,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "289",
-    "website": "https://skiwolfridgenc.com/"
+    "website": "https://skiwolfridgenc.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/o6vis2lfarwb2qyiiciueanh4spj",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ober Gatlinburg",
     "state": "Tennessee",
     "region": "Southeast",
@@ -2309,9 +5589,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "232",
-    "website": "https://obergatlinburg.com/"
+    "website": "https://obergatlinburg.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/9snvspwumv9vix8s4nib0p1cmw60",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bryce Resort",
     "state": "Virginia",
     "region": "Southeast",
@@ -2323,9 +5623,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "196",
-    "website": "http://www.bryceresort.com/Home.aspx"
+    "website": "http://www.bryceresort.com/Home.aspx",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/4tm53w910oeulgv2nme9bnsbvpva",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Massanutten Ski Resort",
     "state": "Virginia",
     "region": "Southeast",
@@ -2335,11 +5655,31 @@ var allData = [
       "lat": 38.40361364690672,
       "lng": -78.75475907320906
     },
-    "officialSkiResort": true,     
-    "id": "197",     
-    "website": "https://www.massresort.com/"  
+    "officialSkiResort": true,
+    "id": "197",
+    "website": "https://www.massresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ubeti03zswvv9e4drkift3xkuewk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "The Homestead",
     "state": "Virginia",
     "region": "Southeast",
@@ -2350,10 +5690,28 @@ var allData = [
       "lng": -79.82497978347216
     },
     "officialSkiResort": true,
-    "id": "",
-    "website": ""
+    "id": "198",
+    "website": "",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/1jvd0l7spihktccb6p5zcbyuaz4h",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Wintergreen Resort",
     "state": "Virginia",
     "region": "Southeast",
@@ -2364,10 +5722,28 @@ var allData = [
       "lng": -78.94393106029538
     },
     "officialSkiResort": true,
-    "id": "4694",
-    "website": "https://www.wintergreenresort.com/"
+    "id": "199",
+    "website": "https://www.wintergreenresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/poipm0b4qv3umyi1ubesq93bfor5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Liberty Snowflex",
     "state": "Virginia",
     "region": "Southeast",
@@ -2377,11 +5753,29 @@ var allData = [
       "lat": 37.352932264382524,
       "lng": -79.16673525951036
     },
-    "officialSkiResort": true,     
-    "id": "3413",     
-    "website": "https://www.liberty.edu/campusrec/snowflex/"  
+    "officialSkiResort": true,
+    "id": "3413",
+    "website": "https://www.liberty.edu/campusrec/snowflex/",
+    "resortReview": {
+      "score": 49,
+      "link": "DGvkcX8QI-g",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "8",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "1",
+      "terrainPark": "7",
+      "food": "2",
+      "employees": "8",
+      "views": "8",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/f78qesncfo6o96h65imnpmqoniez",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Canaan Valley Resort",
     "state": "West Virginia",
     "region": "Southeast",
@@ -2393,9 +5787,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "180",
-    "website": "http://www.canaanresort.com/winter/"
+    "website": "http://www.canaanresort.com/winter/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/pebu5cc3m8bimm5j758l7zc93n64",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Oglebay Resort",
     "state": "West Virginia",
     "region": "Southeast",
@@ -2405,11 +5819,29 @@ var allData = [
       "lat": 40.105860190453946,
       "lng": -80.65872672065514
     },
-    "officialSkiResort": true,     
-    "id": "3267",     
-    "website": "http://ski.oglebay-resort.com/index.cfm"  
+    "officialSkiResort": true,
+    "id": "3267",
+    "website": "http://ski.oglebay-resort.com/index.cfm",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snowshoe Mountain",
     "state": "West Virginia",
     "region": "Southeast",
@@ -2421,9 +5853,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "181",
-    "website": "http://www.snowshoemtn.com/"
+    "website": "http://www.snowshoemtn.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/afvyxx8k8yn79ax47lrkqw0o2hq9",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Timberline Four Seasons Resort",
     "state": "West Virginia",
     "region": "Southeast",
@@ -2435,9 +5887,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "5019",
-    "website": "https://timberlinemountain.com/"
+    "website": "https://timberlinemountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vs3lkgyz26tyl4ftlmrov1dg4sfw",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Winterplace",
     "state": "West Virginia",
     "region": "Southeast",
@@ -2449,9 +5919,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "182",
-    "website": "https://www.winterplace.com/"
+    "website": "https://www.winterplace.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/arp83foohviom0r4az1o7boa0x69",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Oglebay Ski Area (Nutting Winter Sports Area)",
+    "state": "West Virginia",
+    "region": "Southeast",
+    "city": "Wheeling",
+    "videos": [],
+    "position": {
+      "lat": 40.105521436245716,
+      "lng": -80.6588307158604
+    },
+    "officialSkiResort": true,
+    "id": "3267",
+    "website": "http://ski.oglebay-resort.com/index.cfm/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://snowcomparison.com/uploads/images/fb/65/fb65b2d526a7bfd7f6b60ae23dd1d356.jpg",
+    "country": "United States"
+  },
+  {    
     "resortName": "Chestnut Mountain Resort",
     "state": "Illinois",
     "region": "Midwest",
@@ -2463,9 +5985,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "471",
-    "website": "https://www.chestnutmtn.com/"
+    "website": "https://www.chestnutmtn.com/",
+    "resortReview": {
+      "score": 61,
+      "link": "O4X4XJ7ZIz4",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "5",
+      "lodging": "7",
+      "chairLifts": "2",
+      "runs": "3",
+      "terrainPark": "7",
+      "food": "6",
+      "employees": "10",
+      "views": "6",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/xq6knq3g8euxz1055640qz34tj15",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Four Lakes",
     "state": "Illinois",
     "region": "Midwest",
@@ -2475,25 +6017,29 @@ var allData = [
       "lat": 41.78319919365947,
       "lng": -88.08364236002583
     },
-    "officialSkiResort": true,     
-    "id": "472",     
-    "website": "https://www.fourlakessnowsports.com/"  
-  },
-  {
-    "resortName": "Raging Buffalo Snowboard Park",
-    "state": "Illinois",
-    "region": "Midwest",
-    "city": "Algonquin",
-    "videos": [],
-    "position": {
-      "lat": 42.14817405764074,
-      "lng": -88.29390161386232
-    },
     "officialSkiResort": true,
-    "id": "475",
-    "website": "http://www.ragingbuffalo.com/"
+    "id": "472",
+    "website": "https://www.fourlakessnowsports.com/",
+    "resortReview": {
+      "score": 50,
+      "link": "NaeI1zoANYI",
+      "note": "",
+      "price": "9",
+      "easeOfAccess": "10",
+      "lodging": "0",
+      "chairLifts": "1",
+      "runs": "1",
+      "terrainPark": "3",
+      "food": "6",
+      "employees": "10",
+      "views": "5",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/qgp15jx6bvt83ywa6zyovh584w51",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Snowstar",
     "state": "Illinois",
     "region": "Midwest",
@@ -2505,9 +6051,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "473",
-    "website": "http://www.skisnowstar.com"
+    "website": "http://www.skisnowstar.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/5pjlj3ytzbac2xf042otzv5qs3vs",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Villa Olivia",
     "state": "Illinois",
     "region": "Midwest",
@@ -2519,9 +6083,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "474",
-    "website": "http://www.villaolivia.com/"
+    "website": "http://www.villaolivia.com/",
+    "resortReview": {
+      "score": 36,
+      "link": "EqToCTkEm0w",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "10",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "2",
+      "terrainPark": "2",
+      "food": "2",
+      "employees": "4",
+      "views": "4",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/2vxh69kbtn1wumc57ayunhauyi8x",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Paoli Peaks",
     "state": "Indiana",
     "region": "Midwest",
@@ -2533,9 +6115,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "468",
-    "website": "http://www.paolipeaks.com/"
+    "website": "http://www.paolipeaks.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/4b2ezuzgc5l3bls4zqtv85bbgv20",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Perfect North Slopes",
     "state": "Indiana",
     "region": "Midwest",
@@ -2547,9 +6149,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "470",
-    "website": "http://www.perfectnorth.com/"
+    "website": "http://www.perfectnorth.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/is9gwr0ad9mdf13rpo3iblpytord",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. Crescent Ski Area",
     "state": "Iowa",
     "region": "Midwest",
@@ -2561,9 +6181,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "463",
-    "website": "https://www.skicrescent.com/"
+    "website": "https://www.skicrescent.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8fegjmdfmw214whn9zpeazywduvm",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Seven Oaks Snow Ski Area",
     "state": "Iowa",
     "region": "Midwest",
@@ -2573,25 +6211,29 @@ var allData = [
       "lat": 42.03162279152231,
       "lng": -93.95380978266793
     },
-    "officialSkiResort": true,     
-    "id": "465",     
-    "website": "https://sevenoaksrec.com/"  
-  },
-  {
-    "resortName": "Sleepy Hollow Sports Park",
-    "state": "Iowa",
-    "region": "Midwest",
-    "city": "Des Moines",
-    "videos": [],
-    "position": {
-      "lat": 41.5899426061319,
-      "lng": -93.53363482146601
-    },
     "officialSkiResort": true,
-    "id": "464",
-    "website": "https://sleepyhollowevents.com/"
+    "id": "465",
+    "website": "https://sevenoaksrec.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/3lmeozficz3smzgtvjy79i5jzeh8",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sundown Mountain",
     "state": "Iowa",
     "region": "Midwest",
@@ -2603,9 +6245,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "466",
-    "website": "https://www.sundownmtn.com/"
+    "website": "https://www.sundownmtn.com/",
+    "resortReview": {
+      "score": 45,
+      "link": "r43iF777Kyg",
+      "note": "",
+      "price": "8",
+      "easeOfAccess": "5",
+      "lodging": "1",
+      "chairLifts": "3",
+      "runs": "2",
+      "terrainPark": "3",
+      "food": "6",
+      "employees": "6",
+      "views": "6",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/7ko5qsdwxhw1iqmbiwohtiidaxfe",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Al Quaal Recreation Ski Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -2616,10 +6278,28 @@ var allData = [
       "lng": -87.66038546086844
     },
     "officialSkiResort": true,
-    "id": "14439",
-    "website": "https://www.aalski.no/"
+    "id": "5258",
+    "website": "https://ishpemingcity.org/departments/parks-and-recreation/al-quaal-recreation-area-2/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Alpine Valley",
     "state": "Michigan",
     "region": "Midwest",
@@ -2631,23 +6311,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "415",
-    "website": "https://skialpinevalley.com/"
-  },
-  {
-    "resortName": "Apple Mountain Ski Resort",
-    "state": "Michigan",
-    "region": "Midwest",
-    "city": "Freeland",
-    "videos": [],
-    "position": {
-      "lat": 43.47284073336986,
-      "lng": -84.10303951662657
+    "website": "https://skialpinevalley.com/",
+    "resortReview": {
+      "score": 41,
+      "link": "bwb6MIdhk0g",
+      "note": "",
+      "price": "8",
+      "easeOfAccess": "7",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "3",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "6",
+      "views": "3",
+      "wouldIGoBack": "3"
     },
-    "officialSkiResort": true,
-    "id": "412",
-    "website": "http://applemountain.com/"
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/gzcbgt02gopkjhbruj0x4d1onheq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Powderhorn Ski Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -2657,11 +6341,31 @@ var allData = [
       "lat": 46.51033317645471,
       "lng": -90.09424565815416
     },
-    "officialSkiResort": true,     
-    "id": "420",     
-    "website": "https://bigpowderhorn.net/"  
+    "officialSkiResort": true,
+    "id": "420",
+    "website": "https://bigpowderhorn.net/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/jzrsd00bn0ceqaig0b1qqrsuzymf",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bittersweet Ski Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2671,11 +6375,29 @@ var allData = [
       "lat": 42.46788677653153,
       "lng": -85.75871902908267
     },
-    "officialSkiResort": true,     
-    "id": "400",     
-    "website": "https://www.skibittersweet.com/"  
+    "officialSkiResort": true,
+    "id": "400",
+    "website": "https://www.skibittersweet.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/bdomierexrrdwpjic9pc5tkpseos",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Blackjack Ski Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2687,9 +6409,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "394",
-    "website": "https://www.bigsnow.com/"
+    "website": "https://www.bigsnow.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/e7otxnu8x8xo8dog1jvw3vyzudxk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Boyne Highlands Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2701,9 +6441,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "407",
-    "website": "http://www.boyne.com/boynehighlands"
+    "website": "http://www.boyne.com/boynehighlands",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/hcbz26gt5psyn8atmqe7wjai0g4l",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Boyne Mountain",
     "state": "Michigan",
     "region": "Midwest",
@@ -2715,9 +6475,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "421",
-    "website": "https://www.boynemountain.com/"
+    "website": "https://www.boynemountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/tnq8nw4m0qu3n2b9mzlxnrosqesc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Caberfae Peaks Ski & Golf Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2729,9 +6509,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "404",
-    "website": "https://caberfaepeaks.com/"
+    "website": "https://caberfaepeaks.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/5n0y5nmlje7tz385nhi0vxia9be4",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cannonsburg Ski Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -2743,23 +6543,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "413",
-    "website": "https://cannonsburg.com/"
-  },
-  {
-    "resortName": "Challenge Mountain",
-    "state": "Michigan",
-    "region": "Midwest",
-    "city": "Boyne City",
-    "videos": [],
-    "position": {
-      "lat": 45.23759264162877,
-      "lng": -84.87992359667493
+    "website": "https://cannonsburg.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "3271",
-    "website": "http://cmski.org/"
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/5x2z7qanq61xwmmfcoznmr4yy09g",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Crystal Mountain Resort & Spa",
     "state": "Michigan",
     "region": "Midwest",
@@ -2771,23 +6575,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "429",
-    "website": "https://www.crystalmountain.com/"
-  },
-  {
-    "resortName": "Garland Resort",
-    "state": "Michigan",
-    "region": "Midwest",
-    "city": "Lewiston",
-    "videos": [],
-    "position": {
-      "lat": 44.819066889470086,
-      "lng": -84.30980572076808
+    "website": "https://www.crystalmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "13026",
-    "website": "https://www.garlandusa.com/winter-activities/"
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/iy3tir951tld0zu2nrkpbhqffq6w",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hickory Hills Ski Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -2799,9 +6609,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "398",
-    "website": "https://www.traversecitymi.gov/hickory_hills.asp"
+    "website": "https://www.traversecitymi.gov/hickory_hills.asp",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/hk2nqxbzdjduhal8it0h7cnlvge8",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "The Homestead",
     "state": "Michigan",
     "region": "Midwest",
@@ -2813,10 +6641,28 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "414",
-    "website": "https://www.thehomesteadresort.com"
+    "website": "https://www.thehomesteadresort.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/g37ikutffquwxp7h8w5f5txkz1dk",
+    "country": "United States"
   },
-  {
-    "resortName": "Indianhead Mountain Resort",
+  {    
+    "resortName": "Snowriver Mountain Resort",
     "state": "Michigan",
     "region": "Midwest",
     "city": "Wakefield",
@@ -2827,9 +6673,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "422",
-    "website": "https://www.bigsnow.com/"
+    "website": "https://www.bigsnow.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/4hb1ks7ht8jtbd79omwubukwbpgc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Marquette Mountain",
     "state": "Michigan",
     "region": "Midwest",
@@ -2841,9 +6707,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "419",
-    "website": "https://marquettemountain.com/"
+    "website": "https://marquettemountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/0nkvayf5zt8b2mc6w4jw0vlp00gc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mont Ripley Ski Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2855,9 +6741,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "427",
-    "website": "https://www.mtu.edu/mont-ripley/"
+    "website": "https://www.mtu.edu/mont-ripley/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/sg09n8bvteq2ueqomr4f7xqy90nn",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Bohemia",
     "state": "Michigan",
     "region": "Midwest",
@@ -2869,9 +6773,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "428",
-    "website": "http://www.mtbohemia.com/"
+    "website": "http://www.mtbohemia.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/r5rtsx895dgqmtkcdzqyy7p7dmc6",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. Brighton Ski Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2883,9 +6805,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "430",
-    "website": "https://www.mtbrighton.com/"
+    "website": "https://www.mtbrighton.com/",
+    "resortReview": {
+      "score": 44,
+      "link": "sUunGfMwnVI",
+      "note": "Johnathan rated this 44/100 in the video, but the scores actually add up to 45.",
+      "price": "6",
+      "easeOfAccess": "6",
+      "lodging": "1",
+      "chairLifts": "4",
+      "runs": "3",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "6",
+      "views": "2",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/fdg3y1hll2os71x26lrxf5oi0d2x",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. Holiday",
     "state": "Michigan",
     "region": "Midwest",
@@ -2897,9 +6839,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "411",
-    "website": "http://mt-holiday.com/"
+    "website": "http://mt-holiday.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/h0hd7pi87e7ghz2ucqmwhpl3ci6l",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. Holly Ski and Snowboard Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2909,11 +6869,29 @@ var allData = [
       "lat": 42.83136625290648,
       "lng": -83.56421822894333
     },
-    "officialSkiResort": true,     
-    "id": "431",     
-    "website": "https://skimtholly.com/"  
+    "officialSkiResort": true,
+    "id": "431",
+    "website": "https://skimtholly.com/",
+    "resortReview": {
+      "score": 41,
+      "link": "mO0VT9e1a4A",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "4",
+      "terrainPark": "5",
+      "food": "5",
+      "employees": "5",
+      "views": "1",
+      "wouldIGoBack": "6"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/1t52ft6ep29aynn8glspueksxmpx",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. McSauba Recreation Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -2925,9 +6903,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "424",
-    "website": "https://www.visitcharlevoix.com/Mt-McSauba-Recreational-Area"
+    "website": "https://www.visitcharlevoix.com/Mt-McSauba-Recreational-Area",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. Zion Ski Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -2939,9 +6935,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "396",
-    "website": "https://www.gogebic.edu/Welcome/StudentLife/mtzion.html"
+    "website": "https://www.gogebic.edu/Welcome/StudentLife/mtzion.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ux70aoa5m0k4ca8419bzt6bifrpy",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mulligan's Hollow Ski Bowl",
     "state": "Michigan",
     "region": "Midwest",
@@ -2953,23 +6967,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "395",
-    "website": "https://www.mulliganshollow.com/"
-  },
-  {
-    "resortName": "Norway Mountain Ski and Snowboard Resort",
-    "state": "Michigan",
-    "region": "Midwest",
-    "city": "Norway",
-    "videos": [],
-    "position": {
-      "lat": 45.79012008136151,
-      "lng": -87.86972428174172
+    "website": "https://www.mulliganshollow.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "410",
-    "website": "https://www.facebook.com/skinorwaymountain/"
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/l1caskkdkx5wpc7qs9l94wygrep7",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Nub's Nob",
     "state": "Michigan",
     "region": "Midwest",
@@ -2979,11 +6997,31 @@ var allData = [
       "lat": 45.47258432044578,
       "lng": -84.9040093972135
     },
-    "officialSkiResort": true,     
-    "id": "406",     
-    "website": "http://www.nubsnob.com/"  
+    "officialSkiResort": true,
+    "id": "406",
+    "website": "http://www.nubsnob.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/dw43u1jp57gapc8sbdpal1wt7sk2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Otsego Club & Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -2995,9 +7033,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3272",
-    "website": "http://otsegoclub.com/"
+    "website": "http://otsegoclub.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/r8pryk731nu2nec3544dc95cyoyd",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Petoskey Winter Sports Park",
     "state": "Michigan",
     "region": "Midwest",
@@ -3007,11 +7063,29 @@ var allData = [
       "lat": 45.37689933222665,
       "lng": -84.94591696601385
     },
-    "officialSkiResort": true,     
-    "id": "",     
-    "website": "https://www.petoskey.us/winter/"  
+    "officialSkiResort": true,
+    "id": "",
+    "website": "https://www.petoskey.us/winter/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pine Knob Ski Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -3023,9 +7097,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "425",
-    "website": "https://www.skipineknob.com/"
+    "website": "https://www.skipineknob.com/",
+    "resortReview": {
+      "score": 38,
+      "link": "38Gg2ylGRsw",
+      "note": "Johnathan rated this 38/100 in the video, but the scores actually add up to 43.",
+      "price": "6",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "3",
+      "runs": "3",
+      "terrainPark": "7",
+      "food": "5",
+      "employees": "5",
+      "views": "1",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/bygt0ow9qkz5hn7mrfccnox1t1x4",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pine Mountain Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -3037,9 +7129,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "433",
-    "website": "https://www.pinemountainresort.com/"
+    "website": "https://www.pinemountainresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/j9v8r5sy09op49lmnj8od1rapbfc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Porcupine Mountains",
     "state": "Michigan",
     "region": "Midwest",
@@ -3051,10 +7163,28 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "426",
-    "website": "https://porkies.ski/"
+    "website": "https://porkies.ski/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vwli5gen6qlq3kmko8pvrfm32prs",
+    "country": "United States"
   },
-  {
-    "resortName": "Shanty Creek Resorts",
+  {    
+    "resortName": "Schuss Mountain at Shanty Creek",
     "state": "Michigan",
     "region": "Midwest",
     "city": "Bellaire",
@@ -3065,9 +7195,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "416",
-    "website": "http://www.shantycreek.com"
+    "website": "http://www.shantycreek.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/sx4ymnc26fo4f2yccpjo03roba0x",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Brule",
     "state": "Michigan",
     "region": "Midwest",
@@ -3079,9 +7229,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "399",
-    "website": "https://skibrule.com/"
+    "website": "https://skibrule.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ukt68wqaanb7do94tdpiiq8ftb2h",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snow Snake Ski & Golf",
     "state": "Michigan",
     "region": "Midwest",
@@ -3091,11 +7259,29 @@ var allData = [
       "lat": 43.95627960720074,
       "lng": -84.7940080978213
     },
-    "officialSkiResort": true,     
-    "id": "409",     
-    "website": "https://snowsnake.net///"  
+    "officialSkiResort": true,
+    "id": "409",
+    "website": "https://snowsnake.net///",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/3qhmyta0g5ybnlz4j2zarnh5an64",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Swiss Valley Ski and Snowboard Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -3105,11 +7291,31 @@ var allData = [
       "lat": 41.95346045143822,
       "lng": -85.8067961446197
     },
-    "officialSkiResort": true,     
-    "id": "401",    
-    "website": "http://skiswissvalley.com/"  
+    "officialSkiResort": true,
+    "id": "401",
+    "website": "http://skiswissvalley.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/bdn939afob2baxxt6xc1of037qr5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Timber Ridge Ski Area",
     "state": "Michigan",
     "region": "Midwest",
@@ -3121,9 +7327,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2173",
-    "website": "https://www.facebook.com/pg/skitimberridge/about/?tab=page_info"
+    "website": "https://www.facebook.com/pg/skitimberridge/about/?tab=page_info",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/g60luxpxbs50kics7h7vgr5ialv6",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Treetops Resort",
     "state": "Michigan",
     "region": "Midwest",
@@ -3133,11 +7357,127 @@ var allData = [
       "lat": 45.03346873096141,
       "lng": -84.58906305136551
     },
-    "officialSkiResort": true,     
-    "id": "423",     
-    "website": "https://treetops.com/"  
+    "officialSkiResort": true,
+    "id": "423",
+    "website": "https://treetops.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/mcj5wdbzevgmmsb10zbmym9czueh",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Gladstone Sports Park",
+    "state": "Michigan",
+    "region": "Midwest",
+    "city": "Gladstone",
+    "videos": [],
+    "position": {
+      "lat": 45.8598963531628,
+      "lng": -87.03847872226208
+    },
+    "officialSkiResort": true,
+    "id": "397",
+    "website": "http://www.gladstonemi.org/community/parks_and_recreation/sports_park.php",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7qkb5lk8ujqntdt4ue449udm9h4r",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Hanson Hills",
+    "state": "Michigan",
+    "region": "Midwest",
+    "country": "United States",
+    "city": "Grayling",
+    "videos": [],
+    "position": {
+      "lat": 44.64545248768847,
+      "lng": -84.75325584411621
+    },
+    "officialSkiResort": true,
+    "id": "418",
+    "website": "",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7h88lbhis21zajgesskpftmcr87w"
+  },
+  {    
+    "resortName": "Missaukee Ski Mountain",
+    "state": "Michigan",
+    "region": "Midwest",
+    "country": "United States",
+    "city": "Lake City",
+    "videos": [],
+    "position": {
+      "lat": 44.39261440295841,
+      "lng": -85.22738185689511
+    },
+    "officialSkiResort": true,
+    "id": "408",
+    "website": "https://www.facebook.com/MissaukeeMountain",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/d1xc8yv23seasphmifich49dp4mz"
+  },
+  {    
     "resortName": "Afton Alps",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3148,10 +7488,30 @@ var allData = [
       "lng": -92.78835875081165
     },
     "officialSkiResort": true,
-    "id": "14439",
-    "website": "https://www.aalski.no/"
+    "id": "393",
+    "website": "https://www.aftonalps.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/i5zz8dx9boxcs5rq52ajve0gwouv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Andes Tower Hills",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3163,9 +7523,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "391",
-    "website": "https://www.andestowerhills.com/"
+    "website": "https://www.andestowerhills.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/45d0pp13s4gxtod7483q135btgbm",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Buck Hill",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3176,10 +7554,30 @@ var allData = [
       "lng": -93.28610667422542
     },
     "officialSkiResort": true,
-    "id": "5187",
-    "website": "https://buckhill.com/"
+    "id": "386",
+    "website": "https://buckhill.com/",
+    "resortReview": {
+      "score": 51,
+      "link": "pPRYAx7GMfs",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "10",
+      "lodging": "0",
+      "chairLifts": "6",
+      "runs": "2",
+      "terrainPark": "6",
+      "food": "6",
+      "employees": "7",
+      "views": "1",
+      "wouldIGoBack": "6"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/3hg884gt2z1nqfonm8680a1otz5n",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Buena Vista Ski Area",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3191,9 +7589,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "384",
-    "website": "https://www.bvskiarea.com/"
+    "website": "https://www.bvskiarea.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/nre29zqhqeo3jhc5f4p2cql2xrtw",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Chester Bowl Park",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3205,9 +7621,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "382",
-    "website": "http://www.chesterbowl.org/"
+    "website": "http://www.chesterbowl.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/g9z5ukqo267g4yu7f8eefodt7pmv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Coffee Mill Ski Area",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3219,9 +7653,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "378",
-    "website": "http://www.coffeemillski.com/"
+    "website": "http://www.coffeemillski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/l9l37wuaef0nl8b9czmlepqqwjir",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Detroit Mountain",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3233,9 +7685,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4463",
-    "website": "http://detroitmountain.com/"
+    "website": "http://detroitmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ncin4task9uidy6vhypj9lpmfl50",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Giants Ridge",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3247,9 +7719,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "388",
-    "website": "http://www.giantsridge.com/"
+    "website": "http://www.giantsridge.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/uj2eppk0gkgk4pfxrg7wsrftwbq3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hyland Ski and Snowboard Area",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3259,13 +7749,35 @@ var allData = [
       "lat": 44.84426865923526,
       "lng": -93.36352519746762
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "389",
-    "website": "http://hylandski.com/"
+    "website": "http://hylandski.com/",
+    "resortReview": {
+      "score": 55,
+      "link": "NfBk_WQM7PM",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "8",
+      "lodging": "0",
+      "chairLifts": "7",
+      "runs": "2",
+      "terrainPark": "8",
+      "food": "5",
+      "employees": "4",
+      "views": "6",
+      "wouldIGoBack": "9"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/geq2mrma530phdp5r2tz8050313n",
+    "webcam": [
+      {
+        "title": "LIVE Snow Cam",
+        "link": "9USNTc7Gr4c"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Elm Creek Winter Recreation Area",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3277,9 +7789,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "5246",
-    "website": "https://www.threeriversparks.org/location/elm-creek-winter-recreation-area/"
+    "website": "https://www.threeriversparks.org/location/elm-creek-winter-recreation-area/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/yh516720me0hfmei558z45k3hgdp",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lutsen Mountains",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3291,9 +7821,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "381",
-    "website": "http://www.lutsen.com"
+    "website": "http://www.lutsen.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/otkbhpfglq3fcabcfym0oreu0tz2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Itasca",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3305,9 +7855,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "5026",
-    "website": "http://www.mtitasca.com/"
+    "website": "http://www.mtitasca.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/jbxyf22ezvk6oymx7z3y5tc4332l",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Kato",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3319,9 +7887,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "387",
-    "website": "Mount Kato"
+    "website": "https://www.mountkato.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/j9uyxvaiy4mliikti86npojj43lf",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Powder Ridge",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3333,9 +7921,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "492",
-    "website": "http://www.powderridgepark.com/"
+    "website": "http://www.powderridgepark.com/",
+    "resortReview": {
+      "score": 44, // must be a number
+      "link": "V4STSE3Y5Kk",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "3",
+      "terrainPark": "4",
+      "food": "6",
+      "employees": "6",
+      "views": "2",
+      "wouldIGoBack": "9"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/75u4ifuia9kahk1ilkey09djilxo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Gull",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3347,9 +7955,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3031",
-    "website": "http://skigull.com/"
+    "website": "http://skigull.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7w60ld088qozbwjxbtegbi19vkjq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Spirit Mountain",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3361,9 +7987,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "383",
-    "website": "http://www.spiritmt.com/"
+    "website": "http://www.spiritmt.com/",
+    "resortReview": {
+      "score": 57, // must be a number
+      "link": "HMFxJ55NQvw",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "10",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "4",
+      "terrainPark": "7",
+      "food": "5",
+      "employees": "10",
+      "views": "5",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/wcs5cmp25qvamohvk1x4sgdysfdj",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Welch Village",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3375,9 +8021,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "379",
-    "website": "http://www.welchvillage.com/"
+    "website": "http://www.welchvillage.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8eb6p3f9bv4n6faqpmdnxqbwj54v",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Wild Mountain",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3389,9 +8053,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "380",
-    "website": "http://www.wildmountain.com/"
+    "website": "http://www.wildmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/uxokt6vqe12fmv2xizw7nhxmqc1e",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Canterbury Park",
     "state": "Minnesota",
     "region": "Midwest",
@@ -3401,11 +8083,61 @@ var allData = [
       "lat": 44.79138856443794,
       "lng": -93.48308841164287
     },
-    "officialSkiResort": false,     
-    "id": "",     
-    "website": "https://www.canterburypark.com/events/extreme-horse-skijoring/"  
+    "officialSkiResort": false,
+    "id": "",
+    "website": "https://www.canterburypark.com/events/extreme-horse-skijoring/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Como Park",
+    "state": "Minnesota",
+    "region": "Midwest",
+    "country": "United States",
+    "city": "St Paul",
+    "videos": [],
+    "position": {
+      "lat": 44.984561729109814,
+      "lng": -93.15402030944824
+    },
+    "officialSkiResort": true,
+    "id": "4728",
+    "website": "https://www.stpaul.gov/departments/parks-recreation/activities/winter-spring-activities/downhill-skiing-snowboarding",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": ""
+  },
+  {    
     "resortName": "Hidden Valley Ski Area",
     "state": "Missouri",
     "region": "Midwest",
@@ -3416,10 +8148,30 @@ var allData = [
       "lng": -90.65060399983034
     },
     "officialSkiResort": true,
-    "id": "5025",
-    "website": "https://www.hiddenvalleyski.com/"
+    "id": "377",
+    "website": "https://www.hiddenvalleyski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/wzgf4ibvuwr96c1ysuqgyscicus3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snow Creek",
     "state": "Missouri",
     "region": "Midwest",
@@ -3431,9 +8183,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "376",
-    "website": "http://skisnowcreek.com/"
+    "website": "http://skisnowcreek.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/lg4dcb14ox5k1y06rbb2srutco2n",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bottineau Winter Park",
     "state": "North Dakota",
     "region": "Midwest",
@@ -3445,9 +8217,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "280",
-    "website": "http://skibwp.com/"
+    "website": "http://skibwp.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/w2xfbtej2uy56ciw2s0ne3y0r0rm",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Frost Fire",
     "state": "North Dakota",
     "region": "Midwest",
@@ -3459,9 +8249,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "283",
-    "website": "http://frostfireskiarea.com/"
+    "website": "http://frostfireskiarea.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/sfmgfzp23pno32g2ossei4nnil4w",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Huff Hills",
     "state": "North Dakota",
     "region": "Midwest",
@@ -3473,9 +8281,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "282",
-    "website": "https://www.huffhills.com/"
+    "website": "https://www.huffhills.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/y7j2g0ifqbeon7zte7kyc71r2siq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Alpine Valley Ski Area",
     "state": "Ohio",
     "region": "Midwest",
@@ -3487,9 +8313,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "277",
-    "website": "https://www.alpinevalleyohio.com/"
+    "website": "https://www.alpinevalleyohio.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/3wbthxtngep02pn7u2nlaft590j2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Boston Mills/Brandywine Ski Resort",
     "state": "Ohio",
     "region": "Midwest",
@@ -3500,10 +8346,30 @@ var allData = [
       "lng": -81.56316791419339
     },
     "officialSkiResort": true,
-    "id": "2987",
-    "website": "http://www.bmbw.com/"
+    "id": "276",
+    "website": "http://www.bmbw.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/r3kvr87x5ww1gmxl1eav31o7wqik",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mad River Mountain",
     "state": "Ohio",
     "region": "Midwest",
@@ -3515,9 +8381,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "278",
-    "website": "https://www.skimadriver.com/"
+    "website": "https://www.skimadriver.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/9lpjjguej7lb1003i0e8sqjpquu6",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snow Trails Ski Resort",
     "state": "Ohio",
     "region": "Midwest",
@@ -3529,9 +8415,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "279",
-    "website": "https://www.snowtrails.com/"
+    "website": "https://www.snowtrails.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/1bxcbzgw4pxuy9ewhmssgqywgzx6",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Creek Ski Area",
     "state": "Ohio",
     "region": "Midwest",
@@ -3543,9 +8447,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3269",
-    "website": "http://www.bigcreekski.org/"
+    "website": "http://www.bigcreekski.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/zu3gvd1dgxhh476pk5r70u65p3qa",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Deer Mountain",
     "state": "South Dakota",
     "region": "Midwest",
@@ -3557,9 +8479,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "235",
-    "website": "http://skimystic.com"
+    "website": "http://skimystic.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ijkzn1mvxui8x6z8qekjhatjy0ky",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Great Bear",
     "state": "South Dakota",
     "region": "Midwest",
@@ -3571,9 +8511,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "234",
-    "website": "https://www.greatbearpark.com/"
+    "website": "https://www.greatbearpark.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/n8pwq1mr83o2nrsc7n64i5g6gjjz",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Terry Peak",
     "state": "South Dakota",
     "region": "Midwest",
@@ -3585,9 +8543,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "233",
-    "website": "https://terrypeak.com/"
+    "website": "https://terrypeak.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/tr7qdbwdnz4m8w7kcobb92rj7hr3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Alpine Valley Resort",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3599,11 +8577,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "169",
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
-    "website": "https://www.alpinevalleyresort.com/"
+    "website": "https://www.alpinevalleyresort.com/",
+    "resortReview": {
+      "score": 49,
+      "link": "6a--suhNwak",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "8",
+      "lodging": "5",
+      "chairLifts": "6",
+      "runs": "4",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "4",
+      "views": "2",
+      "wouldIGoBack": "4"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/17yp84l5ug0b4cuoqeoqc176h7hl",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ausblick Ski Club",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3615,9 +8609,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3279",
-    "website": "http://www.ausblick.org/"
+    "website": "http://www.ausblick.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/j621nu1emhy5drwscadfthyr271v",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Badlands Sno-Park",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3629,9 +8641,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4824",
-    "website": "https://www.badlands-snopark.com/"
+    "website": "https://www.badlands-snopark.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/rbdfqlv2mg1lum42n3xv2c4b5cca",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Book Across the Bay",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3641,25 +8671,29 @@ var allData = [
       "lat": 46.79294206602874,
       "lng": -90.89816974070875
     },
-    "officialSkiResort": true,     
-    "id": "",     
-    "website": "https://www.batb.org/"  
-  },
-  {
-    "resortName": "Blackhawk Ski Club",
-    "state": "Wisconsin",
-    "region": "Midwest",
-    "city": "Middleton (private)",
-    "videos": [],
-    "position": {
-      "lat": 43.082784558561464,
-      "lng": -89.56846064363334
-    },
     "officialSkiResort": true,
-    "id": "3280",
-    "website": "http://www.blackhawkskiclub.org/"
+    "id": "",
+    "website": "https://www.batb.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bruce Mound Winter Sports Area",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3669,11 +8703,29 @@ var allData = [
       "lat": 44.44626832055582,
       "lng": -90.78487605104652
     },
-    "officialSkiResort": true,     
-    "id": "164",     
-    "website": "http://clarkcountywi.org/visit-clark-county/outdoors/bruce-mound.php"  
+    "officialSkiResort": true,
+    "id": "164",
+    "website": "http://clarkcountywi.org/visit-clark-county/outdoors/bruce-mound.php",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/zeo7f7c9kh9q4kjv38qnxof51m9p",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Camp 10",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3685,9 +8737,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2990",
-    "website": "http://www.camp10skiandsnowboard.com/"
+    "website": "http://www.camp10skiandsnowboard.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/bydgztsosefufztk2o99vfdmgr9d",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cascade Mountain",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3699,9 +8769,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4791",
-    "website": "http://www.dcski.com/lostareas/viewlostprofile.php?id=8"
+    "website": "http://www.dcski.com/lostareas/viewlostprofile.php?id=8",
+    "resortReview": {
+      "score": 31, // must be a number
+      "link": "6B-1aeSiSYg",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "2",
+      "terrainPark": "2",
+      "food": "5",
+      "employees": "4",
+      "views": "2",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/c5haa5ago1xwyh4jygvrl349zxpx",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Christie Mountain",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3713,9 +8801,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "178",
-    "website": "https://www.christiemountain.com/"
+    "website": "https://www.christiemountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/9guijblumq49da4wbmutb25qfnq8",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Christmas Mountain Village",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3727,9 +8833,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "166",
-    "website": "https://www.christmasmountainvillage.com/"
+    "website": "https://www.christmasmountainvillage.com/",
+    "resortReview": {
+      "score": 32,
+      "link": "oZphjVcr6Q4",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "5",
+      "lodging": "6",
+      "chairLifts": "2",
+      "runs": "2",
+      "terrainPark": "0",
+      "food": "6",
+      "employees": "5",
+      "views": "1",
+      "wouldIGoBack": "1"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/gcjetwdfma4z5ffbbr0g3kmbhy6q",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Crystal Ridge (The Rock Snowpark)",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3740,10 +8864,30 @@ var allData = [
       "lng": -88.01520287205463
     },
     "officialSkiResort": true,
-    "id": "15253",
-    "website": "https://www.rocksnowpark.com/"
+    "id": "174",
+    "website": "https://www.rocksnowpark.com/",
+    "resortReview": {
+      "score": 40,
+      "link": "HTapi9Qq1-0",
+      "note": "Johnathan rated this 40/100 in the video, but the scores actually add up to 45.",
+      "price": "6",
+      "easeOfAccess": "10",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "1",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "5",
+      "views": "4",
+      "wouldIGoBack": "6"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/26otmlkx3o5gspje6kl3mhf8di8k",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Devils Head Resort",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3753,11 +8897,29 @@ var allData = [
       "lat": 43.41872021633558,
       "lng": -89.62702597184295
     },
-    "officialSkiResort": true,     
-    "id": "179",     
-    "website": "https://www.devilsheadresort.com/"  
+    "officialSkiResort": true,
+    "id": "179",
+    "website": "https://www.devilsheadresort.com/",
+    "resortReview": {
+      "score": 45,
+      "link": "GUp8Z-DE0_8",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "6",
+      "lodging": "5",
+      "chairLifts": "4",
+      "runs": "3",
+      "terrainPark": "4",
+      "food": "7",
+      "employees": "5",
+      "views": "3",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/zqnbdbs4mnsb87pmrhblwmlgc4be",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Fox Hill Ski Area",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3769,9 +8931,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3281",
-    "website": "http://www.foxhill.org/"
+    "website": "http://www.foxhill.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Granite Peak",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3783,9 +8963,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "170",
-    "website": "https://www.skigranitepeak.com/"
+    "website": "https://www.skigranitepeak.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/1pa834ksq4d17uwkgcg2tho4amy0",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Heiliger Huegel Ski Club",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3797,9 +8997,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3282",
-    "website": "http://www.hhskiclub.com/"
+    "website": "http://www.hhskiclub.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Kettlebowl",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3811,9 +9029,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3285",
-    "website": "http://www.langladecounty.org/"
+    "website": "http://www.langladecounty.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Kewaunee County Winter Park Ski Hill",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3825,9 +9061,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3286",
-    "website": "https://www.visitkewauneecounty.com/explore/parks-and-trails/winter-park-recreation/"
+    "website": "https://www.visitkewauneecounty.com/explore/parks-and-trails/winter-park-recreation/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ves69snbtytm5vhq23ktsj405t9f",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Keyes Peak",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3839,9 +9093,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "177",
-    "website": "https://www.florencecountywi.com/departments/page_18ec7c8fa753/?department=b911d343d487&subdepartment=f28c7bf9208f"
+    "website": "https://www.florencecountywi.com/departments/page_18ec7c8fa753/?department=b911d343d487&subdepartment=f28c7bf9208f",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Little Switzerland Ski Area",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3853,9 +9125,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "161",
-    "website": "http://www.littleswitz.com/"
+    "website": "http://www.littleswitz.com/",
+    "resortReview": {
+      "score": 46,
+      "link": "bTCoyE-aXcM",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "9",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "2",
+      "terrainPark": "4",
+      "food": "7",
+      "employees": "5",
+      "views": "2",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/hcz0e6l4r1mvc6vfu28ulkqc0e6u",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mont Du Lac",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3866,10 +9158,28 @@ var allData = [
       "lng": -92.28446417042197
     },
     "officialSkiResort": true,
-    "id": "5450",
-    "website": "http://mdlresort.com/winter/"
+    "id": "176",
+    "website": "http://mdlresort.com/winter/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/fqidmdnzrhbtfadim9qbry39s2vi",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "The Mountain Top at Grand Geneva Resort",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3881,9 +9191,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "163",
-    "website": "https://www.grandgeneva.com/ski-snow-sports"
+    "website": "https://www.grandgeneva.com/ski-snow-sports",
+    "resortReview": {
+      "score": 50,
+      "link": "0Tqvx6oEUsw",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "6",
+      "lodging": "7",
+      "chairLifts": "2",
+      "runs": "2",
+      "terrainPark": "5",
+      "food": "10",
+      "employees": "4",
+      "views": "5",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ap522r02u78zqooa8360p598u7kd",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. Ashwabay",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3895,9 +9223,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "168",
-    "website": "http://www.mtashwabay.org/"
+    "website": "http://www.mtashwabay.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/kxkzhmgtx72w7xoz08za7id3sd7y",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. LaCrosse",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3909,9 +9255,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "171",
-    "website": "http://www.mtlacrosse.com/"
+    "website": "http://www.mtlacrosse.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vg4ywy85ysc0mqaush3ebadocajr",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Navarino Slopes",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3921,11 +9285,29 @@ var allData = [
       "lat": 44.61105679207712,
       "lng": -88.58547962529671
     },
-    "officialSkiResort": true,     
-    "id": "3017",     
-    "website": "http://www.skinavarino.com/"  
+    "officialSkiResort": true,
+    "id": "3017",
+    "website": "http://www.skinavarino.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/kvttlmm7pjtgfuob51w84g2n86mo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Nordic Mountain",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3937,9 +9319,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "157",
-    "website": "https://www.nordicmountain.com/"
+    "website": "https://www.nordicmountain.com/",
+    "resortReview": {
+      "score": 37, // must be a number
+      "link": "0x0iNZFmEY0",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "5",
+      "lodging": "1",
+      "chairLifts": "2",
+      "runs": "2",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "6",
+      "views": "2",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/61jyrjoh2r68tqu24j6zog6s5cjk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Nutt Hill",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3951,9 +9353,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3287",
-    "website": "http://www.ciplywi.com/citizen-info/parks-and-recreation/nutt-hill-ski-area/"
+    "website": "http://www.ciplywi.com/citizen-info/parks-and-recreation/nutt-hill-ski-area/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Powers Bluff",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3965,9 +9385,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3288",
-    "website": "http://www.co.wood.wi.us/departments/parks/PowersBluff.aspx"
+    "website": "http://www.co.wood.wi.us/departments/parks/PowersBluff.aspx",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/v6c7xjudcgw3h1ljwfnaxh4gec52",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Standing Rocks",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3979,9 +9417,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "160",
-    "website": "https://www.co.portage.wi.us/department/parks/standing-rocks-park"
+    "website": "https://www.co.portage.wi.us/department/parks/standing-rocks-park",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vevr568fxtvmsn4g8x7otag677kc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sunburst Ski Area",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -3993,23 +9449,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "173",
-    "website": "https://skisunburst.com/"
-  },
-  {
-    "resortName": "Telemark Lodge",
-    "state": "Wisconsin",
-    "region": "Midwest",
-    "city": "Cable",
-    "videos": [],
-    "position": {
-      "lat": 46.19093229134234,
-      "lng": -91.24765629391035
+    "website": "https://skisunburst.com/",
+    "resortReview": {
+      "score": 31,
+      "link": "QKgEauYkEAs",
+      "note": "Johnathan rated this 31/100 in the video, but the scores actually add up to 36.",
+      "price": "8",
+      "easeOfAccess": "7",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "2",
+      "terrainPark": "1",
+      "food": "5",
+      "employees": "7",
+      "views": "2",
+      "wouldIGoBack": "2"
     },
-    "officialSkiResort": true,     
-    "id": "172",     
-    "website": "https://midwestweekends.com/plan_a_trip/stay/lodges_resorts/skiing_telemark_resort_cable.html"  
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/lhf0wyhz1p8f4hblzth66xw6zm23",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Triangle Sports Area",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -4021,9 +9481,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3289",
-    "website": "http://greenbaywi.gov/parks/recreation/winter-activities-2/321-2/"
+    "website": "http://greenbaywi.gov/parks/recreation/winter-activities-2/321-2/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Trollhaugen",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -4035,9 +9513,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "159",
-    "website": "https://www.trollhaugen.com/"
+    "website": "https://www.trollhaugen.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/g8988fu80ypx1sydm18ug4jbnfg7",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Tyrol Basin",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -4049,9 +9547,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4984",
-    "website": "https://tyrolbasin.com/"
+    "website": "https://tyrolbasin.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/67dbe6x73uigqg4opslwb4w10oap",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Whitecap Mountains",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -4063,9 +9581,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "158",
-    "website": "https://whitecapresort.com/"
+    "website": "https://whitecapresort.com/",
+    "resortReview": {
+      "score": 39,
+      "link": "VgI9d8rQlvw",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "5",
+      "lodging": "4",
+      "chairLifts": "3",
+      "runs": "4",
+      "terrainPark": "0",
+      "food": "7",
+      "employees": "6",
+      "views": "2",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/3g7aaofah0v92jvuh7il53sx3qy2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Whitetail Ridge",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -4077,9 +9613,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3290",
-    "website": "https://www.skiwhitetail.com/"
+    "website": "https://www.skiwhitetail.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8dpwsd58t5959f984m2lq46xx38y",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Wilmot Mountain",
     "state": "Wisconsin",
     "region": "Midwest",
@@ -4091,9 +9645,61 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "165",
-    "website": "https://www.wilmotmountain.com/"
+    "website": "https://www.wilmotmountain.com/",
+    "resortReview": {
+      "score": 36,
+      "link": "BP520C4ZGRE",
+      "note": "Johnathan rated this 36/100 in the video, but the scores actually add up to 41.",
+      "price": "6",
+      "easeOfAccess": "7",
+      "lodging": "1",
+      "chairLifts": "5",
+      "runs": "2",
+      "terrainPark": "5",
+      "food": "5",
+      "employees": "5",
+      "views": "2",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/52by1858dr2zwlav0rbyoowf3c1r",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Pinehurst",
+    "state": "Wisconsin",
+    "region": "Midwest",
+    "city": "",
+    "videos": [],
+    "position": {
+      "lat": 44.853769653067545,
+      "lng": -91.45300626754761
+    },
+    "officialSkiResort": true,
+    "id": "12871",
+    "website": "http://www.pinehurstpark.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/tcls0aaht2qul68suaazstrpss3b",
+    "country": "United States"
+  },
+  {    
     "resortName": "Arizona Snowbowl",
     "state": "Arizona",
     "region": "Rocky Mountains",
@@ -4105,23 +9711,33 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "548",
-    "website": "http://www.arizonasnowbowl.com"
-  },
-  {
-    "resortName": "Elk Ridge Ski Area",
-    "state": "Arizona",
-    "region": "Rocky Mountains",
-    "city": "Williams",
-    "videos": [],
-    "position": {
-      "lat": 35.21541003933895,
-      "lng": -112.16777969041384
+    "website": "http://www.arizonasnowbowl.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "551",
-    "website": "http://www.elkridgeski.com/"
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/dzml91y9eravl1cnatnh7qzjoyu7",
+    "webcam": [
+      {
+        "title": "Arizona Gondola",
+        "link": "Dt71NJaIwls"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Lemmon Ski Valley",
     "state": "Arizona",
     "region": "Rocky Mountains",
@@ -4132,10 +9748,28 @@ var allData = [
       "lng": -110.78192422205908
     },
     "officialSkiResort": true,
-    "id": "4528",
-    "website": "https://www.skithelemmon.com/"
+    "id": "550",
+    "website": "https://www.skithelemmon.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/1wj6lu4b54a8l4p8ivlq0kemi7z6",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sunrise Park Resort",
     "state": "Arizona",
     "region": "Rocky Mountains",
@@ -4146,10 +9780,30 @@ var allData = [
       "lng": -109.56386338344488
     },
     "officialSkiResort": true,
-    "id": "4061",
-    "website": "https://www.sunriseskipark.com/"
+    "id": "549",
+    "website": "https://www.sunriseskipark.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ynzkum2ikclhzf72pc5f3fb1ly2h",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Arapahoe Basin",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4161,9 +9815,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "513",
-    "website": "http://www.arapahoebasin.com"
+    "website": "http://www.arapahoebasin.com",
+    "resortReview": {
+      "score": 60,
+      "link": "Vjct1aKyVOc",
+      "note": "",
+      "price": "8",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "5",
+      "runs": "10",
+      "terrainPark": "2",
+      "food": "7",
+      "employees": "4",
+      "views": "9",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/npm7kyh1hxn6cqowbo48d78d7b2n",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Aspen/Snowmass",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4175,9 +9850,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1033",
-    "website": "http://www.aspensnowmass.com"
+    "website": "http://www.aspensnowmass.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/ekpgg5bzlre6di6wan7xv3ehz277",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Aspen Highlands",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4189,9 +9885,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1032",
-    "website": "http://www.aspensnowmass.com"
+    "website": "http://www.aspensnowmass.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/uibnpbo31v76qb3qyb06gtuv5goe",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Aspen Mountain",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4203,9 +9920,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1031",
-    "website": "http://www.aspensnowmass.com"
+    "website": "http://www.aspensnowmass.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/oofv5w41bx2ms2p0q6khtztn9pba",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Buttermilk",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4216,10 +9954,31 @@ var allData = [
       "lng": -106.86188490966266
     },
     "officialSkiResort": true,
-    "id": "2352",
-    "website": "http://www.buttermilkresort.com/"
+    "id": "504",
+    "website": "http://www.buttermilkresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/3b4kq73ds6nn6f0dc2odru4p4wfo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Beaver Creek Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4231,9 +9990,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "497",
-    "website": "https://www.beavercreek.com/"
+    "website": "https://www.beavercreek.com/",
+    "resortReview": {
+      "score": 71,
+      "link": "YdIktWJUP5E",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "5",
+      "lodging": "10",
+      "chairLifts": "10",
+      "runs": "9",
+      "terrainPark": "4",
+      "food": "10",
+      "employees": "5",
+      "views": "4",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/alinyu8a5en401qrzy1ciburlpar",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Breckenridge Ski Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4243,13 +10022,41 @@ var allData = [
       "lat": 39.48049884182705,
       "lng": -106.06667208881282
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink":  [],
     "officialSkiResort": true,
     "id": "510",
-    "website": "https://www.breckenridge.com/"
+    "website": "https://www.breckenridge.com/",
+    "resortReview": {
+      "score": 72,
+      "link": "_tSdgrJk3h8",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "3",
+      "lodging": "10",
+      "chairLifts": "9",
+      "runs": "8",
+      "terrainPark": "9",
+      "food": "6",
+      "employees": "5",
+      "views": "7",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/4b9vwdxdz3iyavmvwv08w4kpx24m",
+    "webcam": [
+      {
+        "title": "Mountain Cam",
+        "link": "mHTTPNYltZo"
+      },
+      {
+        "title": "Main Street",
+        "link": "SH63YaIWyK0"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Chapman Hill Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4261,9 +10068,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3296",
-    "website": "http://www.durangogov.org/index.aspx?NID=544"
+    "website": "http://www.durangogov.org/index.aspx?NID=544",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/efuz5zg6dxxgsr7o5u5xsm2aag0c",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Copper Mountain Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4275,9 +10100,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "509",
-    "website": "http://www.coppercolorado.com"
+    "website": "http://www.coppercolorado.com",
+    "resortReview": {
+      "score": 83,
+      "link": "GYhCXwxn3L4",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "5",
+      "lodging": "10",
+      "chairLifts": "10",
+      "runs": "8",
+      "terrainPark": "10",
+      "food": "10",
+      "employees": "6",
+      "views": "9",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/1ahjnhtj6bvspoqjnf5pro5os8qi",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cranor Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4287,11 +10132,29 @@ var allData = [
       "lat": 38.587159592238294,
       "lng": -106.89600754424221
     },
-    "officialSkiResort": true,     
-    "id": "3297",     
-    "website": "https://www.facebook.com/Gunnison-Parks-Recreation-168602499819692/"  
+    "officialSkiResort": true,
+    "id": "3297",
+    "website": "https://www.facebook.com/Gunnison-Parks-Recreation-168602499819692/",
+    "resortReview": {
+      "score": 31,
+      "link": "kdpqtPvSQfs",
+      "note": "",
+      "price": "9",
+      "easeOfAccess": "3",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "3",
+      "terrainPark": "1",
+      "food": "2",
+      "employees": "5",
+      "views": "4",
+      "wouldIGoBack": "2"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/u200gy5a4i6ecm2t16uyxln04kqr",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Crested Butte Mountain Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4303,9 +10166,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "514",
-    "website": "http://www.skicb.com/"
+    "website": "http://www.skicb.com/",
+    "resortReview": {
+      "score": 75,
+      "link": "ZnG8-GfZtJY",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "2",
+      "lodging": "10",
+      "chairLifts": "7",
+      "runs": "10",
+      "terrainPark": "5",
+      "food": "10",
+      "employees": "4",
+      "views": "10",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/lm7b8hebgjkufhc7kyrpnpce4lk3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Echo Mountain Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4317,9 +10200,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1034",
-    "website": "https://www.echomountainresort.com/"
+    "website": "https://www.echomountainresort.com/",
+    "resortReview": {
+      "score": 37,
+      "link": "Qvgs4xEa6k0",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "4",
+      "lodging": "0",
+      "charLifts": "3",
+      "runs": "3",
+      "terrainPark": "1",
+      "food": "6",
+      "employees": "6",
+      "views": "5",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/f9xkjn4ey8wzq2e1tb0jqogow80k",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Eldora Mountain Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4331,9 +10234,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "508",
-    "website": "http://www.eldora.com/"
+    "website": "http://www.eldora.com/",
+    "resortReview": {
+      "score": 63,
+      "link": "sWdRqgInl1o",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "4",
+      "lodging": "0",
+      "chairLifts": "6",
+      "runs": "7",
+      "terrainPark": "8",
+      "food": "6",
+      "employees": "10",
+      "views": "5",
+      "wouldIGoBack": "63"
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/ercixskkm4wcb79x8pa9146e45zd",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hesperus Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4345,9 +10268,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1035",
-    "website": "http://ski-hesperus.com/"
+    "website": "http://ski-hesperus.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/icvb1g80y3t4w2q4zgm5nmhsmj7k",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Howelsen Hill Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4359,9 +10300,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "498",
-    "website": "http://steamboatsprings.net/departments/parks_recreation/facilities/howelsen_hill_ski_area"
+    "website": "http://steamboatsprings.net/departments/parks_recreation/facilities/howelsen_hill_ski_area",
+    "resortReview": {
+      "score": 33,
+      "link": "famqzfLIJ74",
+      "note": "",
+      "price": "9",
+      "easeOfAccess": "4",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "3",
+      "terrainPark": "1",
+      "food": "3",
+      "employees": "5",
+      "views": "3",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/oeyi41if3udmqj30b3ybcnwpx4rh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Kendall Mountain Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4373,9 +10332,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "499",
-    "website": "http://www.skikendall.com/"
+    "website": "http://www.skikendall.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/p9czucnwfcwz8m67puaipwek1vhk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Keystone Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4385,13 +10362,31 @@ var allData = [
       "lat": 39.60856586489557,
       "lng": -105.94363711538396
     },
-    "resortReviewLink": [],
-    "resortReviewScore": "N/A",
     "officialSkiResort": true,
     "id": "519",
-    "website": "http://www.keystone.snow.com"
+    "website": "http://www.keystone.snow.com",
+    "mapLink": "https://files.skimap.org/jahxw22y04s0ntkyjje6dpmn482c.jpg",
+    "resortReview": {
+      "score": 69,
+      "link": "28gC3Ea-imo",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "7",
+      "lodging": "8",
+      "charLifts": "9",
+      "runs": "7",
+      "terrainPark": "9",
+      "food": "7",
+      "employees": "3",
+      "views": "7",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lake City Ski Hill",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4403,9 +10398,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3298",
-    "website": "http://www.townoflakecity.co/lake-city-ski-hill.html"
+    "website": "http://www.townoflakecity.co/lake-city-ski-hill.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/51o28jna8xa5gqquz0m0zz4sdm01",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Loveland Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4417,9 +10430,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "515",
-    "website": "http://www.skiloveland.com/"
+    "website": "http://www.skiloveland.com/",
+    "resortReview": {
+      "score": 63,
+      "link": "7zncp7BSBr8",
+      "note": "Johnathan rated this 62/100 in the video, but the scores actually add up to 63.",
+      "price": "8",
+      "easeOfAccess": "6",
+      "lodging": "0",
+      "chairLifts": "6",
+      "runs": "8",
+      "terrainPark": "6",
+      "food": "7",
+      "employees": "5",
+      "views": "10",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [
+      "Powder Alliance"
+    ],
+    "mapLink": "https://files.skimap.org/p7zelu5ucf10m1t23dbqni9gnugl",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Monarch Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4431,23 +10464,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "511",
-    "website": "http://www.skimonarch.com/"
+    "website": "http://www.skimonarch.com/",
+    "resortReview": {
+      "score": 50,
+      "link": "PdCZqlBm0w8",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "3",
+      "runs": "6",
+      "terrainPark": "4",
+      "food": "5",
+      "employees": "5",
+      "views": "6",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/sxqjctzznwbsi6g7qa3tlm7qan51",
+    "country": "United States"
   },
-   {
-     "resortName": "Otter Mountain",
-     "state": "Colorado",
-     "region": "Rocky Mountains",
-     "city": "Georgetown",
-     "videos": [],
-     "position": {
-     "lat": 39.62876783506184,
-    "lng": -105.71198935956295
-     },
-     "officialSkiResort": true,     
-     "id": "",     
-     "website": "https://www.summitpost.org/otter-mountain/745850"  
-   },
-  {
+  {    
     "resortName": "Powderhorn Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4459,9 +10496,33 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "520",
-    "website": "http://www.powderhorn.com/"
+    "website": "http://www.powderhorn.com/",
+    "resortReview": {
+      "score": 45,
+      "link": "GKsRWQGRoOs",
+      "note": "",
+      "price": "8",
+      "easeOfAccess": "2",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "7",
+      "terrainPark": "3",
+      "food": "5",
+      "employees": "5",
+      "views": "5",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6616qdzogyi573azji1tpa1pa2yt",
+    "webcam": [
+      {
+        "title": "Base Area",
+        "link": "ryN6TQeLNdE"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Purgatory Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4471,11 +10532,29 @@ var allData = [
       "lat": 37.63276792551556,
       "lng": -107.81421306654117
     },
-    "officialSkiResort": true,     
-    "id": "518",     
-    "website": "http://www.durangomountainresort.com/"  
+    "officialSkiResort": true,
+    "id": "518",
+    "website": "http://www.durangomountainresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/erscsof5rr7nive69tpvk6znx3mu",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lee's Ski Hill",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4485,11 +10564,29 @@ var allData = [
       "lat": 38.01938861057263,
       "lng": -107.66914151607332
     },
-    "officialSkiResort": true,     
-    "id": "3299",     
-    "website": "https://www.ci.ouray.co.us/city_offices/city_resources/lee_s_ski_hill.php"  
+    "officialSkiResort": true,
+    "id": "3299",
+    "website": "https://www.ci.ouray.co.us/city_offices/city_resources/lee_s_ski_hill.php",
+    "resortReview": {
+      "score": 39,
+      "link": "_6wO4ZJamZU",
+      "note": "",
+      "price": "10",
+      "easeOfAccess": "2",
+      "lodging": "0",
+      "chairLifts": "1",
+      "runs": "1",
+      "terrainPark": "1",
+      "food": "0",
+      "employees": "7",
+      "views": "7",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/cyxybvn545ixdth8ny1nmtl6w5xl",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Silverton Mountain",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4500,10 +10597,29 @@ var allData = [
       "lng": -107.66585462891373
     },
     "officialSkiResort": true,
+    "helicopterOnly": true,
     "id": "2280",
-    "website": "http://www.silvertonmountain.com/page/home"
+    "website": "http://www.silvertonmountain.com/page/home",
+    "resortReview": {
+      "score": 55,
+      "link": "Eu_hkzSwAHI",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "2",
+      "lodging": "1",
+      "chairLifts": "7",
+      "runs": "10",
+      "terrainPark": "0",
+      "food": "1",
+      "employees": "10",
+      "views": "10",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/vktbkfx7997pwggj7b0jgn5fr4z7",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Cooper",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4515,9 +10631,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "512",
-    "website": "https://www.skicooper.com/"
+    "website": "https://www.skicooper.com/",
+    "resortReview": {
+      "score": 40,
+      "link": "qJisBzad4ZA",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "5",
+      "lodging": "0",
+      "chairLifts": "3",
+      "runs": "4",
+      "terrainPark": "1",
+      "food": "5",
+      "employees": "5",
+      "views": "5",
+      "wouldIGoBack": "6"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/gzapzmksri0g0tktc8n7mrk04fxl",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Granby Ranch",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4529,9 +10663,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "516",
-    "website": "http://www.granbyranch.com/"
+    "website": "http://www.granbyranch.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/r1qil04idakpqcu3mmm2r2fsguyb",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Steamboat Ski Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4543,9 +10697,62 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "500",
-    "website": "http://www.steamboat.com"
+    "website": "http://www.steamboat.com",
+    "resortReview": {
+      "score": 71,
+      "link": "dvTLQfJGSeE",
+      "note": "",
+      "price": "2",
+      "easeOfAccess": "4",
+      "lodging": "10",
+      "chairLifts": "9",
+      "runs": "9",
+      "terrainPark": "6",
+      "food": "10",
+      "employees": "5",
+      "views": "6",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/hcwl603vfy9z1073zh8xc4mhq7cs",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Steamboat Powder Cats",
+    "state": "Colorado",
+    "region": "Rocky Mountains",
+    "city": "Steamboat Springs",
+    "videos": [],
+    "position": {
+      "lat": 40.50421633853206,
+      "lng": -106.78685877175852
+    },
+    "officialSkiResort": true,
+    "snowcatOnly": true,
+    "id": "",
+    "website": "https://www.steamboatpowdercats.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
+  },
+  {    
     "resortName": "Sunlight Ski Area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4555,11 +10762,31 @@ var allData = [
       "lat": 39.39993959991575,
       "lng": -107.33867887120918
     },
-    "officialSkiResort": true,    
-    "id": "506",     
-    "website": "https://sunlightmtn.com/"  
+    "officialSkiResort": true,
+    "id": "506",
+    "website": "https://sunlightmtn.com/",
+    "resortReview": {
+      "score": 56,
+      "link": "w7yaUgtDWkw",
+      "note": "",
+      "price": "8",
+      "easeOfAccess": "3",
+      "lodging": "6",
+      "chairLifts": "2",
+      "runs": "5",
+      "terrainPark": "2",
+      "food": "7",
+      "employees": "8",
+      "views": "7",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ybrl8z0ar6npzapftitofcx7e0jo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Telluride Ski Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4571,9 +10798,39 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "517",
-    "website": "http://tellurideskiresort.com/"
+    "website": "http://tellurideskiresort.com/",
+    "resortReview": {
+      "score": 75,
+      "link": "Q-WR9EBd-dM",
+      "note": "",
+      "price": "3",
+      "easeOfAccess": "3",
+      "lodging": "10",
+      "chairLifts": "9",
+      "runs": "10",
+      "terrainPark": "7",
+      "food": "10",
+      "employees": "5",
+      "views": "8",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/biy5yyutylhbrsdylnrns5jrlwln",
+    "webcam": [
+      {
+        "title": "Mountain Village",
+        "link": "N-StEGiHtjw"
+      },
+      {
+        "title": "Downtown Telluride",
+        "link": "Y_TLxje5Qw4"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Vail Ski Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4585,9 +10842,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "507",
-    "website": "http://www.vail.snow.com"
+    "website": "http://www.vail.snow.com",
+    "resortReview": {
+      "score": 75,
+      "link": "a1zJD_PlJOc",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "4",
+      "lodging": "10",
+      "chairLifts": "9",
+      "runs": "10",
+      "terrainPark": "4",
+      "food": "10",
+      "employees": "5",
+      "views": "9",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/gsb05jccxp5qj5mnlrgjrsptqmp2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Winter Park Resort",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4599,9 +10876,43 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "503",
-    "website": "http://www.winterparkresort.com/"
+    "website": "http://www.winterparkresort.com/",
+    "resortReview": {
+      "score": 83,
+      "link": "3w2RQr7vGK8",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "4",
+      "lodging": "10",
+      "chairLifts": "10",
+      "runs": "10",
+      "terrainPark": "9",
+      "food": "10",
+      "employees": "5",
+      "views": "10",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/24b3kckk4u7ifqirygakd1btblf4",
+    "webcam": [
+      {
+        "title": "Base Cam",
+        "link": "J3c9xWRWMCs"
+      },
+      {
+        "title": "Lunch Rock",
+        "link": "Cv_cXPbGAtE"
+      },
+      {
+        "title": "Snow Stake",
+        "link": "8rzBPS0DqGE"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Wolf Creek ski area",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4611,11 +10922,29 @@ var allData = [
       "lat": 37.47244179734956,
       "lng": -106.79304353077356
     },
-    "officialSkiResort": true,     
-    "id": "505",     
-    "website": "http://www.wolfcreekski.com/"  
+    "officialSkiResort": true,
+    "id": "505",
+    "website": "http://www.wolfcreekski.com/",
+    "resortReview": {
+      "score": 40,
+      "link": "M0zvy8vcAjY",
+      "note": "",
+      "price": "4",
+      "easeOfAccess": "3",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "6",
+      "terrainPark": "0",
+      "food": "5",
+      "employees": "5",
+      "views": "8",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/1a8i8ci70yybfxrtn7cwa1zy5kpj",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Loveland Pass",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4625,9 +10954,27 @@ var allData = [
     "position": {
       "lat": 39.664983552666754,
       "lng": -105.8787492562817
-    }
+    },
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "St. Mary's Glacier",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4639,9 +10986,27 @@ var allData = [
     },
     "officialSkiResort": false,
     "id": "4663",
-    "website": "https://www.facebook.com/stmarysglacierco/"
+    "website": "https://www.facebook.com/stmarysglacierco/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/pwqnc4za8wtrhx63re5z1jphpg9v",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Farm in Colorado Springs",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4653,23 +11018,59 @@ var allData = [
     },
     "officialSkiResort": false,
     "id": "",
-    "website": "https://www.visitcos.com/"
+    "website": "",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Colorado Mountain College Rail Jam",
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Leadville",
     "videos": [],
     "position": {
-      "lat": 39.23879814438246, 
+      "lat": 39.23879814438246,
       "lng": -106.30335758286941
     },
     "officialSkiResort": false,
     "id": "",
-    "website": "https://educationatelevation.com/2019/03/27/2019-cloud-city-rail-jam-results/"
+    "website": "https://educationatelevation.com/2019/03/27/2019-cloud-city-rail-jam-results/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hoosier Pass",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4681,9 +11082,27 @@ var allData = [
     },
     "officialSkiResort": false,
     "id": "14835",
-    "website": "http://www.coloradoskihistory.com/lost/hoosierpass.html"
+    "website": "http://www.coloradoskihistory.com/lost/hoosierpass.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/koipuawpbu3cg2r39vtbbvql8nvq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Backyard Parks in Summit County",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4691,14 +11110,32 @@ var allData = [
     "officialSkiResort": false,
     "videos": [],
     "position": {
-      "lat": 39.59955455089273,
-      "lng": -106.09567554187014
+      "lat": 39.637908750133086,
+      "lng": -106.07816310210822
     },
     "id": "",
-    "website": ""
+    "website": "",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://pbs.twimg.com/media/FGivCwtUcAY2FtD?format=png&name=medium",
+    "country": "United States"
   },
-  {
-    "resortName": "Ruby Hill",
+  {    
+    "resortName": "Ruby Hill / Denver",
     "state": "Colorado",
     "region": "Rocky Mountains",
     "city": "Denver",
@@ -4709,9 +11146,27 @@ var allData = [
       "lng": -105.00359721854255
     },
     "id": "",
-    "website": "https://www.rubyhilldenver.com/ruby-hill-park/"
+    "website": "https://www.rubyhilldenver.com/ruby-hill-park/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Frisco Adventure Park",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4723,9 +11178,27 @@ var allData = [
       "lng": -106.07759352892558
     },
     "id": "4904",
-    "website": "https://www.townoffrisco.com/play/frisco-adventure-park-winter/general-info/"
+    "website": "https://www.townoffrisco.com/play/frisco-adventure-park-winter/general-info/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Buffalo Mountain",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4735,9 +11208,27 @@ var allData = [
     "position": {
       "lat": 39.616663843391365,
       "lng": -106.14252201307508
-    }
+    },
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Vail Pass",
     "state": "Colorado",
     "region": "Rocky Mountains",
@@ -4747,9 +11238,123 @@ var allData = [
     "position": {
       "lat": 39.52935522361592,
       "lng": -106.21762991587998
-    }
+    },
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Bluebird Backcountry",
+    "state": "Colorado",
+    "region": "Rocky Mountains",
+    "city": "Kremmling",
+    "officialSkiResort": false,
+    "id": "14734",
+    "website": "https://bluebirdbackcountry.com/",
+    "videos": [],
+    "position": {
+      "lat": 40.41109022966728,
+      "lng": -106.55187298302228
+    },
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/50ldcs7vsewjk53wighviqfclaha",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Great Sand Dunes",
+    "state": "Colorado",
+    "region": "Rocky Mountains",
+    "city": "Kremmling",
+    "officialSkiResort": false,
+    "id": "",
+    "website": "https://www.nps.gov/grsa/index.htm",
+    "videos": [],
+    "position": {
+      "lat": 37.796680812687185,
+      "lng": -105.60026518635749
+    },
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://www.nps.gov/grsa/planyourvisit/images/great-sand-dunes-npp-map.jpg",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Monarch Pass",
+    "state": "Colorado",
+    "region": "Rocky Mountains",
+    "city": "Salida",
+    "officialSkiResort": false,
+    "id": "",
+    "website": "",
+    "videos": [],
+    "position": {
+      "lat": 38.49718365365078,
+      "lng": -106.3256659306812
+    },
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
+  },
+  {    
     "resortName": "Bald Mountain",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4761,9 +11366,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2768",
-    "website": "http://www.skibaldmountain.com/"
+    "website": "http://www.skibaldmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/61pwu1ps3blpd7474v23tfmmxbxl",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bogus Basin",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4775,9 +11398,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "487",
-    "website": "http://www.bogusbasin.org/"
+    "website": "http://www.bogusbasin.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance"
+    ],
+    "mapLink": "https://files.skimap.org/s1dpn661divqwbyfgn1s5ksnwftw",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Brundage Mountain",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4789,9 +11432,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "483",
-    "website": "http://www.brundage.com/"
+    "website": "http://www.brundage.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/w3kz4rucjoajjhv55goo50k5njb3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cottonwood Butte",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4803,9 +11466,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "484",
-    "website": "https://www.cottonwoodbutte.org/"
+    "website": "https://www.cottonwoodbutte.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/h26c8v7o9efagmtibdri8dyguc54",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Kelly Canyon",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4817,9 +11498,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "486",
-    "website": "http://www.skikelly.com/"
+    "website": "http://www.skikelly.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ea0na23mhigvhaayvxau3fk1j4tk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Little Ski Hill",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4831,9 +11532,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3009",
-    "website": "http://www.littleskihill.org/"
+    "website": "http://www.littleskihill.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/v97brja2wk2kg516xra8d7kcv4cm",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lookout Pass",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4845,9 +11564,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "482",
-    "website": "http://www.skilookout.com/"
+    "website": "http://www.skilookout.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/by7pats5j6m81yj9yo9295xyb2l0",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Magic Mountain",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4858,10 +11595,28 @@ var allData = [
       "lng": -114.28528411532494
     },
     "officialSkiResort": true,
-    "id": "14790",
-    "website": "https://magicmountainresort.com/"
+    "id": "490",
+    "website": "https://magicmountainresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/x4vi68jhy6dias2aa0xufi03hd1a",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pebble Creek",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4873,9 +11628,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "478",
-    "website": "http://www.pebblecreekskiarea.com/"
+    "website": "http://www.pebblecreekskiarea.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/skfi9s98hg1jux3xw047vfol5xr2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pomerelle",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4887,9 +11660,35 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "477",
-    "website": "http://www.pomerelle-mtn.com/"
+    "website": "http://www.pomerelle-mtn.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/volhuwsyqzyiagw71srmxnpvncp7",
+    "webcam": [
+      {
+        "title": "Resort Cam",
+        "link": "uM-oftYVFGA"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Rotarun",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4901,9 +11700,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3306",
-    "website": "http://rotarunskiarea.org/"
+    "website": "http://rotarunskiarea.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/499b1ednylc0okwyepde8c2o2z6s",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Schweitzer Mountain",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4915,9 +11732,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "476",
-    "website": "http://www.schweitzer.com/"
+    "website": "http://www.schweitzer.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/nyp9lh3i7bfopngwk2ypz08a4u6t",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Silver Mountain",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4928,10 +11765,31 @@ var allData = [
       "lng": -116.1331173575192
     },
     "officialSkiResort": true,
-    "id": "5272",
-    "website": "https://silvermt.com/"
+    "id": "479",
+    "website": "https://silvermt.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance",
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/k50v672vp4ibpba08wtnw0jgq4ru",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snowhaven",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4943,9 +11801,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "489",
-    "website": "http://www.grangeville.us/idahocounty/snowhaven/index.htm"
+    "website": "http://www.grangeville.us/idahocounty/snowhaven/index.htm",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/o7lh3ocljsd6j6y3shq6pu955l4o",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Soldier Mountain",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4957,9 +11833,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "485",
-    "website": "http://www.soldiermountain.com/"
+    "website": "http://www.soldiermountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/anmxcvy3x2qa3jsyngl1gau6rxj1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sun Valley",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4970,10 +11866,31 @@ var allData = [
       "lng": -114.35500914223694
     },
     "officialSkiResort": true,
-    "id": "2768",
-    "website": "http://www.skibaldmountain.com/"
+    "id": "480",
+    "website": "http://www.skibaldmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/o50bnd3v6mav6jthbgnxgcfxbei1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Tamarack",
     "state": "Idaho",
     "region": "Rocky Mountains",
@@ -4984,11 +11901,31 @@ var allData = [
       "lng": -116.12428369507985
     },
     "officialSkiResort": true,
-    "id": "5230",
-    "website": "https://tamarackidaho.com/"
+    "id": "488",
+    "website": "https://tamarackidaho.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/c1g8x4n5s9jcjon56x9e59ch3tiy",
+    "country": "United States"
   },
-  {
-    "resortName": "Bear Paw Ski Bowl - Havre",
+  {    
+    "resortName": "Bear Paw Ski Bowl",
     "state": "Montana",
     "region": "Rocky Mountains",
     "city": "",
@@ -4999,9 +11936,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2982",
-    "website": "http://skibearpaw.com/"
+    "website": "http://skibearpaw.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/5q8azq39lsrfhgyso6y0caiwtbod",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Sky",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5013,9 +11968,44 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "361",
-    "website": "http://www.bigskyresort.com"
+    "website": "http://www.bigskyresort.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/p83ux31rcztgyy3rbe9psw7hgwaw",
+    "webcam": [
+      {
+        "title": "Everett's 8800 Cam",
+        "link": "LMjRvBr7Jms"
+      },
+      {
+        "title": "Andesite Snow Stake",
+        "video": "hVkGR8ScDe8"
+      },
+      {
+        "title": "Madison Base Cam",
+        "video": "H3BkzGnqP8w"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Blacktail Mountain",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5027,9 +12017,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "363",
-    "website": "https://blacktailmountain.com/"
+    "website": "https://blacktailmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/cx5x83t911411cb2cxl9ug20q7fg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bridger Bowl",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5041,9 +12051,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "375",
-    "website": "https://bridgerbowl.com/"
+    "website": "https://bridgerbowl.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/1gm0337ukx812o0q3hbxghiux3f1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Discovery",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5055,9 +12083,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "366",
-    "website": "http://www.skidiscovery.com/"
+    "website": "http://www.skidiscovery.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6xg4z0uisa91kxihjl04saxcvgnf",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Great Divide",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5069,9 +12115,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "371",
-    "website": "http://www.skigd.com/"
+    "website": "http://www.skigd.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/11q4a4haeytnags5547642taxyeo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Lost Trail Powder Mountain",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5083,9 +12147,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4378",
-    "website": "http://www.losttrail.com/"
+    "website": "http://www.losttrail.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://skimap.org/data/4378/221/1480628055.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Maverick Mountain",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5097,9 +12181,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "370",
-    "website": ""
+    "website": "",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/cy7qhpy9z1yxahsmjbq5f4c52ekz",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Montana Snowbowl",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5111,9 +12213,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "368",
-    "website": "https://skimaverick.com/"
+    "website": "https://skimaverick.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/a56lmc4da89mntlbaxm25405m215",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Moonlight Basin",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5125,9 +12245,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "373",
-    "website": "http://www.moonlightbasin.com"
+    "website": "http://www.moonlightbasin.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://skimap.org/data/373/7/1320030351.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Red Lodge Mountain",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5139,9 +12277,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "364",
-    "website": "https://www.redlodgemountain.com/"
+    "website": "https://www.redlodgemountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/qnd3124pdz7p9q0q05qtxqcaf8t3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Showdown",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5153,9 +12311,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "365",
-    "website": "https://www.showdownmontana.com/"
+    "website": "https://www.showdownmontana.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/km3pgde7e1uob9xorwzne54qujr1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Teton Pass",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5167,9 +12343,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "372",
-    "website": "https://www.skitetonmt.com/"
+    "website": "https://www.skitetonmt.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ntagjvixnnzfh70o2dd9gi0uh5ij",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Turner Mountain",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5181,9 +12375,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "369",
-    "website": "https://www.skiturner.com/"
+    "website": "https://www.skiturner.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/klq0e1i9a0juckbcecmpetvw6498",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Whitefish Mountain Resort",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5195,9 +12407,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "367",
-    "website": "https://skiwhitefish.com/"
+    "website": "https://skiwhitefish.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/2czcdlnve8hpqjsd862c6hzx7sab",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Yellowstone Club",
     "state": "Montana",
     "region": "Rocky Mountains",
@@ -5209,9 +12439,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1025",
-    "website": "http://www.theyellowstoneclub.com"
+    "website": "http://www.theyellowstoneclub.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/mt9mvynlshvgsqdc7lx2xhri6ox4",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Angel Fire Resort",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5223,9 +12471,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "331",
-    "website": "https://www.angelfireresort.com/"
+    "website": "https://www.angelfireresort.com/",
+    "resortReview": {
+      "score": 58,
+      "link": "opJ6DgYl_jk",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "4",
+      "lodging": "7",
+      "chairLifts": "6",
+      "runs": "4",
+      "terrainPark": "4",
+      "food": "8",
+      "employees": "7",
+      "views": "4",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [
+      "Powder Alliance"
+    ],
+    "mapLink": "https://files.skimap.org/ih6vj8wuwca413dli5i21ohfad6j",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pajarito Mountain",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5237,9 +12505,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "336",
-    "website": "https://www.pajarito.ski/"
+    "website": "https://www.pajarito.ski/",
+    "resortReview": {
+      "score": 37,
+      "link": "d0RXxbgBXyo",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "3",
+      "lodging": "0",
+      "chairLifts": "3",
+      "runs": "3",
+      "terrainPark": "2",
+      "food": "5",
+      "employees": "5",
+      "views": "6",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/wn8qj9xj0d5783yqr045tq1irgny",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Red River Ski Area",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5251,9 +12537,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "333",
-    "website": "https://www.redriverskiarea.com/"
+    "website": "https://www.redriverskiarea.com/",
+    "resortReview": {
+      "score": 46,
+      "link": "fIWGJU7bWkQ",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "3",
+      "lodging": "0",
+      "chairLifts": "5",
+      "runs": "5",
+      "terrainPark": "6",
+      "food": "5",
+      "employees": "6",
+      "views": "4",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/53osc84tvfefr5oy6ryg4czi3b4m",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sandia Peak",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5265,9 +12569,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "332",
-    "website": "https://sandiapeak.com/"
+    "website": "https://sandiapeak.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/v1yvb7tdks7klfvvd2hh0mjtci90",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sipapu",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5279,9 +12601,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "337",
-    "website": "https://www.sipapu.ski/"
+    "website": "https://www.sipapu.ski/",
+    "resortReview": {
+      "score": 51,
+      "link": "XqnSwCsVAkA",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "3",
+      "lodging": "7",
+      "chairLifts": "3",
+      "runs": "4",
+      "terrainPark": "3",
+      "food": "5",
+      "employees": "10",
+      "views": "2",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/hk71i0okm9b24j67jb509locxux3",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Apache",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5293,9 +12633,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "334",
-    "website": "https://www.skiapache.com/"
+    "website": "https://www.skiapache.com/",
+    "resortReview": {
+      "score": 41,
+      "link": "XNrpr-WxxEs",
+      "note": "",
+      "price": "8",
+      "easeOfAccess": "3",
+      "lodging": "0",
+      "chairLifts": "7",
+      "runs": "7",
+      "terrainPark": "0",
+      "food": "5",
+      "employees": "3",
+      "views": "6",
+      "wouldIGoBack": "2"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/h2z2wpufnlscfa1fsohiorpf1juh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Cloudcroft",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5307,9 +12665,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2604",
-    "website": "http://www.skicloudcroft.net/"
+    "website": "http://www.skicloudcroft.net/",
+    "resortReview": {
+      "score": 33,
+      "link": "WSbSlo6LgVQ",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "3",
+      "lodging": "0",
+      "chairLifts": "2",
+      "runs": "4",
+      "terrainPark": "1",
+      "food": "5",
+      "employees": "6",
+      "views": "4",
+      "wouldIGoBack": "3"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/rqrdar0vszafftrwl0p9yru3e4nq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Santa Fe",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5321,9 +12697,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "335",
-    "website": "http://www.skisantafe.com/"
+    "website": "http://www.skisantafe.com/",
+    "resortReview": {
+      "score": 47,
+      "link": "0kME1UuxITQ",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "6",
+      "lodging": "1",
+      "chairLifts": "5",
+      "runs": "6",
+      "terrainPark": "1",
+      "food": "5",
+      "employees": "5",
+      "views": "6",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/d9j12e42tc1qe15pp16ykdo73uzv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Taos Ski Valley",
     "state": "New Mexico",
     "region": "Rocky Mountains",
@@ -5335,27 +12729,34 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4528",
-    "website": "https://www.skitaos.com/"
-  },
-  {
-    "resortName": "Mount Aggie Ski Slope",
-    "state": "Texas",
-    "region": "Rocky Mountains",
-    "city": "College Station",
-    "videos": [],
-    "position": {
-      "lat": 30.601650239295864,
-      "lng": -96.34977705973935
+    "website": "https://www.skitaos.com/",
+    "resortReview": {
+      "score": 75,
+      "link": "zGUm3uqqF7s",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "4",
+      "lodging": "10",
+      "chairLifts": "7",
+      "runs": "10",
+      "terrainPark": "3",
+      "food": "10",
+      "employees": "5",
+      "views": "10",
+      "wouldIGoBack": "10"
     },
-    "officialSkiResort": true,
-    "id": "3196",
-    "website": "http://hlknweb.tamu.edu/mt-aggie"
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/ruzyw0ql2dq0swycq3308hk0o8e1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Alta",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Alta",
+    "city": "Alta (ski only)",
     "skiOnly": true,
     "videos": [],
     "position": {
@@ -5363,10 +12764,31 @@ var allData = [
       "lng": -111.63858070186969
     },
     "officialSkiResort": true,
-    "id": "14439",
-    "website": "https://www.aalski.no/"
+    "id": "224",
+    "website": "https://www.alta.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/lj9ifnjp4k0d258r9qy9rhwf5agt",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Beaver Mountain",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5378,9 +12800,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "220",
-    "website": "https://www.skithebeav.com/"
+    "website": "https://www.skithebeav.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/r9mbg0oze97z1p5lu2xd7pv25ooa",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Brian Head",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5392,9 +12834,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "227",
-    "website": "https://www.brianhead.com/"
+    "website": "https://www.brianhead.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/axa4ky4vb2ns19q2oe2hry3ke4kt",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Brighton",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5405,10 +12865,44 @@ var allData = [
       "lng": -111.58319284282311
     },
     "officialSkiResort": true,
-    "id": "430",
-    "website": "https://www.skiutah.com/members/brighton"
+    "id": "222",
+    "website": "https://www.skiutah.com/members/brighton",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/e0nyjdp3xzvl9ca29brtyb7yuip5",
+    "webcam": [
+      {
+        "title": "Parking Lot",
+        "link": "iq-CT8UQzgo"
+      },
+      {
+        "title": "Great Western",
+        "link": "YDyBL3bXOwA"
+      },
+      {
+        "title": "Brighton Store",
+        "link": "q_tgKYEnCa0"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cherry Peak Resort",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5420,13 +12914,31 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4337",
-    "website": "http://skicpr.com/index.html"
+    "website": "http://skicpr.com/index.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ocy1570i3rktyg404icro3z2ja3l",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Deer Valley",
     "state": "Utah",
     "region": "Rocky Mountains",
-    "city": "Park City",
+    "city": "Park City (ski only)",
     "skiOnly": true,
     "videos": [],
     "position": {
@@ -5435,9 +12947,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "223",
-    "website": "https://www.deervalley.com/"
+    "website": "https://www.deervalley.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/wir117kj9wyoc1ozrvbdcnldgn0b",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Eagle Point Ski Resort",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5449,9 +12981,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "231",
-    "website": "http://www.skieaglepoint.com"
+    "website": "http://www.skieaglepoint.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/sk0jiy6xpifo47sspkqlgkh3eixk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Nordic Valley",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5463,9 +13015,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "221",
-    "website": "http://nordicvalley.com/"
+    "website": "http://nordicvalley.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6su5o8ionwnu8t454k00s5rcwq5e",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Park City Mountain Resort",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5477,9 +13047,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "229",
-    "website": "http://parkcitymountain.com"
+    "website": "http://parkcitymountain.com",
+    "resortReview": {
+      "score": 74,
+      "link": "sq_LFhyqXbg",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "9",
+      "lodging": "9",
+      "chairLifts": "10",
+      "runs": "8",
+      "terrainPark": "8",
+      "food": "8",
+      "employees": "5",
+      "views": "6",
+      "wouldIGoBack": "6"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/7qnj3h7krcyjgnetal1y4ho3srdf",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Woodward Park City",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5491,9 +13081,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "5123",
-    "website": "https://www.woodwardparkcity.com/"
+    "website": "https://www.woodwardparkcity.com/",
+    "resortReview": {
+      "score": 50,
+      "link": "J80SzgL-N1Y",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "8",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "1",
+      "terrainPark": "10",
+      "food": "5",
+      "employees": "5",
+      "views": "2",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/j4cljndieiz6ry0n6g5fpr4c9l9l",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Powder Mountain",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5504,10 +13112,30 @@ var allData = [
       "lng": -111.78019592340156
     },
     "officialSkiResort": true,
-    "id": "374",
-    "website": "https://www.powdermountain.com/visit-powder-mountain"
+    "id": "228",
+    "website": "https://www.powdermountain.com/visit-powder-mountain",
+    "resortReview": {
+      "score": 57,
+      "link": "W8rHJCmziH0",
+      "note": "Johnathan rated this 57/100 in the video, but the scores actually add up to 53.",
+      "price": "7",
+      "easeOfAccess": "6",
+      "lodging": "6",
+      "chairLifts": "5",
+      "runs": "6",
+      "terrainPark": "0",
+      "food": "5",
+      "employees": "6",
+      "views": "5",
+      "wouldIGoBack": "7"
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/3f4fzsu96e4cxqp78my3mkt2d8wg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snowbasin",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5519,9 +13147,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "219",
-    "website": "http://www.snowbasin.com/"
+    "website": "http://www.snowbasin.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/edvbcwkajk2wrgx0dankispitp9f",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snowbird",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5533,9 +13182,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "226",
-    "website": "http://www.snowbird.com"
+    "website": "http://www.snowbird.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/fuw5tymp5n0o0flc7kbea62jylks",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Solitude",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5547,9 +13217,43 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "225",
-    "website": "https://solitudemountain.com/"
+    "website": "https://solitudemountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/mdkcnfje281c0g0djpzw68f0vgw0",
+    "webcam": [
+      {
+        "title": "Apex Express and Sunrise Lift Lines",
+        "link": "l2X9DlRzX54"
+      },
+      {
+        "title": "Honeycomb Canyon",
+        "link": "d8hFWghj84k"
+      },
+      {
+        "title": "Moonbeam Parking Lot",
+        "link": "OnMVIldmuhU"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sundance",
     "state": "Utah",
     "region": "Rocky Mountains",
@@ -5561,9 +13265,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "230",
-    "website": "https://www.sundanceresort.com/"
+    "website": "https://www.sundanceresort.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/1j84kgoyes5advtswhi7ix8kd9wb",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Big Horn (Meadowlark)",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5574,10 +13296,30 @@ var allData = [
       "lng": -107.21371618829218
     },
     "officialSkiResort": true,
-    "id": "14055",
-    "website": ""
+    "id": "149",
+    "website": "http://www.lodgesofthebighorns.com/meadowlark-ski-lodge-wyoming.php",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/3hjr46hf01rqleqzjsg6d7xqd67r",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Grand Targhee",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5589,9 +13331,35 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "150",
-    "website": "https://www.grandtarghee.com/"
+    "website": "https://www.grandtarghee.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/znpgs6eyg3pfxev9iqvqte8ucgq3",
+    "webcam": [
+      {
+        "title": "Dreamcatcher",
+        "link": "g7fWaol3P1g"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hogadon",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5603,9 +13371,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "152",
-    "website": "http://hogadon.net/"
+    "website": "http://hogadon.net/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/lcyeyt45cw4m2ndquadbtpdw30pw",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Jackson Hole",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5617,9 +13403,36 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "151",
-    "website": "http://www.jacksonhole.com"
+    "website": "http://www.jacksonhole.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon",
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/4h0fpd60dn24jxac1v562gjbese1",
+    "webcam": [
+      {
+        "title": "Town Square",
+        "link": "1EiC9bvVGnk"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Pine Creek",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5631,9 +13444,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1038",
-    "website": "https://www.facebook.com/PineCreekSkiResort/"
+    "website": "https://www.facebook.com/PineCreekSkiResort/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/axld7jeehwnoe0ih8zx4dd641oz6",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sleeping Giant Ski Resort",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5643,11 +13474,29 @@ var allData = [
       "lat": 44.49313787043031,
       "lng": -109.93947558828435
     },
-    "officialSkiResort": true,     
-    "id": "154",     
-    "website": "https://www.skisg.com/"  
+    "officialSkiResort": true,
+    "id": "154",
+    "website": "https://www.skisg.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/qlw1c49tmi8yndqa5w854oiw5y17",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snow King Mountain",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5657,11 +13506,37 @@ var allData = [
       "lat": 43.47301111288248,
       "lng": -110.75606748830944
     },
-    "officialSkiResort": true,     
-    "id": "325",     
-    "website": "https://snowkingmountain.com/"  
+    "officialSkiResort": true,
+    "id": "156",
+    "website": "https://snowkingmountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/ml61e3rgzhrpai5mfspzek2uiylt",
+    "webcam": [
+      {
+        "title": "Base Cam",
+        "link": "bEhJMnsPD5I"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snowy Range",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5673,9 +13548,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "155",
-    "website": "https://www.snowyrangeski.com/"
+    "website": "https://www.snowyrangeski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/cladxiq3gkuhsogsf61b1ttqwp6j",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "White Pine",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5687,9 +13580,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "148",
-    "website": "http://www.whitepineski.com/"
+    "website": "http://www.whitepineski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/3lp2jrej5wwgff6bn6ibu38sgy8n",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Beartooth Basin",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5701,9 +13614,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4875",
-    "website": "http://beartoothbasin.com/"
+    "website": "http://beartoothbasin.com/",
+    "resortReview": {
+      "score": 40,
+      "link": "U_FtKx8_ZW0",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "1",
+      "lodging": "0",
+      "chairLifts": "3",
+      "runs": "4",
+      "terrainPark": "2",
+      "food": "0",
+      "employees": "7",
+      "views": "8",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/lgn3yp0dfbpez0univdptx71x0zk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Antelope Butte",
     "state": "Wyoming",
     "region": "Rocky Mountains",
@@ -5713,11 +13644,31 @@ var allData = [
       "lat": 44.612628480589066,
       "lng": -107.5145999035046
     },
-    "officialSkiResort": true,     
-    "id": "153",     
-    "website": "https://www.antelopebuttefoundation.org/"  
+    "officialSkiResort": true,
+    "id": "153",
+    "website": "https://www.antelopebuttefoundation.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/gqnpuejbruuu2k0ggggmgknmoet5",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Arctic Valley",
     "state": "Alaska",
     "region": "West Coast",
@@ -5728,10 +13679,30 @@ var allData = [
       "lng": -149.53474906875422
     },
     "officialSkiResort": true,
-    "id": "14918",
-    "website": "http://www.alsap.org/ArcticValley/ArcticValley.htm"
+    "id": "555",
+    "website": "https://arcticvalley.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/w7bi9w7ync8qg4e0hhyysizsc5do",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Alyeska",
     "state": "Alaska",
     "region": "West Coast",
@@ -5742,10 +13713,30 @@ var allData = [
       "lng": -149.09843629945024
     },
     "officialSkiResort": true,
-    "id": "14439",
-    "website": "https://www.aalski.no/"
+    "id": "552",
+    "website": "https://alyeskaresort.com/skiing-riding-at-alyeska/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/t0o1wcyx98vqhxhyqhhm4hmhxtj1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Eaglecrest",
     "state": "Alaska",
     "region": "West Coast",
@@ -5757,9 +13748,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "553",
-    "website": "http://www.skijuneau.com"
+    "website": "http://www.skijuneau.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance",
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/esh5gsq63nk38ciigua5olm9gm3g",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hilltop",
     "state": "Alaska",
     "region": "West Coast",
@@ -5771,9 +13783,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "556",
-    "website": "http://www.hilltopskiarea.org/"
+    "website": "http://www.hilltopskiarea.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7giks71xosp9y3ag8oyzn8l9c9my",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Majestic Heli Ski",
     "state": "Alaska",
     "region": "West Coast",
@@ -5784,10 +13814,29 @@ var allData = [
       "lng": -147.45866200127367
     },
     "officialSkiResort": true,
+    "helicopterOnly": true,
     "id": "4695",
-    "website": "https://majesticheliski.com/"
+    "website": "https://majesticheliski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/d35zsv09em4g0kedzwtpno55o7jv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Moose Mountain",
     "state": "Alaska",
     "region": "West Coast",
@@ -5799,9 +13848,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "4936",
-    "website": "https://shredthemoose.com/"
+    "website": "https://shredthemoose.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/p77vw0jv9ua6o79nevfw8h4f1kl1",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Eyak",
     "state": "Alaska",
     "region": "West Coast",
@@ -5813,9 +13880,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "554",
-    "website": "https://www.mteyak.org/"
+    "website": "https://www.mteyak.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/p3rvnrfoaam8296809qx4p51afxv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Skiland",
     "state": "Alaska",
     "region": "West Coast",
@@ -5827,9 +13912,124 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2134",
-    "website": "http://www.skiland.org"
+    "website": "http://www.skiland.org",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/axk09ycesffhbpgey49ohbfrpvpa",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Skeetawk",
+    "state": "Alaska",
+    "region": "West Coast",
+    "city": "Palmer",
+    "videos": [],
+    "position": {
+      "lat": 61.7431619826226,
+      "lng": -149.23385156253838
+    },
+    "officialSkiResort": true,
+    "id": "3003",
+    "website": "https://www.skihatcherpass.org",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/wci1gnltpfuju5lqploju7yf2rvt",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Chugach Powder Guides",
+    "state": "Alaska",
+    "region": "West Coast",
+    "city": "Girdwood",
+    "videos": [],
+    "position": {
+      "lat": 61.00138875500095,
+      "lng": -148.95336992515027
+    },
+    "officialSkiResort": true,
+    "snowcatOnly": true,
+    "id": "",
+    "website": "https://www.chugachpowderguides.com/experience/snowcat-skiing",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://www.chugachpowderguides.com/wp-content/uploads/2022/05/hero-experince.png",
+    "country": "United States"
+  },
+  {    
+    "resortName": "Ski Bowl Road (Near Arctic Valley)",
+    "state": "Alaska",
+    "region": "West Coast",
+    "city": "Anchorage",
+    "videos": [],
+    "position": {
+      "lat": 61.25480833542474,
+      "lng": -149.5298813571225
+    },
+    "officialSkiResort": false,
+    "id": "",
+    "website": "https://goo.gl/maps/U3vyGzvtqMMPNPMm7",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
+  },
+  {    
     "resortName": "Alpine Meadows",
     "state": "California",
     "region": "West Coast",
@@ -5841,9 +14041,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "522",
-    "website": "https://www.squawalpine.com/explore/alpine-meadows-ski-resort"
+    "website": "https://www.squawalpine.com/explore/alpine-meadows-ski-resort",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/v2iakaiyf1hl9gc40erbtc58e0po",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Alta Sierra",
     "state": "California",
     "region": "West Coast",
@@ -5854,10 +14072,28 @@ var allData = [
       "lng": -118.56027247498899
     },
     "officialSkiResort": true,
-    "id": "14439",
-    "website": "https://www.aalski.no/"
+    "id": "528",
+    "website": "https://www.altasierra.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/78386xxn2ji89n8n8xq6z361pkc4",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Badger Pass",
     "state": "California",
     "region": "West Coast",
@@ -5869,9 +14105,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "547",
-    "website": "http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/"
+    "website": "http://www.travelyosemite.com/winter/yosemite-ski-snowboard-area/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8pxldcv38t3qf9hcdfchj3ltncly",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bear Mountain",
     "state": "California",
     "region": "West Coast",
@@ -5883,9 +14137,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "536",
-    "website": "http://www.bearmountain.com"
+    "website": "http://www.bearmountain.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/afy08amb1vb13kaqnciohkb5hqaw",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Bear Valley",
     "state": "California",
     "region": "West Coast",
@@ -5896,10 +14170,28 @@ var allData = [
       "lng": -120.04420172890082
     },
     "officialSkiResort": true,
-    "id": "1767",
-    "website": "http://ww51.tiki.ne.jp/~bear-ski/index.html"
+    "id": "534",
+    "website": "http://ww51.tiki.ne.jp/~bear-ski/index.html",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/9my5l7w42hq7ydl9cf5smze7kbtz",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Boreal Mountain",
     "state": "California",
     "region": "West Coast",
@@ -5911,9 +14203,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "523",
-    "website": "http://www.borealski.com"
+    "website": "http://www.borealski.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/yvlydbr4uu82l1ablnal2n2yc560",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Buckhorn Ski Club",
     "state": "California",
     "region": "West Coast",
@@ -5925,9 +14235,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2989",
-    "website": "http://www.orgsites.com/ca/buckhorn/"
+    "website": "http://www.orgsites.com/ca/buckhorn/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/69il7d14lw8po753yn92etmdltmb",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "China Peak",
     "state": "California",
     "region": "West Coast",
@@ -5939,9 +14267,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "527",
-    "website": "http://www.skichinapeak.com/"
+    "website": "http://www.skichinapeak.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance",
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/g99akwohrgmphnuc3whczbja4j4n",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Dodge Ridge",
     "state": "California",
     "region": "West Coast",
@@ -5953,9 +14302,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "533",
-    "website": "http://www.dodgeridge.com"
+    "website": "http://www.dodgeridge.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance",
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/njbct5nu4kf50p410vhsvbdtaq3e",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Donner Ski Ranch",
     "state": "California",
     "region": "West Coast",
@@ -5967,9 +14337,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "542",
-    "website": "http://www.donnerskiranch.com/"
+    "website": "http://www.donnerskiranch.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/ucm6xjl84zie6gvtklr66pp6m0pp",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Granlibakken",
     "state": "California",
     "region": "West Coast",
@@ -5981,9 +14369,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "535",
-    "website": "http://www.granlibakken.com/"
+    "website": "http://www.granlibakken.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/k6uaoa35a4etafb0oai10dbia231",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Heavenly Mountain",
     "state": "California",
     "region": "West Coast",
@@ -5993,11 +14399,31 @@ var allData = [
       "lat": 38.93578766770377,
       "lng": -119.93972411256449
     },
-    "officialSkiResort": true,     
-    "id": "544",     
-    "website": "http://www.skiheavenly.com/"  
+    "officialSkiResort": true,
+    "id": "544",
+    "website": "http://www.skiheavenly.com/",
+    "resortReview": {
+      "score": 70,
+      "link": "6PQV6lKwGUA",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "6",
+      "lodging": "10",
+      "chairLifts": "8",
+      "runs": "7",
+      "terrainPark": "4",
+      "food": "8",
+      "employees": "5",
+      "views": "9",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/8qv7307p1bhcxcb00vyxg8aufqqg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Homewood Mountain",
     "state": "California",
     "region": "West Coast",
@@ -6009,9 +14435,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "545",
-    "website": "http://www.skihomewood.com/"
+    "website": "http://www.skihomewood.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/7fx86c2s7inh25ozfy589qvatoop",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "June Mountain",
     "state": "California",
     "region": "West Coast",
@@ -6023,9 +14467,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "540",
-    "website": "http://www.junemountain.com/"
+    "website": "http://www.junemountain.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/0s9xe9gzyuqezmm0hptcg24et513",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Kirkwood Mountain",
     "state": "California",
     "region": "West Coast",
@@ -6037,9 +14501,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "537",
-    "website": "http://www.kirkwood.com/"
+    "website": "http://www.kirkwood.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/0odboxq4jmmtrk0kj4mnc01r8ibs",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mammoth Mountain",
     "state": "California",
     "region": "West Coast",
@@ -6051,9 +14535,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "530",
-    "website": "http://www.mammothmountain.com/"
+    "website": "http://www.mammothmountain.com/",
+    "resortReview": {
+      "score": 85,
+      "link": "5juHKVAR6b0",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "3",
+      "lodging": "10",
+      "chairLifts": "9",
+      "runs": "10",
+      "terrainPark": "10",
+      "food": "10",
+      "employees": "10",
+      "views": "8",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/t3jc6dqfvm4u4dxw4krsqhdnm8no",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Baldy Ski Lifts",
     "state": "California",
     "region": "West Coast",
@@ -6065,9 +14569,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "541",
-    "website": "http://www.mtbaldy.com/"
+    "website": "http://www.mtbaldy.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/11qhnsjll5yw0kqjxfxxe4dvtnja",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Shasta Ski Park",
     "state": "California",
     "region": "West Coast",
@@ -6079,9 +14601,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "532",
-    "website": "http://www.skipark.com/"
+    "website": "http://www.skipark.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/cqds7m7otaqnrao5j0xdyyzo9nyg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Waterman",
     "state": "California",
     "region": "West Coast",
@@ -6093,9 +14635,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1029",
-    "website": "http://www.mtwaterman.org/"
+    "website": "http://www.mtwaterman.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/sylz15qv238659xksppmpvyqjohr",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mountain High",
     "state": "California",
     "region": "West Coast",
@@ -6107,9 +14667,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "521",
-    "website": "http://www.mthigh.com/"
+    "website": "http://www.mthigh.com/",
+    "resortReview": {
+      "score": 51,
+      "link": "4XbUyEng7tc",
+      "note": "",
+      "price": "6",
+      "easeOfAccess": "7",
+      "lodging": "1",
+      "chairLifts": "6",
+      "runs": "5",
+      "terrainPark": "7",
+      "food": "5",
+      "employees": "5",
+      "views": "4",
+      "wouldIGoBack": "5"
+    },
+    "skiPass": [
+      "Powder Alliance",
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/6ycr5bqhpqqkm8emx72iul3o03pr",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Northstar California",
     "state": "California",
     "region": "West Coast",
@@ -6119,13 +14700,31 @@ var allData = [
       "lat": 39.27475880391958,
       "lng": -120.12112558840658
     },
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
     "officialSkiResort": true,
     "id": "531",
-    "website": "http://www.northstarcalifornia.com"
+    "website": "http://www.northstarcalifornia.com",
+    "resortReview": {
+      "score": 62,
+      "link": "PXdEWAuTKEU",
+      "note": "",
+      "price": "5",
+      "easeOfAccess": "7",
+      "lodging": "7",
+      "chairLifts": "8",
+      "runs": "5",
+      "terrainPark": "6",
+      "food": "7",
+      "employees": "4",
+      "views": "5",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/0r4uqwbeuyxlj70v2tx1xzh00d3s",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sierra at Tahoe",
     "state": "California",
     "region": "West Coast",
@@ -6135,11 +14734,31 @@ var allData = [
       "lat": 38.80038532257699,
       "lng": -120.08036138656583
     },
-    "officialSkiResort": true,     
-    "id": "525",     
-    "website": "http://www.sierraattahoe.com/"  
+    "officialSkiResort": true,
+    "id": "525",
+    "website": "http://www.sierraattahoe.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance"
+    ],
+    "mapLink": "https://files.skimap.org/03cvjultidq5v5czbycynht8v34o",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snow Summit",
     "state": "California",
     "region": "West Coast",
@@ -6151,9 +14770,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "546",
-    "website": "http://www.snowsummit.com/"
+    "website": "http://www.snowsummit.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/jsr20rfd8vpti0znz9sygzdhsyja",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Snow Valley",
     "state": "California",
     "region": "West Coast",
@@ -6164,10 +14803,30 @@ var allData = [
       "lng": -117.03615554433075
     },
     "officialSkiResort": true,
-    "id": "13023",
-    "website": "https://snow-valley.com/"
+    "id": "539",
+    "website": "https://snow-valley.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/x6h74ye0jq8wu71mjr3qblyyw1p4",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Soda Springs",
     "state": "California",
     "region": "West Coast",
@@ -6179,10 +14838,28 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "524",
-    "website": "http://www.skisodasprings.com"
+    "website": "http://www.skisodasprings.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/bsp28wj1ia4vwxgqvxk2blku3wkd",
+    "country": "United States"
   },
-  {
-    "resortName": "Squaw Valley",
+  {    
+    "resortName": "Palisades Tahoe",
     "state": "California",
     "region": "West Coast",
     "city": "Olympic Valley",
@@ -6193,9 +14870,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "538",
-    "website": "http://www.squaw.com/"
+    "website": "http://www.squaw.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/zz6hjm4zcsa2b4liqzkrlrwo4y1a",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sugar Bowl",
     "state": "California",
     "region": "West Coast",
@@ -6207,9 +14904,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "543",
-    "website": "http://www.sugarbowl.com/"
+    "website": "http://www.sugarbowl.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Mountain Collective"
+    ],
+    "mapLink": "https://files.skimap.org/5qwpux4496mv7fnvznp1ms98jll2",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Tahoe Donner Downhill",
     "state": "California",
     "region": "West Coast",
@@ -6221,9 +14938,59 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "529",
-    "website": "http://www.tahoedonner.com/"
+    "website": "http://www.tahoedonner.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/25mvtx7vh8widn6gg7d1j3zp0sbg",
+    "country": "United States"
   },
-  {
+  {    
+    "resortName": "Coppervale Ski Hill",
+    "state": "California",
+    "region": "West Coast",
+    "city": "Susanville",
+    "videos": [],
+    "position": {
+      "lat": 40.347284276869914,
+      "lng": -120.90440500224521
+    },
+    "officialSkiResort": true,
+    "id": "4837",
+    "website": "https://www.lassencollege.edu/about/about-the-area/Pages/Coppervale-Ski-Area.aspx",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/73u6kiafi1av0jv8ia31cwopptpt",
+    "country": "United States"
+  },
+  {    
     "resortName": "Diamond Peak",
     "state": "Nevada",
     "region": "West Coast",
@@ -6235,9 +15002,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "359",
-    "website": "http://www.diamondpeak.com/"
+    "website": "http://www.diamondpeak.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/9bwg2f5tgfjpantyp8xaqgu1ip62",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Las Vegas Ski and Snowboard Resort (Lee Canyon)",
     "state": "Nevada",
     "region": "West Coast",
@@ -6249,9 +15034,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "360",
-    "website": "http://www.leecanyonlv.com/site"
+    "website": "http://www.leecanyonlv.com/site",
+    "resortReview": {
+      "score": 55,
+      "link": "UZGgJmE1o3g",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "6",
+      "lodging": "0",
+      "chairLifts": "4",
+      "runs": "5",
+      "terrainPark": "6",
+      "food": "5",
+      "employees": "5",
+      "views": "7",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/gmhw3n5tcovftxuu6dmvxpcgxgfj",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Rose",
     "state": "Nevada",
     "region": "West Coast",
@@ -6263,9 +15066,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "358",
-    "website": "http://www.mtrose.com/"
+    "website": "http://www.mtrose.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/jjyyndm80jhxhwlzi8e4c4dt2cql",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sky Tavern Ski Area",
     "state": "Nevada",
     "region": "West Coast",
@@ -6277,9 +15098,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2260",
-    "website": "http://www.skytavern.com/"
+    "website": "http://www.skytavern.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/q6kjjz5bdfn90yk8bgfrgrgm7d2d",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Elko Snobowl Ski and Bike Park",
     "state": "Nevada",
     "region": "West Coast",
@@ -6289,11 +15128,29 @@ var allData = [
       "lat": 40.91006398366915,
       "lng": -115.852797107156
     },
-    "officialSkiResort": true,     
-    "id": "2261",     
-    "website": "https://www.facebook.com/snobowl/"  
+    "officialSkiResort": true,
+    "id": "2261",
+    "website": "https://www.facebook.com/snobowl/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/avxrc4m6my6usr6931rcppnwp7aa",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Anthony Lakes",
     "state": "Oregon",
     "region": "West Coast",
@@ -6305,9 +15162,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "264",
-    "website": "https://anthonylakes.com/"
+    "website": "https://anthonylakes.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/6kqmfkr8h6uzqrl7esbvgyngua2x",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Cooper Spur",
     "state": "Oregon",
     "region": "West Coast",
@@ -6319,9 +15194,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "272",
-    "website": "http://cooperspur.com/"
+    "website": "http://cooperspur.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/4lnfj7dcf3ed9mxsk8zmhkd8fxw0",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ferguson Ridge",
     "state": "Oregon",
     "region": "West Coast",
@@ -6333,9 +15226,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "265",
-    "website": "https://www.skifergi.com/"
+    "website": "https://www.skifergi.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/cv5f8kt4fw557gnvqwehwgj1eejq",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hoodoo",
     "state": "Oregon",
     "region": "West Coast",
@@ -6347,9 +15258,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "268",
-    "website": "https://skihoodoo.com/"
+    "website": "https://skihoodoo.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/8oowpla0i28eyayd1gz0aukux3sa",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Ashland",
     "state": "Oregon",
     "region": "West Coast",
@@ -6361,9 +15292,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "274",
-    "website": "https://www.mtashland.com/"
+    "website": "https://www.mtashland.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/b6pg0zjslkfnvhl9g4j1uxzlgovo",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Bachelor",
     "state": "Oregon",
     "region": "West Coast",
@@ -6375,9 +15326,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "270",
-    "website": "https://www.mtbachelor.com/"
+    "website": "https://www.mtbachelor.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/yyjnrsk5pxkb3vmba7x6ahzlw9ke",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Hood Meadows",
     "state": "Oregon",
     "region": "West Coast",
@@ -6389,9 +15360,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "271",
-    "website": "https://www.skihood.com/"
+    "website": "https://www.skihood.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/fcz500xynvyijo7w1rh47w3ojhtk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Hood Skibowl",
     "state": "Oregon",
     "region": "West Coast",
@@ -6401,11 +15392,31 @@ var allData = [
       "lat": 45.30439426477286,
       "lng": -121.77210270288523
     },
-    "officialSkiResort": true,     
-    "id": "263",     
-    "website": "https://www.skibowl.com/"  
+    "officialSkiResort": true,
+    "id": "263",
+    "website": "https://www.skibowl.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance"
+    ],
+    "mapLink": "https://files.skimap.org/zhqi4xyk9wvefc83p61yaan0dzeh",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Spout Springs",
     "state": "Oregon",
     "region": "West Coast",
@@ -6417,23 +15428,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "269",
-    "website": "http://www.spoutspringsskiarea.com/"
-  },
-  {
-    "resortName": "Summit Ski Area",
-    "state": "Oregon",
-    "region": "West Coast",
-    "city": "Government Camp",
-    "videos": [],
-    "position": {
-      "lat": 45.30307189568874,
-      "lng": -121.74580684408454
+    "website": "http://www.spoutspringsskiarea.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "273",
-    "website": "https://summitskiarea.com/"
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8u8h9nwn74efj84pxt862p57k94p",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Timberline Lodge",
     "state": "Oregon",
     "region": "West Coast",
@@ -6444,12 +15459,30 @@ var allData = [
       "lng": -121.71099567291978
     },
     "officialSkiResort": true,
-    "resortReviewScore": "N/A",
-    "resortReviewLink": [],
-    "id": "5019",
-    "website": "https://www.timberlinelodge.com"
+    "id": "266",
+    "website": "https://www.timberlinelodge.com",
+    "resortReview": {
+      "score": 71,
+      "link": "2AgHpI1Tab8",
+      "note": "This score reflects this resort in the summer.",
+      "price": "8",
+      "easeOfAccess": "7",
+      "lodging": "5",
+      "chairLifts": "5",
+      "runs": "5",
+      "terrainPark": "10",
+      "food": "6",
+      "employees": "5",
+      "views": "10",
+      "wouldIGoBack": "10"
+    },
+    "skiPass": [
+      "Powder Alliance"
+    ],
+    "mapLink": "https://files.skimap.org/50y3pz3s2021eumlccy6vrggzw09",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Warner Canyon",
     "state": "Oregon",
     "region": "West Coast",
@@ -6461,9 +15494,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "2279",
-    "website": "https://www.warnercanyonski.com/"
+    "website": "https://www.warnercanyonski.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/43e6vrqa2ejarqidpqitd68ioxkk",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Willamette Pass",
     "state": "Oregon",
     "region": "West Coast",
@@ -6475,9 +15526,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "267",
-    "website": "http://www.willamettepass.com/"
+    "website": "http://www.willamettepass.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/hfx8aoqxebrv43uayexmogogwe0o",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "49 Degrees North",
     "state": "Washington",
     "region": "West Coast",
@@ -6489,9 +15558,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "195",
-    "website": "http://www.ski49n.com"
+    "website": "http://www.ski49n.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/yxxstbf4dvo2vmp8k4dmqe7h7xzw",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Badger Mountain",
     "state": "Washington",
     "region": "West Coast",
@@ -6503,9 +15592,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "187",
-    "website": "http://www.ci.waterville.wa.us/ski%20hill.htm"
+    "website": "http://www.ci.waterville.wa.us/ski%20hill.htm",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://skimap.org/data/187/1923/1582688238.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Crystal Mountain",
     "state": "Washington",
     "region": "West Coast",
@@ -6516,10 +15623,30 @@ var allData = [
       "lng": -121.47477475938616
     },
     "officialSkiResort": true,
-    "id": "429",
-    "website": "https://www.crystalmountainresort.com/"
+    "id": "193",
+    "website": "https://www.crystalmountainresort.com/",
+    "resortReview": {
+      "score": 65,
+      "link": "eEw65ZpAr4o",
+      "note": "",
+      "price": "7",
+      "easeOfAccess": "5",
+      "lodging": "2",
+      "chairLifts": "7",
+      "runs": "9",
+      "terrainPark": "5",
+      "food": "7",
+      "employees": "5",
+      "views": "10",
+      "wouldIGoBack": "8"
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/dhqkq1anzzqwqvbdsz3mnwckv9an",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Echo Valley",
     "state": "Washington",
     "region": "West Coast",
@@ -6531,9 +15658,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3322",
-    "website": "http://www.echovalley.org/"
+    "website": "http://www.echovalley.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/iv2b21or7sjpo042nwji8epk7lrb",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Hurricane Ridge",
     "state": "Washington",
     "region": "West Coast",
@@ -6545,9 +15690,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "1024",
-    "website": "http://hurricaneridge.com/"
+    "website": "http://hurricaneridge.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/sm05lidxbauypq19ksi50w1dhgtw",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Leavenworth Ski Hill",
     "state": "Washington",
     "region": "West Coast",
@@ -6559,9 +15724,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3323",
-    "website": "http://www.skileavenworth.com/"
+    "website": "http://www.skileavenworth.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/budioli17kz0zsouosevkfmdah2r",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Loup Loup Ski Bowl",
     "state": "Washington",
     "region": "West Coast",
@@ -6573,9 +15756,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "192",
-    "website": "http://www.skitheloup.com"
+    "website": "http://www.skitheloup.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/8tzutaty7poo9zrdfm9vzch0s2zf",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Meany Lodge",
     "state": "Washington",
     "region": "West Coast",
@@ -6587,9 +15788,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3324",
-    "website": "https://www.mountaineers.org/locations-lodges/meany-lodge"
+    "website": "https://www.mountaineers.org/locations-lodges/meany-lodge",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/pcx9fwcaveoa2wf1zjg5gyhdlv2t",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mission Ridge",
     "state": "Washington",
     "region": "West Coast",
@@ -6601,9 +15820,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "186",
-    "website": "http://www.missionridge.com"
+    "website": "http://www.missionridge.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Powder Alliance",
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/vny6nhn9wwf3z5ztoskoovmitopn",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mt. Baker",
     "state": "Washington",
     "region": "West Coast",
@@ -6615,9 +15855,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "191",
-    "website": "http://www.mtbaker.us"
+    "website": "http://www.mtbaker.us",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/s68yj6loaw33in9xty36o10ydmda",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Mount Spokane",
     "state": "Washington",
     "region": "West Coast",
@@ -6629,9 +15887,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "189",
-    "website": "https://www.mtspokane.com/"
+    "website": "https://www.mtspokane.com/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/d37wttz8s7n1i6uo558whdx67y61",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sahalie Ski Club",
     "state": "Washington",
     "region": "West Coast",
@@ -6643,9 +15919,27 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "3325",
-    "website": "http://www.sahalie.org/chair2/Home.aspx"
+    "website": "http://www.sahalie.org/chair2/Home.aspx",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://skimap.org/data/3325/4196/1636821670.jpg",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Sitzmark Lifts",
     "state": "Washington",
     "region": "West Coast",
@@ -6655,11 +15949,29 @@ var allData = [
       "lat": 48.86409802799545,
       "lng": -119.16506573049902
     },
-    "officialSkiResort": true,     
-    "id": "188",     
-    "website": "http://gositzmark.org/"  
+    "officialSkiResort": true,
+    "id": "188",
+    "website": "http://gositzmark.org/",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [],
+    "mapLink": "https://files.skimap.org/mukf95uj7kfyb90b925mzudivquv",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Ski Bluewood",
     "state": "Washington",
     "region": "West Coast",
@@ -6671,9 +15983,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "185",
-    "website": "http://www.bluewood.com"
+    "website": "http://www.bluewood.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/tew11jingq2f3wqh18bzwobv1n3j",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Stevens Pass",
     "state": "Washington",
     "region": "West Coast",
@@ -6685,9 +16017,29 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "190",
-    "website": "http://www.stevenspass.com"
+    "website": "http://www.stevenspass.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Epic"
+    ],
+    "mapLink": "https://files.skimap.org/jeu0ganhlpwdqxluxiqmlxlwhnbc",
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "The Summit at Snoqualmie (Summit Central, East and West)",
     "state": "Washington",
     "region": "West Coast",
@@ -6699,9 +16051,39 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "194",
-    "website": "https://summitatsnoqualmie.com/summit-central"
+    "website": "https://summitatsnoqualmie.com/summit-central",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://res.cloudinary.com/liftopia/image/upload/c_fit,d_defaults:default_logo_1.png,f_auto,h_980,q_auto,w_980/v1/production/trail_maps/c32494c8f27b1ed6f55eb61f03030f1e.jpg",
+    "webcam": [
+      {
+        "title": "Silver Fir",
+        "link": "b3bhZKRmYL0"
+      },
+      {
+        "title": "Summit Central",
+        "link": "_ZmK5vh5mQ0"
+      }
+    ],
+    "country": "United States"
   },
-  {
+  {    
     "resortName": "Alpental",
     "state": "Washington",
     "region": "West Coast",
@@ -6713,9 +16095,39 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "194",
-    "website": "https://summitatsnoqualmie.com/alpental"
+    "website": "https://summitatsnoqualmie.com/alpental",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
+    },
+    "skiPass": [
+      "Ikon"
+    ],
+    "mapLink": "https://files.skimap.org/nmioj7qic4j120ip23njs5evgtul",
+    "country": "United States",
+    "webcam": [
+      {
+        "title": "Alpental Base",
+        "link": "v8S9FWsUJTA"
+      },
+      {
+        "title": "Alpental Mid-Mountain",
+        "link": "ltl8ATWqhAE"
+      }
+    ]
   },
-  {
+  {    
     "resortName": "White Pass",
     "state": "Washington",
     "region": "West Coast",
@@ -6727,65 +16139,30 @@ var allData = [
     },
     "officialSkiResort": true,
     "id": "184",
-    "website": "http://www.skiwhitepass.com"
-  },
-  {
-    "resortName": "Grand Hirafu",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Niseko",
-    "videos": [],
-    "position": {
-      "lat": 42.8618697,
-      "lng": 140.6963752
+    "website": "http://www.skiwhitepass.com",
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "1001",
-    "website": "https://www.grand-hirafu.jp/winter/en/"
+    "skiPass": [
+      "Powder Alliance",
+      "Indy"
+    ],
+    "mapLink": "https://files.skimap.org/qc96cdn349iffee4pyop1er94kiq",
+    "country": "United States"
   },
-  {
-    "resortName": "Hakuba Happo-One",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Hakuba",
-    "videos": [],
-    "position": {
-      "lat": 36.6909153,
-      "lng": 137.7755379
-    },
-    "officialSkiResort": true,
-    "id": "1009",
-    "website": "https://www.happo-one.jp/en/"
-  },
-  {
-    "resortName": "Hakuba Sanosaka",
-    "state": "Japan",
-    "region": "Asia",
-    "city": "Hakuba",
-    "videos": [],
-    "position": {
-      "lat": 36.629392,
-      "lng": 137.7716392
-    },
-    "officialSkiResort": true,
-    "id": "1010",
-    "website": "https://sanosaka.jp/"
-  },
-  {  
-    "resortName": "St. Moritz",
-    "state": "Switzerland",
-    "region": "Europe",
-    "city": "Engadin",
-    "videos": [],
-    "position": {
-      "lat": 46.5174107,
-      "lng": 9.7378703
-    },
-    "officialSkiResort": true,
-    "id": "1002",
-    "website": "https://www.stmoritz.com/en/ski-alpine/"
-  },
-  {
+  {    
     "resortName": "McChord Skatepark",
     "state": "Washington",
     "region": "West Coast",
@@ -6795,20 +16172,24 @@ var allData = [
       "lat": 47.129648041353164,
       "lng": -122.52345578183599
     },
-    "officialSkiResort": false
-  },
-  {
-    "resortName": "Mt. Hutt",
-    "state": "New Zealand",
-    "region": "Oceania",
-    "city": "Methven",
-    "videos": [],
-    "position": {
-      "lat": -43.47165,
-      "lng": 171.5176679
+    "officialSkiResort": false,
+    "resortReview": {
+      "score": "", // must be a number
+      "link": "",
+      "note": "",
+      "price": "",
+      "easeOfAccess": "",
+      "lodging": "",
+      "chairLifts": "",
+      "runs": "",
+      "terrainPark": "",
+      "food": "",
+      "employees": "",
+      "views": "",
+      "wouldIGoBack": ""
     },
-    "officialSkiResort": true,
-    "id": "1003",
-    "website": "https://www.mthutt.co.nz/"
-  }
+    "skiPass": [],
+    "mapLink": "",
+    "country": "United States"
+}
 ];
