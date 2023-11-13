@@ -16,7 +16,7 @@
     <uib-tabset active="active">
         <uib-tab index="0" heading="Videos">
             
-            <h4>Johnathan's Videos</h4>
+            <h4>Scandal929's Videos</h4>
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe class="embed-responsive-item" ng-src="{{'https://www.youtube.com/watch?v=' + modalData.videos[currentPage-1] | trusted}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
@@ -24,18 +24,18 @@
             <div class="text-center" ng-show="modalData.videos.length > 1">
                 <ul uib-pagination total-items="totalItems" max-size="7" ng-model="currentPage" class="pagination-sm" items-per-page="1" boundary-link-numbers="true" rotate="false"></ul>
             </div>
-            <p ng-show="modalData.videos.length === 0">Johnathan has not traveled to this ski resort yet. Check back soon!</p>
-            <p ng-show="modalData.videos.length === 1">Johnathan has one video at this location!</p>
+            <p ng-show="modalData.videos.length === 0">Scandal929 has not traveled to this ski resort yet. Check back soon!</p>
+            <p ng-show="modalData.videos.length === 1">Scandal929 has one video at this location!</p>
 
         </uib-tab>
         <uib-tab index="1" heading="Resort Review">
             <div ng-show="!!modalData.resortReview.link">
-                <h4>Johnathan's Resort Review</h4>
+                <h4>Scandal929's Resort Review</h4>
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" ng-src="{{'https://www.youtube.com/watch?v=' + modalData.resortReview.link | trusted}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <br>
-                <h4>Johnathan's Score</h4>
+                <h4>Scandal929's Score</h4>
                 <dl class="dl-horizontal">
                     <dt>Overall Score:</dt>
                     <dd>{{modalData.resortReview.score}}/100</dd>
@@ -79,8 +79,8 @@
                 </dl>
             </div>
             <div ng-show="!modalData.resortReview.link">
-                <h4>Johnathan's Resort Review</h4>
-                <p>Johnathan has not reviewed this ski resort yet. Check back soon!</p>
+                <h4>Scandal929's Resort Review</h4>
+                <p>Scandal929 has not reviewed this ski resort yet. Check back soon!</p>
             </div>
         </uib-tab>
         <uib-tab index="2" heading="Map">
