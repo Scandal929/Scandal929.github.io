@@ -96,25 +96,22 @@ app.controller('myCtrl', function($scope, $uibModal, $location, myUtilities, Dat
                             </h3>
                             </div>
                             <div class="modal-body">
-                            <p><b>Who is Johnathan Buckhouse?</b></p>
-                            <p><a href="https://www.youtube.com/c/JohnathanBuckhouse" target="_blank">Johnathan Buckhouse</a> is a Colorado based professional YouTuber/Snowboarder trying to visit, film a vlog and film a resort review at every ski resort in the U.S.</p>
+                            <p><b>Who is Scandal929?</b></p>
+                            <p><a href="https://www.youtube.com/c/Scandal929" target="_blank">Scandal929</a> is a East Coast based Snowboarder trying to visit, film a vlog and film a resort review at every ski resort in the U.S.</p>
                             <br>
-                            <p><b>What is the Buckhouse Ski Map?</b></p>
-                            <p>This website is a resource for learning more about ski resorts (big or small) through Johnathan's vlogs, trick breakdowns as well as resort reviews.</p>
+                            <p><b>What is the Scandal929 Ski Map?</b></p>
+                            <p>This website is a resource for learning more about ski resorts (big or small) through Scandal929's vlogs, trick breakdowns as well as resort reviews.</p>
                             <br>  
-                            <p><b>How do I get my name on the map?</b></p>
-                            <p>See Johnathan's <a href="https://www.youtube.com/channel/UC_i8SQjQOrPUpD3tpjMEuAw/join" target="_blank">YouTube Membership</a> page of level DREAMER for more information.</p>
-                            <br>
                             <p><b>What do the colors on the map mean?</b></p>
                             <ul class="list-unstyled">
                                 <li>
-                                    <img src="img/snowboard_marker/visited.png" alt="plain marker" width="12" height="20"> Johnathan has visited this location.
+                                    <img src="img/snowboard_marker/visited.png" alt="plain marker" width="12" height="20"> Scandal929 has visited this location.
                                 </li>
                                 <li>
-                                    <img src="img/snowboard_marker/not_visited.png" alt="plain marker" width="12" height="20"> Johnathan has not visited this location yet! Check back soon.
+                                    <img src="img/snowboard_marker/not_visited.png" alt="plain marker" width="12" height="20"> Scandal929 has not visited this location yet! Check back soon.
                                 </li>
                                 <li>
-                                    <img src="img/snowboard_marker/unofficial.png" alt="plain marker" width="12" height="20"> Johnathan has visited this location but it's not an official ski resort.
+                                    <img src="img/snowboard_marker/unofficial.png" alt="plain marker" width="12" height="20"> Scandal929 has visited this location but it's not an official ski resort.
                                 </li>
                             </ul>
                             <br>                                                                 
@@ -122,10 +119,10 @@ app.controller('myCtrl', function($scope, $uibModal, $location, myUtilities, Dat
                             <p>The goal of this website is to become the most comprehensive U.S. ski resort database on the internet.</p>
                             <br>
                             <p><b>How can I support this goal?</b></p>
-                            <p>You can support Johnathan by joining his <a href="https://www.youtube.com/channel/UC_i8SQjQOrPUpD3tpjMEuAw/join" target="_blank">YouTube Membership</a> or his <a href="https://www.patreon.com/JohnathanBuckhouse" target="_blank">Patreon</a>.</p>
+                            <p>Subscribe to Scandal929's Youtube Channel https://www.youtube.com/channel/UC6e0TKZ-KtNnqnEnIUTkljg
                             <br>                                 
                             <p><b>How can I help improve this website?</b></p>
-                            <p>Feedback is welcome and apperciated! Email Kenny <a href="mailto:shellnut@gmail.com?subject=Buckhouse Ski Map">shellnut@gmail.com</a> with any suggestions or questions. If you're a developer, check out the <a target="_blank" href="https://github.com/Shellnut/Buckhouse">Github</a>.</p>
+                            <p>Feedback is welcome and apperciated! Email Kenny <a href="mailto:shellnut@gmail.com?subject=Buckhouse Ski Map">scandal929@yahoo.com</a> with any suggestions or questions.</p>
                             </div>
                             <div class="modal-footer">
                             <button class="btn btn-primary" type="button" ng-click="ok()">Close</button>
@@ -155,7 +152,7 @@ app.controller('myCtrl', function($scope, $uibModal, $location, myUtilities, Dat
                             </div>
                             <div class="modal-body">
                             <div class="alert alert-warning" role="alert">
-                                <i class="fa fa-exclamation-triangle"></i> Please note that none of these dates are 100% guaranteed and that travel is subject to change. Check Johnathan's social media accounts for realtime updates.
+                                <i class="fa fa-exclamation-triangle"></i> Please note that none of these dates are 100% guaranteed and that travel is subject to change. Check Scandal929's social media accounts for realtime updates.
                             </div>
                             <iframe src="https://calendar.google.com/calendar/embed?src=Y29keXB1bGwxOTk1QGdtYWlsLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=cmRrZDRzODR1dHVhaWRuMmZlamIzNmpuOG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" style="border:solid 1px #777" width="100%" height="70%" frameborder="0" scrolling="no"></iframe>
                             </div>
@@ -219,7 +216,7 @@ app.controller('myCtrl', function($scope, $uibModal, $location, myUtilities, Dat
                             <h3 class="modal-title">
                                 <div class="row">
                                     <div class="col-xs-11">
-                                        <span><i class="fa fa-line-chart" aria-hidden="true"></i> Johnathan's Travel Progress</span>
+                                        <span><i class="fa fa-line-chart" aria-hidden="true"></i> Scandal929's Travel Progress</span>
                                     </div>
                                     <div class="col-xs-1">
                                         <button class="btn btn-sm" style="float:right; clear:all;" ng-click="ok()">X</button>
