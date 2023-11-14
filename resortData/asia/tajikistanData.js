@@ -18,7 +18,6 @@ var tajikistanData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wy804tvyv5wgo8nazc2mw96dmj7b"
+        "skiPass": []
     }
 ];

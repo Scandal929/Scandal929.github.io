@@ -18,8 +18,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/w928du9iog4gkmrt7m3ggpysopi7"
+        "skiPass": []
     },
     {
         "resortName": "Les 4 Vallées (Verbier, Nendaz, Veysonnaz, Thyon, La Tzoumaz, Bruson)",
@@ -42,8 +41,7 @@ var switzerlandData = [
         },
         "skiPass": [
             "Epic"
-        ],
-        "mapLink": "https://files.skimap.org/d5vacftcqlwv1yfuuewqyvgdjbi4"
+        ]
     },
     {
         "resortName": "Aletsch Region (Belalp, Bettmeralp, Fiesch, Riederalp)",
@@ -64,8 +62,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7fnpmafc6omqfv92sm6x0zedfeom"
+        "skiPass": []
     },
     {
         "resortName": "Crans-Montana",
@@ -86,8 +83,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yhw6i0opsere3yprhkdifu5tm8d7"
+        "skiPass": []
     },
     {
         "resortName": "Val d'Anniviers (Grimentz, Zinal, Vercorin, St-Luc, Chandolin)",
@@ -108,8 +104,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pwjaqn4v0ys02q89mrbaprkj599q"
+        "skiPass": []
     },
     {
         "resortName": "Saastal (Saas Fee, Saas Balen, Saas Grund, Saas Almagell)",
@@ -130,8 +125,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5vzoi6ty3ka1xfcp4bjams27xobt"
+        "skiPass": []
     },
     {
         "resortName": "Leysin (Les Mosses, La Lecherette)",
@@ -152,8 +146,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/44izwurmoib72m8emafah6j6wigg"
+        "skiPass": []
     },
     {
         "resortName": "Villars-Gryon / Les Diablerets / Glacier 3000 / Bex",
@@ -174,8 +167,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/d7u5dcjpz2nxlmxjrdosj74v9bdo"
+        "skiPass": []
     },
     {
         "resortName": "Leukerbad",
@@ -196,8 +188,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lgeqcm5op0jnfo917zathnb9s3jk"
+        "skiPass": []
     },
     {
         "resortName": "Lötschental - Lauchernalp",
@@ -218,8 +209,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/f0ac94s5vvyhplmzb7crh1ngmfae"
+        "skiPass": []
     },
     {
         "resortName": "Anzère",
@@ -240,8 +230,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/63101gt7uwvm8yoe52i5j1ef2mtj"
+        "skiPass": []
     },
     {
         "resortName": "La Corbatière",
@@ -262,8 +251,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/194eo4gh8q8xvgr2mk588wmwztno"
+        "skiPass": []
     },
     {
         "resortName": "Gstaad Mountain Rides",
@@ -284,8 +272,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0j27574v1lierrm7flz7a3qvjnll"
+        "skiPass": []
     },
     {
         "resortName": "Jungfrauregion (Mürren, Wengen, Grindelwald)",
@@ -306,8 +293,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/v4shjmeuuojmoxb824bevc4n5zfp"
+        "skiPass": []
     },
     {
         "resortName": "Adelboden-Lenk (Frutigen, Engstligenalp)",
@@ -328,8 +314,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jov7chcvceclhits088dzazwx2tr"
+        "skiPass": []
     },
     {
         "resortName": "Alpenregion Meiringen-Hasliberg",
@@ -350,8 +335,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jnjhfi2i2mjitvywdk7b3dw7b92v"
+        "skiPass": []
     },
     {
         "resortName": "Brunni-Alpthal",
@@ -372,8 +356,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zwi35nlgw6rze3yy44895as77o3e"
+        "skiPass": []
     },
     {
         "resortName": "Engelberg Titlis",
@@ -394,8 +377,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z1716dy9oeo42goe93qkh8939x51"
+        "skiPass": []
     },
     {
         "resortName": "Sörenberg (Flühli)",
@@ -416,8 +398,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uk7daikcd16de1768wmcu31fh9ic"
+        "skiPass": []
     },
     {
         "resortName": "Hoch-Ybrig (Oberiberg, Unteriberg)",
@@ -438,8 +419,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/q9e68kwl04ugyu6ud7b73wxw5r9i"
+        "skiPass": []
     },
     {
         "resortName": "Davos-Klosters",
@@ -460,8 +440,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3s9u9bwp3ia3vmvw5d2upwsl8yq1"
+        "skiPass": []
     },
     {
         "resortName": "Arosa Lenzerheide (Valbella, Parpan, Churwalden, Lenz)",
@@ -482,8 +461,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ewnugigdg3vbyssrfsmbkipg8cj2"
+        "skiPass": []
     },
     {
         "resortName": "Engadin-St. Moritz (Corviglia, Diavolezza/Bernina, Corvatsch/Furtschellas, Zuoz)",
@@ -504,8 +482,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/o2dffwuvso2s1hhf8or7pdxs04j9"
+        "skiPass": []
     },
     {
         "resortName": "Alpenarena (Films, Laax, Falera)",
@@ -526,8 +503,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/djegkipm44nghgyfeh4878s536kf"
+        "skiPass": []
     },
     {
         "resortName": "Andermatt + Sedrun + Disentis (SkiArena)",
@@ -550,8 +526,7 @@ var switzerlandData = [
         },
         "skiPass": [
             "Epic"
-        ],
-        "mapLink": "https://files.skimap.org/djegkipm44nghgyfeh4878s536kf"
+        ]
     },
     {
         "resortName": "Savognin",
@@ -572,8 +547,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ln5zwzn8no7qxmhus7ykc5kcux1c"
+        "skiPass": []
     },
     {
         "resortName": "Engadin-Scuol",
@@ -594,8 +568,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gucxum6w2po63g3vq8jodeokarvf"
+        "skiPass": []
     },
     {
         "resortName": "Brigels (Waltensburg, Andiast)",
@@ -616,8 +589,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/djegkipm44nghgyfeh4878s536kf"
+        "skiPass": []
     },
     {
         "resortName": "Vals3000",
@@ -638,8 +610,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/djegkipm44nghgyfeh4878s536kf"
+        "skiPass": []
     },
     {
         "resortName": "Flumserberg",
@@ -660,8 +631,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hz8dygtew6uaiktavhzcziekudr7"
+        "skiPass": []
     },
     {
         "resortName": "Toggenburg / Wildhaus",
@@ -682,8 +652,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/t241vbtj2nq7d24nk9eekap6o3ol"
+        "skiPass": []
     },
     {
         "resortName": "Pizol",
@@ -704,8 +673,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tk1ayusrh01fspzaovej6544q07c"
+        "skiPass": []
     },
     {
         "resortName": "Braunwald",
@@ -726,8 +694,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ynmugn5gzg3bz5pjlinsw9mz2j66"
+        "skiPass": []
     },
     {
         "resortName": "Vallée de Joux",
@@ -748,8 +715,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/000975c75nwmqzl5xd37mahey95u"
+        "skiPass": []
     },
     {
         "resortName": "Engadin-Sils (Furtschellas/Corvatsch)",
@@ -770,8 +736,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/q6y9p1qycwjgtt37byw1s7ijcvhw"
+        "skiPass": []
     },
     {
         "resortName": "Champex-Lac",
@@ -792,8 +757,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kl7sxuoamz5iqd05idauthu0dpuj"
+        "skiPass": []
     },
     {
         "resortName": "Rothwald",
@@ -814,8 +778,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/c1ldn6b73oczgsayrywcusoaeg44"
+        "skiPass": []
     },
     {
         "resortName": "Rosswald",
@@ -836,8 +799,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pqtbjdt0tqqy7b3s9zwfje6p94nd"
+        "skiPass": []
     },
     {
         "resortName": "Rigi",
@@ -858,8 +820,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xbnaqbow4kl2e2i548vf7evvlna8"
+        "skiPass": []
     },
     {
         "resortName": "Wirzweli",
@@ -880,8 +841,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nf8d2s8xn95bpcdjx8s2q8z1pceg"
+        "skiPass": []
     },
     {
         "resortName": "Amden",
@@ -902,8 +862,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/08kmo1r4v7fb4l5mtdmux0n6ojlk"
+        "skiPass": []
     },
     {
         "resortName": "Nara (Leontica)",
@@ -924,8 +883,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cemb92540tsuy6ms3sgovsyjm8n1"
+        "skiPass": []
     },
     {
         "resortName": "Rochers-de-Naye",
@@ -946,8 +904,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xc6n68v9cdov7qfj0dcyfccjldqg"
+        "skiPass": []
     },
     {
         "resortName": "Obersaxen Mundaun (Surcuolm, Val Lumnezia)",
@@ -968,8 +925,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/djegkipm44nghgyfeh4878s536kf"
+        "skiPass": []
     },
     {
         "resortName": "Moléson Gruyères",
@@ -990,8 +946,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4fzhqksmzx4yyzvzu1fyda9yv2yl"
+        "skiPass": []
     },
     {
         "resortName": "Axalp",
@@ -1012,8 +967,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3i6ivkfvoho29jsq8ous5coltxje"
+        "skiPass": []
     },
     {
         "resortName": "Minschuns (Val Müstair)",
@@ -1034,8 +988,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uxeig35ap9na85fi1aap682p1y98"
+        "skiPass": []
     },
     {
         "resortName": "Les Pléiades",
@@ -1056,8 +1009,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4uv4n7u6ksh4tnpdyugu1pzhz5ii"
+        "skiPass": []
     },
     {
         "resortName": "Cardada (Locarno)",
@@ -1078,8 +1030,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/j9tk8ulxme473j6bddboz4sibdvp"
+        "skiPass": []
     },
     {
         "resortName": "Sainte-Croix/Les Rasses",
@@ -1100,8 +1051,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hc0cz12itcsahlqit5hqgpilo2xw"
+        "skiPass": []
     },
     {
         "resortName": "Airolo",
@@ -1122,8 +1072,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/namcy25uja1xp5blxfxziy8531is"
+        "skiPass": []
     },
     {
         "resortName": "Grächen",
@@ -1144,8 +1093,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sb8762xagmcoy7974t5npy7erna6"
+        "skiPass": []
     },
     {
         "resortName": "Saint-George",
@@ -1166,8 +1114,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/te9ge9ik3hd9gyw4t8bma0txywma"
+        "skiPass": []
     },
     {
         "resortName": "Heinzenberg (Thusis)",
@@ -1188,8 +1135,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xo135pht5hfoli6tvzns4gtdebvh"
+        "skiPass": []
     },
     {
         "resortName": "Bosco/Gurin",
@@ -1210,8 +1156,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7e6l35qqkvylfmyfsazsd2nwa6mc"
+        "skiPass": []
     },
     {
         "resortName": "Prato",
@@ -1232,8 +1177,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dhsbvrmftwomebgphyv0r6yvm1d6"
+        "skiPass": []
     },
     {
         "resortName": "Biel-Kinzig",
@@ -1254,8 +1198,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tt5oqmfdr4w39a7pyd5afpnape1o"
+        "skiPass": []
     },
     {
         "resortName": "Grüsch-Danusa",
@@ -1276,8 +1219,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/t904t76u7og7zxs55uq8gkue9twa"
+        "skiPass": []
     },
     {
         "resortName": "Cari",
@@ -1298,8 +1240,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/133qlihdka4cyezxsj8ih669jwku"
+        "skiPass": []
     },
     {
         "resortName": "Marbach",
@@ -1320,8 +1261,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/j6m2cr1bgbm2fhgf68jabsl1dbsl"
+        "skiPass": []
     },
     {
         "resortName": "Ovronnaz",
@@ -1342,8 +1282,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vhznhtylhpgl5324hwoqlei92dj4"
+        "skiPass": []
     },
     {
         "resortName": "Arolla",
@@ -1364,8 +1303,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/abry1thgzismkw4adnokzggdtlob"
+        "skiPass": []
     },
     {
         "resortName": "Nax - Mont-Noble",
@@ -1386,8 +1324,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ffscbxy9i332uj7qel4jfg72bec8"
+        "skiPass": []
     },
     {
         "resortName": "Evolène",
@@ -1408,8 +1345,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/abry1thgzismkw4adnokzggdtlob"
+        "skiPass": []
     },
     {
         "resortName": "Diemtigtal (Wiriehorn, Grimmialp, Springenboden)",
@@ -1430,8 +1366,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5gdy51ucth7i8obskk6oxv0c7hvk"
+        "skiPass": []
     },
     {
         "resortName": "Kandersteg",
@@ -1452,8 +1387,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/le4lhfhllti1es1s91wjaob6rg1b"
+        "skiPass": []
     },
     {
         "resortName": "Niederhorn Beatenberg",
@@ -1474,8 +1408,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3vsoww70et1r781cp4cnqi0lsljd"
+        "skiPass": []
     },
     {
         "resortName": "Gantrisch (Rueschegg-Eywald, Wasserscheide, Gurnigelbad, Ottenleuebad, Schwefelberg, Selital, Riffenmatt)",
@@ -1496,8 +1429,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cg6aehzihygl5vl3iev58063pmnw"
+        "skiPass": []
     },
     {
         "resortName": "Melchsee-Frutt",
@@ -1518,8 +1450,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/bp7pibh55nwldiu71o5qpiv4ven4"
+        "skiPass": []
     },
     {
         "resortName": "Stoos",
@@ -1540,8 +1471,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mnc6a6tcnw5rve2b8z1pc5pb2v89"
+        "skiPass": []
     },
     {
         "resortName": "Wolzenalp (Krummenau)",
@@ -1562,8 +1492,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lxgk5o0vy8oavydxen1i4d74qbxb"
+        "skiPass": []
     },
     {
         "resortName": "Pian Cales (San Bernardino)",
@@ -1584,8 +1513,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dxokowek7scwt1l1jdtp7nxnqfr6"
+        "skiPass": []
     },
     {
         "resortName": "Splügen",
@@ -1606,8 +1534,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4epg1z7nw8rsesybj0d3m1z6wiuv"
+        "skiPass": []
     },
     {
         "resortName": "Chur - Brambrüesch",
@@ -1628,8 +1555,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0jv22sc9nnwk4lz3crp4hvlqigkp"
+        "skiPass": []
     },
     {
         "resortName": "Atzmännig",
@@ -1650,8 +1576,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ay8dwa330j7quc92xdefbjxophy7"
+        "skiPass": []
     },
     {
         "resortName": "Ebenalp",
@@ -1672,8 +1597,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/c15lyyudmgbprv9eem659cg95z83"
+        "skiPass": []
     },
     {
         "resortName": "La Fouly",
@@ -1694,8 +1618,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/71c98cxqmllq38wbomuoanujbue7"
+        "skiPass": []
     },
     {
         "resortName": "Visperterminen",
@@ -1716,8 +1639,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/000yxazssiupz0k2flx8isz045lw"
+        "skiPass": []
     },
     {
         "resortName": "Tschiertschen",
@@ -1738,8 +1660,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pb1p0ok1w18so1pcjsxfyklc82wu"
+        "skiPass": []
     },
     {
         "resortName": "Hochwang",
@@ -1760,8 +1681,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zo9xkl8emtz72ove482sfk8hkaql"
+        "skiPass": []
     },
     {
         "resortName": "La Berra",
@@ -1782,8 +1702,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lnewyvb7nxei3q9tigg1jl8wcqnn"
+        "skiPass": []
     },
     {
         "resortName": "Charmey",
@@ -1804,8 +1723,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5wpnh9c4086apywgdtq3kfd5u9ow"
+        "skiPass": []
     },
     {
         "resortName": "Jaun",
@@ -1826,8 +1744,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dnifwbgcpjq5cm87fyxrbzp5g8r2"
+        "skiPass": []
     },
     {
         "resortName": "Jaunpass",
@@ -1848,8 +1765,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ykc7fz1ofjcqhz30xhoqfy3nclft"
+        "skiPass": []
     },
     {
         "resortName": "Eggberge",
@@ -1870,8 +1786,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tt5oqmfdr4w39a7pyd5afpnape1o"
+        "skiPass": []
     },
     {
         "resortName": "Buttes - La Robella",
@@ -1892,8 +1807,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tof6kpnwx28pnlxwj4117uzydcys"
+        "skiPass": []
     },
     {
         "resortName": "Les Marécottes",
@@ -1914,8 +1828,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9nw1wrv9wmsflw6obc4d1svfc6em"
+        "skiPass": []
     },
     {
         "resortName": "Elm",
@@ -1936,8 +1849,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zwtqgggb2qofo1gdlq2ijec63ycq"
+        "skiPass": []
     },
     {
         "resortName": "Bivio",
@@ -1958,8 +1870,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vlcyhlc9igzt5t3ct1pb62icbgcx"
+        "skiPass": []
     },
     {
         "resortName": "Schilt / Mollis",
@@ -1980,8 +1891,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ujstpbhgdps7uroaivsn49zd4tos"
+        "skiPass": []
     },
     {
         "resortName": "Bergün",
@@ -2002,8 +1912,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/d4iiy4m1mvfrp7mfljumd07sf21d"
+        "skiPass": []
     },
     {
         "resortName": "Feldis/Veulden",
@@ -2024,8 +1933,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5x6l5anebwpd38nhfwbk0b2b0yam"
+        "skiPass": []
     },
     {
         "resortName": "Avers",
@@ -2046,8 +1954,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/e4mjrzmcs1qiub0hpkic0b4yuv6d"
+        "skiPass": []
     },
     {
         "resortName": "Staldenried - Gspon",
@@ -2068,8 +1975,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/86rhv4ip4kdirdzpe99cpwmfmnfm"
+        "skiPass": []
     },
     {
         "resortName": "Jeizinen",
@@ -2090,8 +1996,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qy68n6pfdepn9p59671745qw8m0d"
+        "skiPass": []
     },
     {
         "resortName": "Les Paccots",
@@ -2112,8 +2017,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/u9xnmk54aexou8ahytgvms2c53i9"
+        "skiPass": []
     },
     {
         "resortName": "Heuberge",
@@ -2134,8 +2038,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/bnrwcwhifm2885x0pur0npqtqegu"
+        "skiPass": []
     },
     {
         "resortName": "Les Bugnenets - Savagnières",
@@ -2156,8 +2059,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1su7qpbjklgu4xj29q369yvp9s11"
+        "skiPass": []
     },
     {
         "resortName": "Le Crêt-du-Puy (Le Pâquier)",
@@ -2178,8 +2080,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m0gu91hw3bphq2qcg7ij6plpfsn4"
+        "skiPass": []
     },
     {
         "resortName": "Tramelan",
@@ -2200,8 +2101,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2qbz17rbfzyuj229yzu7l1qj8n24"
+        "skiPass": []
     },
     {
         "resortName": "Les Prés-d'Orvin",
@@ -2222,8 +2122,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/34ihaxusb6zwrzbxn570jphj4iki"
+        "skiPass": []
     },
     {
         "resortName": "Balmberg",
@@ -2244,8 +2143,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/llyjv04sh24mv5kq2sfmufvzq4pb"
+        "skiPass": []
     },
     {
         "resortName": "Deinkick Langenbruck",
@@ -2266,8 +2164,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sbwcalytlaiokau4shi8uiiamg61"
+        "skiPass": []
     },
     {
         "resortName": "Bumbach",
@@ -2288,8 +2185,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/md6xegyzhovdiyj2d4hou5pd76bk"
+        "skiPass": []
     },
     {
         "resortName": "Habkern",
@@ -2310,8 +2206,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9a1an26tgri87azjzpvk4e9nbjqk"
+        "skiPass": []
     },
     {
         "resortName": "Mörlialp",
@@ -2332,8 +2227,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/35srhgvq2n8tazm78pg9u3g067p9"
+        "skiPass": []
     },
     {
         "resortName": "Bellwald",
@@ -2354,8 +2248,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/y5ogkc54ulkx143jm1ke0893g36k"
+        "skiPass": []
     },
     {
         "resortName": "Augstbord Region (Moosalp, Unterbäch, Eischoll)",
@@ -2376,8 +2269,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/725g26bbxt8ap24sflk076xyay2m"
+        "skiPass": []
     },
     {
         "resortName": "Les Breuleux",
@@ -2398,8 +2290,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1g6cs6yt2dx4qmh0bmskg1rui0t9"
+        "skiPass": []
     },
     {
         "resortName": "Klewenalp - Stockhütte (Beckenried - Emmetten)",
@@ -2420,8 +2311,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2y1paqkb96oniopmcbxrnidnqfv2"
+        "skiPass": []
     },
     {
         "resortName": "La Forclaz VD",
@@ -2442,8 +2332,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z5lik5qaqmpr3rnemirmfsbf7nna"
+        "skiPass": []
     },
     {
         "resortName": "Aeschi",
@@ -2464,8 +2353,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gad0bbhdo4k0ukfelwtyxg47hoop"
+        "skiPass": []
     },
     {
         "resortName": "Beaulme",
@@ -2486,8 +2374,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/k5cgo2wya08sxf2pkd003hzn1u9p"
+        "skiPass": []
     },
     {
         "resortName": "Les Giettes",
@@ -2508,8 +2395,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hbdbfap57i7eks4eoqkds8b4wsle"
+        "skiPass": []
     },
     {
         "resortName": "Campo Blenio",
@@ -2530,8 +2416,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/v18hw62ksc4r6jy8mftmthd2rkhk"
+        "skiPass": []
     },
     {
         "resortName": "Mastrils",
@@ -2552,8 +2437,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ytb1vcnh86r284h7vc6io2x4l5de"
+        "skiPass": []
     },
     {
         "resortName": "Wildhaus",
@@ -2574,8 +2458,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jwm5shgy6541upl0k8txjx53tawy"
+        "skiPass": []
     },
     {
         "resortName": "Engadin-Maloja, Aela",
@@ -2596,8 +2479,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9j1fuae192s9g89jcftpopb340si"
+        "skiPass": []
     },
     {
         "resortName": "Heinzenberg (Sarn)",
@@ -2618,8 +2500,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/iw91wp7qmtz2rvlz7plx5wefn8ko"
+        "skiPass": []
     },
     {
         "resortName": "Skilift Obermutten",
@@ -2640,8 +2521,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cdemk6p66dleuhyw58ln24o2f8w3"
+        "skiPass": []
     },
     {
         "resortName": "Skilift Tenna (Safiental)",
@@ -2662,8 +2542,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/12zwndt5850l8ehouovlcf8itvqw"
+        "skiPass": []
     },
     {
         "resortName": "Appenzell (Skilift Sollen)",
@@ -2684,8 +2563,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/p5b18bclsflpntz7pvee3ohc2ok1"
+        "skiPass": []
     },
     {
         "resortName": "Ebnat-Kappel (Skilift  Tanzboden)",
@@ -2706,8 +2584,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pphvn1aohzzvnkktu5y9k2a6btu3"
+        "skiPass": []
     },
     {
         "resortName": "Mogno",
@@ -2728,8 +2605,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/47sqv69vclojkowgn5lb4jqntd8f"
+        "skiPass": []
     },
     {
         "resortName": "La Forclaz VS",
@@ -2750,8 +2626,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sx1ug0kmy5td5hz3g0d3086dfxjl"
+        "skiPass": []
     },
     {
         "resortName": "Vichères - Liddes",
@@ -2772,8 +2647,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/s4s6pvsnqd53uemaunjychpl9i3e"
+        "skiPass": []
     },
     {
         "resortName": "Kiental",
@@ -2794,8 +2668,7 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wgk5tplmlnl0a9dowf1rohccyu51"
+        "skiPass": []
     },
     {
         "resortName": "Oberrickenbach - Bannalp",
@@ -2816,7 +2689,6 @@ var switzerlandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3q8ke8af726s4ulxsffotskcnzs7"
+        "skiPass": []
     }
 ];

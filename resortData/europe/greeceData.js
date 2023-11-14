@@ -18,7 +18,6 @@ var greeceData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zxpyqnnz973wwxq4dtji3vpdq9es"
+        "skiPass": []
     }
 ];

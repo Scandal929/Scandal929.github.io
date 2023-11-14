@@ -39,8 +39,7 @@ var netherlandsData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/51a0nlycdjh2lo85uz19cnlyfyod"
+        "skiPass": []
     },
     {
         "resortName": "Nieuwegein",

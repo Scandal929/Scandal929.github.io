@@ -18,8 +18,7 @@ var lithuaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ahql6z8msmpx6ln07eewcnvfvd52"
+        "skiPass": []
     },
     {
         "resortName": "Kalita Kalnas",
@@ -61,7 +60,6 @@ var lithuaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/653f1jwqjgs4k6xipq9njyy6njc0"
+        "skiPass": []
     }
 ];

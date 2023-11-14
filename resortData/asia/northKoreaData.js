@@ -18,8 +18,7 @@ var northKoreaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7fen1gkk33wh4hh03bihdrnr4lcz"
+        "skiPass": []
     },
     {
         "resortName": "Kanggye Ski Resort",

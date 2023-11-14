@@ -18,8 +18,7 @@ var moroccoData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3bf7xyft3z1l29estjr7oagw1nrm"
+        "skiPass": []
     },
     {
         "resortName": "Mischliffen",
@@ -40,7 +39,6 @@ var moroccoData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5f4fd6zviu3rht4y6en9ccu816t5"
+        "skiPass": []
     }
 ];

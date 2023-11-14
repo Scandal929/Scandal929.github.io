@@ -18,8 +18,7 @@ var indiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pdyabgjrj6xqwmalpdwx9rv9cyrr"
+        "skiPass": []
     },
     {
         "resortName": "Auli",
@@ -40,8 +39,7 @@ var indiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xtjlxj0jzunuaedg8zsssuy14zio"
+        "skiPass": []
     },
     {
         "resortName": "Solang Valley",
@@ -62,8 +60,7 @@ var indiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/axfxh6z6pxx0l5qg91zs8cds7dxf"
+        "skiPass": []
     },
     {
         "resortName": "Ski India",

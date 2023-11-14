@@ -18,8 +18,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/iqbfor1fmah2rvdanh4kjz5r8z7p"
+        "skiPass": []
     },
     {
         "resortName": "Pec pod Sněžkou",
@@ -40,8 +39,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sqg6nnlsln5bpsq8fa2ey4g3jfln"
+        "skiPass": []
     },
     {
         "resortName": "Ski Klinovec",
@@ -62,8 +60,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/eqdxuzdr7h3d2ox86d2f0nemknms"
+        "skiPass": []
     },
     {
         "resortName": "Dolní Morava",
@@ -84,8 +81,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2hs407j5uvqmppxs9owsj7s1hg9a"
+        "skiPass": []
     },
     {
         "resortName": "Železná Ruda (Špičák, Nad Nádražím)",
@@ -106,8 +102,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ug9eqiqenvnzt9pwtpu016we486g"
+        "skiPass": []
     },
     {
         "resortName": "Plešivec",
@@ -128,8 +123,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/l87ibnaznvwtms3apvkkj4im2vqv"
+        "skiPass": []
     },
     {
         "resortName": "Bouřňák",
@@ -150,8 +144,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/29pwf08zsaox4jxrwfcxtqjibn1m"
+        "skiPass": []
     },
     {
         "resortName": "Zadní Telnice",
@@ -172,8 +165,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qx9274h5nx4t7wzvppz7n67ulhai"
+        "skiPass": []
     },
     {
         "resortName": "Klíny",
@@ -194,8 +186,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/f67a72zc7tt47flbwmfnnnktmx8w"
+        "skiPass": []
     },
     {
         "resortName": "Český Jiřetín",
@@ -216,8 +207,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/v4vfd2dls6rd0af5y4rzyt0txevw"
+        "skiPass": []
     },
     {
         "resortName": "Náprava",
@@ -238,8 +228,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5oadjwgok1pcergc6r6dfro3xvxn"
+        "skiPass": []
     },
     {
         "resortName": "Jedlová",
@@ -260,8 +249,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uehlz3nho9e8j176vn38jfp63gpa"
+        "skiPass": []
     },
     {
         "resortName": "Ještěd",
@@ -282,8 +270,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/exzphwqtlb9xyo7oi76zrpua18lb"
+        "skiPass": []
     },
     {
         "resortName": "Obří sud Javorník",
@@ -304,8 +291,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qamiev7b9a1zwbsvenannshmwlg1"
+        "skiPass": []
     },
     {
         "resortName": "Bila",
@@ -326,8 +312,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nmz9elgfpj9an33a11nv1yb5ligl"
+        "skiPass": []
     },
     {
         "resortName": "Benecko",
@@ -348,8 +333,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ztk0jmhyhqe7vga3x33wvqbwc89l"
+        "skiPass": []
     },
     {
         "resortName": "Čenkovice",
@@ -370,8 +354,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/arfsn8ruvl6zx8guudv52l95a3ro"
+        "skiPass": []
     },
     {
         "resortName": "Herlikovice",
@@ -392,8 +375,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5oi64nx8c94mn955ljf528vfnpgm"
+        "skiPass": []
     },
     {
         "resortName": "Komari Vizka",
@@ -414,8 +396,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ypbyokfe9c8qhsu5b3p4ronhnmtc"
+        "skiPass": []
     },
     {
         "resortName": "Kubova Hut",
@@ -436,8 +417,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gdhlcf9mdbn8dk68pr5tognl18jt"
+        "skiPass": []
     },
     {
         "resortName": "Karlov pod Pradědem - Čerťák",
@@ -458,8 +438,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/djw9zeek1glmxzgtfxoh35m1rmm2"
+        "skiPass": []
     },
     {
         "resortName": "Paseky Nad Jizerou",
@@ -480,8 +459,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/65dd5bz31pwggg25tydo2r46i5yo"
+        "skiPass": []
     },
     {
         "resortName": "Janova Hora",
@@ -502,8 +480,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/d5pxllyevzuxy8crw397nvysuoku"
+        "skiPass": []
     },
     {
         "resortName": "Hartman",
@@ -524,8 +501,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lo5fcrragngfsurnx89kev1x5sfe"
+        "skiPass": []
     },
     {
         "resortName": "Kocianka",
@@ -546,8 +522,7 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/99n3vh31aaun0gy3gxkbert5er27"
+        "skiPass": []
     },
     {
         "resortName": "Kněžický",
@@ -568,7 +543,6 @@ var czechRepublicData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vss0f5b3qtcxuy5b1nicjv9x10a6"
+        "skiPass": []
     }
 ];

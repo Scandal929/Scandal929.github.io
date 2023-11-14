@@ -18,8 +18,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5ioxcfw1wk5hi8curuq0lxpgl92k"
+        "skiPass": []
     },
     {
         "resortName": "Feldberg",
@@ -40,8 +39,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b2amndtsvnxmhslgb5ez64bsbxkc"
+        "skiPass": []
     },
     {
         "resortName": "Garmisch Partenkirchen (Classic & Zugspitze)",
@@ -62,8 +60,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/e7ich5c5kmp8wtc04yargz3bbtq2"
+        "skiPass": []
     },
     {
         "resortName": "Kolbensattel (Oberammergau)",
@@ -84,8 +81,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lvfs10mhkw8tpamgfzbcjrnrlxsp"
+        "skiPass": []
     },
     {
         "resortName": "Hindelang-Oberjoch",
@@ -106,8 +102,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0qb958hmu1zit8c5h7dfzr6rcun0"
+        "skiPass": []
     },
     {
         "resortName": "Kleinwalsertal / Oberstdorf (Das Hoechste, Nebelhorn, Sollereck, Fellhorn/Kanzelwand,  Walmendingerhorn, Ifen, Heuberg Arena, Hirschegg, Mittelberg)",
@@ -128,8 +123,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jg26aw66ek1hdmrwk261zkwe130k"
+        "skiPass": []
     },
     {
         "resortName": "Winklmoosalm (Reit im Winkl)",
@@ -150,8 +144,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ud58i754v6f3wzr9ezr8blgpfl1u"
+        "skiPass": []
     },
     {
         "resortName": "Grünten (Rettenberg)",
@@ -172,8 +165,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dz58xe4g5vrewykm94a2riy3wzdm"
+        "skiPass": []
     },
     {
         "resortName": "Schliersee / Spitzingsee",
@@ -194,8 +186,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/oymdvtp7q9fy95mnoalbacmpgbkx"
+        "skiPass": []
     },
     {
         "resortName": "Willingen",
@@ -216,8 +207,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/p93hxxhbwyv97kzgx4m5j3i8gus4"
+        "skiPass": []
     },
     {
         "resortName": "Skiliftkarussell Winterberg",
@@ -238,8 +228,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7i1nmnaakeqbeipm13i9oiup2mav"
+        "skiPass": []
     },
     {
         "resortName": "Bodenmais - Silberberg",
@@ -260,8 +249,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6uods7368ucq8ba6iun2dsdiycu3"
+        "skiPass": []
     },
     {
         "resortName": "Rusel",
@@ -282,8 +270,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jm9l824xkhyeu4s5hssnzx0bb4c5"
+        "skiPass": []
     },
     {
         "resortName": "Balderschwang",
@@ -304,8 +291,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/h9ph26phrrghwt0hzfkukqfs3wrm"
+        "skiPass": []
     },
     {
         "resortName": "Bolsterlang (Allgäuer Hörnerbahnen)",
@@ -326,8 +312,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ez4qjangftkiwsoe8aqq9rhpn45f"
+        "skiPass": []
     },
     {
         "resortName": "Großer Arber",
@@ -348,8 +333,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hgimeve4ti8ezx0col0rulg63onq"
+        "skiPass": []
     },
     {
         "resortName": "Nesselwang (Alpspitzbahn)",
@@ -370,8 +354,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/omd1klww2w254gdkztdq7czb7ci7"
+        "skiPass": []
     },
     {
         "resortName": "Buronlifte Wertach",
@@ -392,8 +375,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6hs1yjnrrwbxr8w92blrodx4zaki"
+        "skiPass": []
     },
     {
         "resortName": "Oy-Mittelberg",
@@ -414,8 +396,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mg5v5b582paye47s5ktmyoiksz4d"
+        "skiPass": []
     },
     {
         "resortName": "Ofterschwang",
@@ -436,8 +417,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/k1absulsiwm6us9j3nzivpg1mlvb"
+        "skiPass": []
     },
     {
         "resortName": "Oberwiesenthal",
@@ -458,8 +438,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tmf57zq0g8ibtzy27rg4r4lmorkm"
+        "skiPass": []
     },
     {
         "resortName": "Kampenwand",
@@ -480,8 +459,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/l7zqqyaim1v33jduz1b9okxguk23"
+        "skiPass": []
     },
     {
         "resortName": "Beuerberg",
@@ -523,8 +501,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7iesbns4139vvnkk4o2a0n99n0v0"
+        "skiPass": []
     },
     {
         "resortName": "Brauneck (Lenggries-Wegscheid)",
@@ -545,8 +522,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/a42im07qf5fj9j9862wn59q0j8fe"
+        "skiPass": []
     },
     {
         "resortName": "Steibis",
@@ -567,8 +543,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7b905nrh050ddxcmr9ttu0vuige4"
+        "skiPass": []
     },
     {
         "resortName": "Breitenberg",
@@ -589,8 +564,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/v4jv3phirim3cx33zno3e47c9s8p"
+        "skiPass": []
     },
     {
         "resortName": "Tegelberg",
@@ -611,8 +585,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/96ccqm8c69dwkgo1o6ugt5hwa4dv"
+        "skiPass": []
     },
     {
         "resortName": "Ludwigsstadt",
@@ -633,8 +606,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pxn429t45xfnpl55p78ix1tepc8o"
+        "skiPass": []
     },
     {
         "resortName": "Ochsenkopf",
@@ -655,8 +627,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/51gxbe899sr8a5h2ojnw0jejxtz5"
+        "skiPass": []
     },
     {
         "resortName": "Warmensteinach",
@@ -677,8 +648,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/51gxbe899sr8a5h2ojnw0jejxtz5"
+        "skiPass": []
     },
     {
         "resortName": "Todtnauberg",
@@ -699,8 +669,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m5seo7xsycmydrpdktij5xk9j8j6"
+        "skiPass": []
     },
     {
         "resortName": "Grasgehren",
@@ -721,8 +690,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/52lmvycjaaghknmhwgtcz2pewkbq"
+        "skiPass": []
     },
     {
         "resortName": "Altglashütten",
@@ -743,8 +711,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0hihfwuc0m3jm30h7n4y3e1kn0hp"
+        "skiPass": []
     },
     {
         "resortName": "Menzenschwand",
@@ -765,8 +732,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hlctwqor7sjok7pebgqr46lbbu08"
+        "skiPass": []
     },
     {
         "resortName": "Muggenbrunn",
@@ -787,8 +753,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ydqg23rg20au6wp33tk1qhdgyvni"
+        "skiPass": []
     },
     {
         "resortName": "Belchen",
@@ -809,8 +774,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ghmdy11iwe7ttkl5q7pthethc9hg"
+        "skiPass": []
     },
     {
         "resortName": "Todtmoos",
@@ -831,8 +795,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/g1s0ua6wqpu5y5jpqz0bodyyu7ww"
+        "skiPass": []
     },
     {
         "resortName": "Alpsee Bergwelt",
@@ -853,8 +816,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jc6604o0y6zv8djjyi44fsy0qpoo"
+        "skiPass": []
     },
     {
         "resortName": "Mittag / Immenstadt",
@@ -875,8 +837,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gh7fyt89bauh7564eucm48u653nb"
+        "skiPass": []
     },
     {
         "resortName": "Schauinsland",
@@ -897,8 +858,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5geffvbj6nltt440fjecvn8n0i4f"
+        "skiPass": []
     },
     {
         "resortName": "Sankt Englmar (Grün, Pröller)",
@@ -919,8 +879,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gafo2dghm1gu137feme9hwgxh8sh"
+        "skiPass": []
     },
     {
         "resortName": "Monschau-Rohren",
@@ -941,8 +900,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/w04mc0umemc6d3j370jgpbv3lxkx"
+        "skiPass": []
     },
     {
         "resortName": "Wallbergbahn (Tegernsee)",
@@ -963,8 +921,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ixbxve7n2ujsu71fhos6qu2xgqz3"
+        "skiPass": []
     },
     {
         "resortName": "Ruhpolding",
@@ -985,8 +942,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8fs3fmrvu2z08cktrsvf7mofdrpq"
+        "skiPass": []
     },
     {
         "resortName": "Wendelstein",
@@ -1007,8 +963,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9ffp7745axx0dfgy9sdg6he2ap6g"
+        "skiPass": []
     },
     {
         "resortName": "Geißkopf",
@@ -1029,8 +984,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/idjee58n1eh0tlfz6h80gjm9leg8"
+        "skiPass": []
     },
     {
         "resortName": "Hocheck (Oberaudorf)",
@@ -1051,8 +1005,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2cmnqso0trrulvhj12tho99cj1s2"
+        "skiPass": []
     },
     {
         "resortName": "Hohenbogen",
@@ -1073,8 +1026,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xrcyueq3ccsfmtrvt8ym9mm2s67t"
+        "skiPass": []
     },
     {
         "resortName": "Altastenberg",
@@ -1095,8 +1047,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qedhc8ssyoeqhn2yfuchpaosvj5t"
+        "skiPass": []
     },
     {
         "resortName": "Rossfeld Berchtesgaden",
@@ -1117,8 +1068,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0r9bxiencckfjubr7tazhzav9qvi"
+        "skiPass": []
     },
     {
         "resortName": "Münstertal-Wieden",
@@ -1139,8 +1089,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9zzmjvffyd44m343l2jcfljqiuj5"
+        "skiPass": []
     },
     {
         "resortName": "Erbeskopf",
@@ -1161,8 +1110,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wf2qsxp1m9sfcl0tve7vekoe31ae"
+        "skiPass": []
     },
     {
         "resortName": "Fort Fun Winterwelt",
@@ -1183,8 +1131,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wdg3i6qvar45h02i1juixutycpda"
+        "skiPass": []
     },
     {
         "resortName": "Sternrodt",
@@ -1205,8 +1152,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3s5f0mdij33d2gk1h0qjv0ehaj34"
+        "skiPass": []
     },
     {
         "resortName": "Matthias-Schmidt-Berg",
@@ -1227,8 +1173,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7vhpra1blxz9bjmiopretiu64skc"
+        "skiPass": []
     },
     {
         "resortName": "Ötzlifte-Kochel",
@@ -1249,8 +1194,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m6cci79mtqguwqlq5s8ze495vyrg"
+        "skiPass": []
     },
     {
         "resortName": "Hirschberglifte",
@@ -1271,8 +1215,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/43rycg3ynts651sms6aigwplq874"
+        "skiPass": []
     },
     {
         "resortName": "Karwendelbahn (Dammkar)",
@@ -1293,8 +1236,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zaexudvkxyh3cnmfrgu9pcvfh7ot"
+        "skiPass": []
     },
     {
         "resortName": "Arnsberg",
@@ -1315,8 +1257,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/h1rcsrpk7h2y2hjhsf6ptxhfs6uc"
+        "skiPass": []
     },
     {
         "resortName": "Kreuzberg",
@@ -1337,8 +1278,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/iusj25wt1wii2ye9cr69dfkjz0on"
+        "skiPass": []
     },
     {
         "resortName": "Mittenwald - Kranzberg",
@@ -1359,8 +1299,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yoxb85q4tm13vnjano80mvbr6l3c"
+        "skiPass": []
     },
     {
         "resortName": "Simmelsberg",
@@ -1381,8 +1320,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uxs9f3oaal1z0zjjj59tq5atc3hl"
+        "skiPass": []
     },
     {
         "resortName": "Zuckerfeld",
@@ -1403,8 +1341,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/akc7673c2w1evby2f4nf5gsxhp1m"
+        "skiPass": []
     },
     {
         "resortName": "Wasserkuppe",
@@ -1425,8 +1362,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/y8vrqmodkbaee4n43ha06c94b1ti"
+        "skiPass": []
     },
     {
         "resortName": "Snow World Züschen",
@@ -1447,8 +1383,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tqo15z5tgah3x48viqfynpl48xv2"
+        "skiPass": []
     },
     {
         "resortName": "Bödefeld - Hunau",
@@ -1469,8 +1404,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mshst1snbg7f5aarms3syrajmr62"
+        "skiPass": []
     },
     {
         "resortName": "Eschenberglifte",
@@ -1491,8 +1425,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/aaynuzvovt25plkfoj5bokvv77i5"
+        "skiPass": []
     },
     {
         "resortName": "Schulenberg",
@@ -1513,8 +1446,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7sk5yqq8hq784mer3y4apmnqmn1p"
+        "skiPass": []
     },
     {
         "resortName": "Bocksberg",
@@ -1535,8 +1467,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/51uz7qog20h67b8i5nnc2dk0nfv8"
+        "skiPass": []
     },
     {
         "resortName": "Ravensberg - Bad Sachsa",
@@ -1557,8 +1488,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kmt1i6blp9di4u3lakh6g7cg555k"
+        "skiPass": []
     },
     {
         "resortName": "Thoma",
@@ -1579,8 +1509,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9b7velbkhlykw9962bhczwxjkltf"
+        "skiPass": []
     },
     {
         "resortName": "Stollenbach",
@@ -1622,8 +1551,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8vgd6tqrvlcdy6mwprrgzh0ja1t9"
+        "skiPass": []
     },
     {
         "resortName": "Mehliskopf",
@@ -1644,8 +1572,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/onbpp2lqzbacv78qrhiyigcz1q7k"
+        "skiPass": []
     },
     {
         "resortName": "Bläsiberg Wiesensteig",
@@ -1666,8 +1593,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/249p32qjl6rvi7l0hzjj9n3t6wjq"
+        "skiPass": []
     },
     {
         "resortName": "Pfannilift am Schliersee",
@@ -1688,8 +1614,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vt02aduc9newgotj3vbzc7uycysg"
+        "skiPass": []
     },
     {
         "resortName": "Skilift Elbach",
@@ -1731,8 +1656,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ehn95613q2mlsd7n7piacyvbpk6v"
+        "skiPass": []
     },
     {
         "resortName": "Hörnlebahn Bad Kohlgrub",
@@ -1753,8 +1677,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sl0zta27nc7ywmvw6kvmvvucloms"
+        "skiPass": []
     },
     {
         "resortName": "Blomberg",
@@ -1775,8 +1698,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/so63usqofloyjwaxfo15v127ek6d"
+        "skiPass": []
     },
     {
         "resortName": "Audi Skizentrum Sonnenbichl",
@@ -1797,8 +1719,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9xsq652qnpslzx5a24pp2snroe48"
+        "skiPass": []
     },
     {
         "resortName": "Oedberg",
@@ -1819,8 +1740,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/o22g34em4bbiyioq96whp7lolpk7"
+        "skiPass": []
     },
     {
         "resortName": "Laberbergbahn (Oberammergau)",
@@ -1841,8 +1761,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zsn9ire93pmkol3nvlw3wwfx7qka"
+        "skiPass": []
     },
     {
         "resortName": "Steckenberg (Oberammergau)",
@@ -1863,8 +1782,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/319pn1ysv8719u747rs82sch6a88"
+        "skiPass": []
     },
     {
         "resortName": "Rabenkopflift Oberau",
@@ -1927,8 +1845,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wbnqjnw3alxamctv1sdoadzg5nuf"
+        "skiPass": []
     },
     {
         "resortName": "Oberfrauenwald",
@@ -1949,8 +1866,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/km8agldp5qshby9aov4w8rzjo7r4"
+        "skiPass": []
     },
     {
         "resortName": "Mitterdorf",
@@ -1971,8 +1887,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zcahtg1v2kihye4eu79z65aktd2v"
+        "skiPass": []
     },
     {
         "resortName": "Eck",
@@ -1993,8 +1908,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9ctk0r649ynexrwut9d8vnd817m4"
+        "skiPass": []
     },
     {
         "resortName": "Wurmstein",
@@ -2036,8 +1950,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/o8vft49sc4geypf08d5lahhbe5t7"
+        "skiPass": []
     },
     {
         "resortName": "Schöneck",
@@ -2058,8 +1971,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/p9wrsisrrh2yluw93thmjqhlyjck"
+        "skiPass": []
     },
     {
         "resortName": "Holzhau",
@@ -2080,8 +1992,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8efeppaqzsdrwj3c4bw8zq1x7dxs"
+        "skiPass": []
     },
     {
         "resortName": "Sebnitz",
@@ -2123,8 +2034,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nhlpdridztkm2jadx72qdzc5e6fg"
+        "skiPass": []
     },
     {
         "resortName": "Reiserhang",
@@ -2187,8 +2097,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/20xr08ysfzli0tme1m0bwvlmy8ni"
+        "skiPass": []
     },
     {
         "resortName": "Skilift Au",
@@ -2314,8 +2223,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jq49i1gtqtyuwkhjqihnu4gngdgx"
+        "skiPass": []
     },
     {
         "resortName": "Böttingen",
@@ -2336,8 +2244,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ahxqwqdky5jjlwgbudctkvf6eiyr"
+        "skiPass": []
     },
     {
         "resortName": "Panoramalifte Hopfen",
@@ -2358,8 +2265,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cp3yszjcgdj4nl8v4ivvvr13h084"
+        "skiPass": []
     },
     {
         "resortName": "Skilifte Sinswang",
@@ -2380,8 +2286,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vt67ixhowbr2vsvk0u4joh4w5if2"
+        "skiPass": []
     },
     {
         "resortName": "Hundle- Thalkirchdorf",
@@ -2402,8 +2307,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cispkhictjav0mau7m22vjbshpl4"
+        "skiPass": []
     },
     {
         "resortName": "Simmerberg",
@@ -2445,8 +2349,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/y55s3o8l2f8tyd3velyvjcav996x"
+        "skiPass": []
     },
     {
         "resortName": "Thaler Hohe",
@@ -2509,8 +2412,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xhawgr8c2rzwdhcir1na7dwp9e90"
+        "skiPass": []
     },
     {
         "resortName": "Spieserlifte",
@@ -2531,8 +2433,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ddrlerqml2k7p4ef1x9s843nkkg6"
+        "skiPass": []
     },
     {
         "resortName": "Sonnenhanglifte",
@@ -2553,8 +2454,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0jsckugdlcuruqgcl3u0kan5gx6p"
+        "skiPass": []
     },
     {
         "resortName": "Schwarzenlifte Eschach",
@@ -2575,8 +2475,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gdwtqrgtn7bpaphdd82r1nvezj9z"
+        "skiPass": []
     },
     {
         "resortName": "Iberg",
@@ -2597,8 +2496,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kyb2ly22j6b5ymtcqea1kts57xun"
+        "skiPass": []
     },
     {
         "resortName": "Luggi Leitner",
@@ -2703,8 +2601,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6rh6ujyixrnu2g4akgno1ol1jscm"
+        "skiPass": []
     },
     {
         "resortName": "Albstadt-Tailfinger",
@@ -2725,8 +2622,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wus3okxok23i18tun8umhgntsc5l"
+        "skiPass": []
     },
     {
         "resortName": "Etzelwang",
@@ -2747,8 +2643,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ub4ee3jw2e6nbatagoq8flml52hw"
+        "skiPass": []
     },
     {
         "resortName": "Grafenherberg-Sudelfeld (Rankenlift)",
@@ -2769,8 +2664,7 @@ var germanyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/069a5zu90gplqmmkt7taj19ru3w3"
+        "skiPass": []
     },
     {
         "resortName": "Skilift Waldsportpark Ebersberg",

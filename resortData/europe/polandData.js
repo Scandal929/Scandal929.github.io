@@ -39,8 +39,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6j41earydwy58lvqqo1om02pxqdi"
+        "skiPass": []
     },
     {
         "resortName": "Karpacz / Śnieżka",
@@ -61,8 +60,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vcdo5q1xucq628vpitlkrutxco7v"
+        "skiPass": []
     },
     {
         "resortName": "Szklarska Poręba",
@@ -83,8 +81,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/veauz4q57wfpk46tqt288xaeoe59"
+        "skiPass": []
     },
     {
         "resortName": "Czarna Góra",
@@ -105,8 +102,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pz435xra8cuvpcgd8r2ihq8v9hdj"
+        "skiPass": []
     },
     {
         "resortName": "Białka Tatrzańska",
@@ -127,8 +123,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cs5sk5j4gu4bhmzp64puhvc9f4yi"
+        "skiPass": []
     },
     {
         "resortName": "Jaworzyna Krynicka",
@@ -149,8 +144,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yhlm196b5j5lprnzcoiq6wx5kwrr"
+        "skiPass": []
     },
     {
         "resortName": "Zieleniec",
@@ -171,8 +165,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7e5kf3tkw7dmviuxuhg6kosfvnqf"
+        "skiPass": []
     },
     {
         "resortName": "Arłamów",
@@ -193,8 +186,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6ts8je1za6jv03aqf5ng8zxi08y4"
+        "skiPass": []
     },
     {
         "resortName": "Baba Jaga",
@@ -236,8 +228,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hgehcujhdrzt01thj3hd0aj8wq5k"
+        "skiPass": []
     },
     {
         "resortName": "Słotwiny Arena",
@@ -258,8 +249,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rcqnl7c4x15gyfwknyx8yyxynpij"
+        "skiPass": []
     },
     {
         "resortName": "Kasina",
@@ -280,8 +270,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/23vrn8vlzdz2kyw5ma3d7vqbolhk"
+        "skiPass": []
     },
     {
         "resortName": "Ameliówka",
@@ -323,8 +312,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/coo14trmhx3pah7jphg5wcsb67hj"
+        "skiPass": []
     },
     {
         "resortName": "Babica",
@@ -387,8 +375,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wfifr3x5ccil67l5wkww9qj54385"
+        "skiPass": []
     },
     {
         "resortName": "Beskid Sport Arena",
@@ -409,8 +396,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/orp5ocjn1w5mbd0bqua2wa5b0qyx"
+        "skiPass": []
     },
     {
         "resortName": "Beskid",
@@ -431,8 +417,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/e274sir141c466xkucynvsno3h6g"
+        "skiPass": []
     },
     {
         "resortName": "Beskidek",
@@ -453,8 +438,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/boydddtzhf7d1h40vcv6ifisow3t"
+        "skiPass": []
     },
     {
         "resortName": "Bialy Potok",
@@ -496,8 +480,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gp6fw68vy2vkgx6lbsnpiltze51c"
+        "skiPass": []
     },
     {
         "resortName": "Biały Krzyż",
@@ -518,8 +501,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4om7cqq9x1l3texop1mwpkhqgi63"
+        "skiPass": []
     },
     {
         "resortName": "Bielawa",
@@ -561,8 +543,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uviakedqo08yyko8zezey9u58jqz"
+        "skiPass": []
     },
     {
         "resortName": "Borowice",
@@ -688,8 +669,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/g6obqa5iaop6rjtws2i6024pu140"
+        "skiPass": []
     },
     {
         "resortName": "Cieniawa",
@@ -710,8 +690,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vt29ham4hbkp3533wmmj71i434zz"
+        "skiPass": []
     },
     {
         "resortName": "Cieńków",
@@ -732,8 +711,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pwsea3g3mq5lbiv5m6s5nhv4i83v"
+        "skiPass": []
     },
     {
         "resortName": "Cisowa",
@@ -775,8 +753,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2awtlf25xips112woxatrr3i5gc1"
+        "skiPass": []
     },
     {
         "resortName": "Czarnorzeki",
@@ -818,8 +795,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/k9khhrlzz42icuascjiwpm4nnasv"
+        "skiPass": []
     },
     {
         "resortName": "Czarnów",
@@ -840,8 +816,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/iy9ysifxkvjm19zg7s8ol6ka8sv7"
+        "skiPass": []
     },
     {
         "resortName": "Czerwony szlak",
@@ -883,8 +858,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b50jaowzz92obhiijnuoeom0vrfn"
+        "skiPass": []
     },
     {
         "resortName": "Dolina Leśnicy/Świniorki",
@@ -905,8 +879,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/em1pqzff9ekjt6aqi3kdrnr5ou80"
+        "skiPass": []
     },
     {
         "resortName": "Dolomity Sportowa Dolina",
@@ -948,8 +921,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lr1qb3j3hg1xtykdm6z7nidkyg0w"
+        "skiPass": []
     },
     {
         "resortName": "Dzikowiec",
@@ -991,8 +963,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ipcokja3gy3tdsa9l9njzd1ih21f"
+        "skiPass": []
     },
     {
         "resortName": "Dębowiec",
@@ -1013,8 +984,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ux51mv6bzaqbmidjb5qmn1sd4ohp"
+        "skiPass": []
     },
     {
         "resortName": "Długa Polana",
@@ -1035,8 +1005,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/e7be5n0izfj2o03dn6v9253y4dtf"
+        "skiPass": []
     },
     {
         "resortName": "Gigant",
@@ -1057,8 +1026,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/d778h7uj29867ab0gwji6cq89xjv"
+        "skiPass": []
     },
     {
         "resortName": "Globus Ski",
@@ -1079,8 +1047,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ab0seqqhx9aao8bfh7je3dcxi99o"
+        "skiPass": []
     },
     {
         "resortName": "Gołębiewski",
@@ -1122,8 +1089,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/02e6ukpekmcej61uk4wl4dzmts0e"
+        "skiPass": []
     },
     {
         "resortName": "Gromadzyń",
@@ -1144,8 +1110,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b4ocsfc0302tz82ff07u25f194qc"
+        "skiPass": []
     },
     {
         "resortName": "Gubałówka",
@@ -1166,8 +1131,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1rc2qlsn63i8piro41zotskfic63"
+        "skiPass": []
     },
     {
         "resortName": "Góra Kamieńsk",
@@ -1188,8 +1152,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/emzdf0q0gy4ezf5qn02rmz0py9wo"
+        "skiPass": []
     },
     {
         "resortName": "Góra Parkowa",
@@ -1231,8 +1194,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/11g6yz5u3furfdl8hlkhyq7lt495"
+        "skiPass": []
     },
     {
         "resortName": "Hajduk",
@@ -1274,8 +1236,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hzyyzd0kts85tf8g4munmd73r1kv"
+        "skiPass": []
     },
     {
         "resortName": "Hawran",
@@ -1296,8 +1257,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/64f5e4xe8of2cefynm6qwe9r4zlf"
+        "skiPass": []
     },
     {
         "resortName": "Henryk",
@@ -1318,8 +1278,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/a6pggcy1ssxdx59c9avhkjmv2hg1"
+        "skiPass": []
     },
     {
         "resortName": "Homole",
@@ -1340,8 +1299,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/luzlnj3v5s500ckp2srdap3vz5h9"
+        "skiPass": []
     },
     {
         "resortName": "Jacnia",
@@ -1362,8 +1320,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hd1wfyjcmuids7k3uyxmntcyctj3"
+        "skiPass": []
     },
     {
         "resortName": "Jastrzębia",
@@ -1384,8 +1341,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fp5y72sqgo0y1eo33wf07dl0ecq3"
+        "skiPass": []
     },
     {
         "resortName": "Jugow Park",
@@ -1406,8 +1362,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/a2zsjp64wpp969hvrf84cms2bia6"
+        "skiPass": []
     },
     {
         "resortName": "Jurasówka",
@@ -1428,8 +1383,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rju16ef15bucn0qy7iabqs9sm18b"
+        "skiPass": []
     },
     {
         "resortName": "Kalnica",
@@ -1450,8 +1404,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/93k6ye69hhepsisk44bgvo82l4z3"
+        "skiPass": []
     },
     {
         "resortName": "Kamienica/Bolesławów",
@@ -1472,8 +1425,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qx49hrys0vyj0nsnxpoh26s662mm"
+        "skiPass": []
     },
     {
         "resortName": "Kamionna",
@@ -1494,8 +1446,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/44bya3cdxcnau1ucb4q7wl7p5co7"
+        "skiPass": []
     },
     {
         "resortName": "Karlików",
@@ -1516,8 +1467,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/higurl0fd9f0b3la0wc58slr5252"
+        "skiPass": []
     },
     {
         "resortName": "Karpatka Panorama",
@@ -1559,8 +1509,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/y2gzm7gcuvqysr4ed6mzh5xbc7cy"
+        "skiPass": []
     },
     {
         "resortName": "Kasprowy Wierch",
@@ -1581,8 +1530,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/a5rqz5hnw02m3kr6hmxqr64lhoa3"
+        "skiPass": []
     },
     {
         "resortName": "Kazimierz",
@@ -1603,8 +1551,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kx9jlt0uzcm26iyye46ftx3n3jjy"
+        "skiPass": []
     },
     {
         "resortName": "Kiczera-Puławy",
@@ -1625,8 +1572,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/675ox3nj7ilriji9j0pznpe26af5"
+        "skiPass": []
     },
     {
         "resortName": "Klepki",
@@ -1647,8 +1593,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rr87uwzlof3m57tw07crcmgwp2s8"
+        "skiPass": []
     },
     {
         "resortName": "Kocierz",
@@ -1669,8 +1614,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8qe52boswdcziy99r60pbzdw2hrj"
+        "skiPass": []
     },
     {
         "resortName": "Kokuszka",
@@ -1691,8 +1635,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ted8t7vnyfzf46ah4eglfqhmv9ig"
+        "skiPass": []
     },
     {
         "resortName": "Kolorowa",
@@ -1755,8 +1698,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pwzd9tgpg63lqc8uk630ddv9vvqo"
+        "skiPass": []
     },
     {
         "resortName": "Koziniec",
@@ -1777,8 +1719,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rsxtdk009aeyb63hscp7ytdfacmm"
+        "skiPass": []
     },
     {
         "resortName": "Krzyżowa Góra",
@@ -1799,8 +1740,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/stv66m41e3e5gtjd0jn2fytfuvj7"
+        "skiPass": []
     },
     {
         "resortName": "Kudowa Zdrój",
@@ -1842,8 +1782,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9ls52c4delmh4mgv0ow3qnm7flle"
+        "skiPass": []
     },
     {
         "resortName": "Lesko-Ski",
@@ -1885,8 +1824,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tz9kz6moxolrwkyy52fjtpg2lxka"
+        "skiPass": []
     },
     {
         "resortName": "Lipki",
@@ -1949,8 +1887,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/w115sdxb1wsvhbis5gbksoxuogbc"
+        "skiPass": []
     },
     {
         "resortName": "Lądek-Zdrój",
@@ -1971,8 +1908,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/attl03anbiiwyjrpuyen9yg9545r"
+        "skiPass": []
     },
     {
         "resortName": "Malinka",
@@ -2014,8 +1950,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/k1vn16bnxcwn3b2m4nse7nqkj83s"
+        "skiPass": []
     },
     {
         "resortName": "Mareszka",
@@ -2057,8 +1992,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8u1wu9701pt21unbezf55xwvyf4k"
+        "skiPass": []
     },
     {
         "resortName": "Mazurski",
@@ -2079,8 +2013,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rvy45wtc2obi1jki2nov2xp3p9x7"
+        "skiPass": []
     },
     {
         "resortName": "Małe Ciche",
@@ -2101,8 +2034,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/plfha8soq29ejt1fq0i5vwrn28k7"
+        "skiPass": []
     },
     {
         "resortName": "Małego Króla",
@@ -2144,8 +2076,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ymgdc1nhk3mx9lc17cper4e4iub7"
+        "skiPass": []
     },
     {
         "resortName": "Murzasichle",
@@ -2187,8 +2118,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gwv73trnj9hwevg36betuuy95e3o"
+        "skiPass": []
     },
     {
         "resortName": "Myślęcinek",
@@ -2230,8 +2160,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/smbz6lrd47rt47w18wef5mp78l7x"
+        "skiPass": []
     },
     {
         "resortName": "Narciarski Górnik",
@@ -2273,8 +2202,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2p2h2jea6lgyeoqxe6o696e1kukh"
+        "skiPass": []
     },
     {
         "resortName": "Niestachów",
@@ -2295,8 +2223,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/192qngxflgv2ps5kni37lgvexeih"
+        "skiPass": []
     },
     {
         "resortName": "Nosal",
@@ -2317,8 +2244,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kz9omn2ajz2mnk5dlkavawzzozvp"
+        "skiPass": []
     },
     {
         "resortName": "Nowa Morawa",
@@ -2339,8 +2265,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2g4i7kgnoud2nia6majecmc0okhk"
+        "skiPass": []
     },
     {
         "resortName": "Nowa Osada",
@@ -2361,8 +2286,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/q96058malz8mbjn3pye2nanug6hd"
+        "skiPass": []
     },
     {
         "resortName": "Nowy Gierałtów",
@@ -2446,8 +2370,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/s6qhz68tm6b17uxfdvo0a7oxv8gi"
+        "skiPass": []
     },
     {
         "resortName": "Okrągla Górka",
@@ -2468,8 +2391,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2722t92kyq5flaich44z6ml9jhgi"
+        "skiPass": []
     },
     {
         "resortName": "Orawka",
@@ -2532,8 +2454,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/t337uulqjnjtsjkjsfyvb2l8i6hd"
+        "skiPass": []
     },
     {
         "resortName": "Palenica",
@@ -2554,8 +2475,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/prxy60uxmhbvvpgqbk28i92imyh2"
+        "skiPass": []
     },
     {
         "resortName": "Parchatka",
@@ -2576,8 +2496,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ci62snjh7uv1old67pxh2mbqd1d9"
+        "skiPass": []
     },
     {
         "resortName": "Pardałówka Ugory",
@@ -2682,8 +2601,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/20lkv38psr3ikp31wdr8puvihw1w"
+        "skiPass": []
     },
     {
         "resortName": "Piękna Góra",
@@ -2704,8 +2622,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9uoq0alo6j1w55y4et4kcyah87m6"
+        "skiPass": []
     },
     {
         "resortName": "Pod Durbaszką",
@@ -2789,8 +2706,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/auedlhg9brj2o7g2m3bjk9jo4cwi"
+        "skiPass": []
     },
     {
         "resortName": "Polanki",
@@ -2832,8 +2748,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/311ulxs5agfr1pbr2otymgto8jfg"
+        "skiPass": []
     },
     {
         "resortName": "Przemyśl",
@@ -2854,8 +2769,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mstfzaxycdb0kmkpu41cujbmok1g"
+        "skiPass": []
     },
     {
         "resortName": "Przełęcz Sokola",
@@ -2897,8 +2811,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vznt1gxew1qcpxwyc2qk15ww5ziu"
+        "skiPass": []
     },
     {
         "resortName": "Rusiń-Ski",
@@ -2919,8 +2832,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8a3t3lhkw44pvhk4ce8y0m2494qc"
+        "skiPass": []
     },
     {
         "resortName": "Rybno",
@@ -2941,8 +2853,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uzwuynn1fulfhz6g39qzkvbxefyc"
+        "skiPass": []
     },
     {
         "resortName": "Rzeczka",
@@ -2963,8 +2874,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sse4nt520v46mtmo06qva185dxkj"
+        "skiPass": []
     },
     {
         "resortName": "Rówienki",
@@ -2985,8 +2895,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ja4v4ql13eadmyynn0u3tz4nc1yv"
+        "skiPass": []
     },
     {
         "resortName": "Rąblów",
@@ -3007,8 +2916,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/u2ak8az5pm7e5ygwqsbv8efalr9b"
+        "skiPass": []
     },
     {
         "resortName": "Sabat",
@@ -3092,8 +3000,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/stzvto8m1uh49yhbjv09gaoe0x1w"
+        "skiPass": []
     },
     {
         "resortName": "Skalanka",
@@ -3114,8 +3021,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kmemqmyfhv7xa995fws9wbdbty74"
+        "skiPass": []
     },
     {
         "resortName": "Skolnity",
@@ -3136,8 +3042,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/g81qp8sltxtdigd7ghezfjzez02g"
+        "skiPass": []
     },
     {
         "resortName": "Skomielna Czarna",
@@ -3158,8 +3063,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/h2rpo7hqb1hgoofrt3chdzpxxb5x"
+        "skiPass": []
     },
     {
         "resortName": "Smerekowiec",
@@ -3264,8 +3168,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qhzcdrffqia63tq9ftssxwfnif3v"
+        "skiPass": []
     },
     {
         "resortName": "Stajkowa",
@@ -3433,8 +3336,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zrtzg9s3jj85gowp4ap9v8tla6v6"
+        "skiPass": []
     },
     {
         "resortName": "Szańce",
@@ -3497,8 +3399,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wz4m6lwwititndoatjxrznsoyjlk"
+        "skiPass": []
     },
     {
         "resortName": "Szklana Góra",
@@ -3603,8 +3504,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/f89ow87qgp0i23cx13tzb2ajt3sq"
+        "skiPass": []
     },
     {
         "resortName": "Szymoszkowa",
@@ -3625,8 +3525,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/u4mrvdtdyh6fqe6ic8a74kqd2yyu"
+        "skiPass": []
     },
     {
         "resortName": "Szyndzielnia",
@@ -3689,8 +3588,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4idr5066m3e5e0fp2wm1xvxri3v5"
+        "skiPass": []
     },
     {
         "resortName": "Tomaszów Lubelski",
@@ -3753,8 +3651,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mokcm3vma67va5zch4ntbr4wr5kq"
+        "skiPass": []
     },
     {
         "resortName": "U Gruloka",
@@ -3796,8 +3693,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xqxmw96hvy118pjpznhwffu3c6h6"
+        "skiPass": []
     },
     {
         "resortName": "U Żura",
@@ -3860,8 +3756,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/adoqvxd2kv0c3yti2ih2f0p8r59v"
+        "skiPass": []
     },
     {
         "resortName": "Wieżyca-Koszałkowo",
@@ -3987,8 +3882,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fwiqbih011wjwtp1m0frdn2at3bw"
+        "skiPass": []
     },
     {
         "resortName": "Zadział",
@@ -4093,8 +3987,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fzhwnhzbv2j3a6sbuo3vh5zrvswl"
+        "skiPass": []
     },
     {
         "resortName": "Śnieżnica",
@@ -4178,8 +4071,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ku91c5qrwnp2d3zhw2s61ncouzad"
+        "skiPass": []
     },
     {
         "resortName": "Święta Góra",
@@ -4200,8 +4092,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3pblkcgem2tuckk711qa528y2kzh"
+        "skiPass": []
     },
     {
         "resortName": "Kaimowka",
@@ -4222,8 +4113,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xoquzx3xnpbc9upec082q0ulwhxq"
+        "skiPass": []
     },
     {
         "resortName": "Magura Skipark",
@@ -4244,8 +4134,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rue0faydk92rb628njfpae6l1ili"
+        "skiPass": []
     },
     {
         "resortName": "Gora Czterech Wiatrow",
@@ -4266,8 +4155,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7x7bekzwffy8ebjbmwbstrhqh2jx"
+        "skiPass": []
     },
     {
         "resortName": "Partecznik",
@@ -4288,8 +4176,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3bxy09nn6vpaf3521s14hqwiiaqd"
+        "skiPass": []
     },
     {
         "resortName": "Ryterski Raj",
@@ -4310,8 +4197,7 @@ var polandData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b997oihofis3zt5ljdhbrcslstuh"
+        "skiPass": []
     },
     {
         "resortName": "Zwardoń - Centrum",

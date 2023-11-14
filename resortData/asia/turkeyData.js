@@ -18,8 +18,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ncbj2lr9jgfa7tlqoxkfnxhuhac7"
+        "skiPass": []
     },
     {
         "resortName": "Erciyes",
@@ -40,8 +39,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m9lkee21ec1jbjvxs1o0hnzboxrs"
+        "skiPass": []
     },
     {
         "resortName": "Saklıkent",
@@ -62,8 +60,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/d7abgsibeakb8nr0hnew8lfadx5q"
+        "skiPass": []
     },
     {
         "resortName": "Nemrut",
@@ -105,8 +102,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qvktwx3yg0yt4u3mctusboh9fxk7"
+        "skiPass": []
     },
     {
         "resortName": "Ardahan",
@@ -127,8 +123,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jgbayawa07adc4eikt74j822jneb"
+        "skiPass": []
     },
     {
         "resortName": "Abali",
@@ -233,8 +228,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/d98jkwn5b4xlsp5nrbiax706oy0p"
+        "skiPass": []
     },
     {
         "resortName": "Konakli",
@@ -255,8 +249,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gu1rp0ievae2giiso8b0osbo22ov"
+        "skiPass": []
     },
     {
         "resortName": "Yedikuyular",
@@ -277,8 +270,7 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ap4l0p78vwgofshhb6qgp1mw8iex"
+        "skiPass": []
     },
     {
         "resortName": "Snowland Ski Park",
@@ -299,7 +291,6 @@ var turkeyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ti3txkvx1ctpmwn6wbv8xztea92h"
+        "skiPass": []
     }
 ];

@@ -18,8 +18,7 @@ var kazakhstanData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/if3ufvhyobzzuth49qaofk2kw9ct"
+        "skiPass": []
     },
     {
         "resortName": "AK Bulak",
@@ -40,8 +39,7 @@ var kazakhstanData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m5zdt60yt6n6b7ewug5q7i5xgkh5"
+        "skiPass": []
     },
     {
         "resortName": "Nurtau",
@@ -62,8 +60,7 @@ var kazakhstanData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qbf9wq0yrnpc28kxbxbc8tgzue1b"
+        "skiPass": []
     },
     {
         "resortName": "Tabagan",
@@ -147,7 +144,6 @@ var kazakhstanData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wajdpf47ayi0g3381ql8m35cm9fu"
+        "skiPass": []
     }
 ];

@@ -18,8 +18,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/slitqjeic0b8rau7rqira2tq3hv7"
+        "skiPass": []
     },
     {
         "resortName": "Bydalen",
@@ -40,8 +39,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/08j789gtv95795yjbp0gn9c7rzzf"
+        "skiPass": []
     },
     {
         "resortName": "Dundret",
@@ -62,8 +60,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/x6e2uxqkzerr8yt0yfsvh0rs41dk"
+        "skiPass": []
     },
     {
         "resortName": "Isaberg (Hestra)",
@@ -84,8 +81,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ykat6tddd4wghxppnhg1pw4srwsy"
+        "skiPass": []
     },
     {
         "resortName": "Kläppen",
@@ -106,8 +102,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3phukhjssczpmawvc6b51qdoq3pq"
+        "skiPass": []
     },
     {
         "resortName": "Riksgränsen",
@@ -128,8 +123,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hf0o5az2u07ptwcy5vlsqizgy4p7"
+        "skiPass": []
     },
     {
         "resortName": "Åre (Duved)",
@@ -150,8 +144,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ytendwzj6d6ty078e1e5zlwwgekf"
+        "skiPass": []
     },
     {
         "resortName": "Klövsjö/Storhogna",
@@ -172,8 +165,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nfjmxxd4yycr7b7ilt0d1e0ephkk"
+        "skiPass": []
     },
     {
         "resortName": "Ramundberget",
@@ -194,8 +186,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6mnf1dnp1qy3c2f81pn27s1fz2az"
+        "skiPass": []
     },
     {
         "resortName": "Svanstein",
@@ -216,8 +207,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gqle65ztmpzpvdh01fvwl9gcb1qj"
+        "skiPass": []
     },
     {
         "resortName": "Dackestupet",
@@ -238,8 +228,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xtysma5rebxufbpl40z68n4p1qxx"
+        "skiPass": []
     },
     {
         "resortName": "Tolvmannabacken",
@@ -260,8 +249,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/oe94qqrmt9yjuggklwai4d2o8gyb"
+        "skiPass": []
     },
     {
         "resortName": "Ulricehamn Skicenter",
@@ -282,8 +270,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2wule54fwhbbob17361z2o3e7yjn"
+        "skiPass": []
     },
     {
         "resortName": "Mullsjö Alpin",
@@ -304,8 +291,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4c6tp43d0uggulade6ekvhz7i06f"
+        "skiPass": []
     },
     {
         "resortName": "Ombergsliden",
@@ -326,8 +312,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8llfz3lq35r0i2n3boai5q0ay4z7"
+        "skiPass": []
     },
     {
         "resortName": "Falköping Alpin",
@@ -348,8 +333,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5689i10quj9f8hz0zstpx8rxhg6k"
+        "skiPass": []
     },
     {
         "resortName": "Alebacken",
@@ -391,8 +375,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4cfu7oa7m63jb65egm0arm2bg1pw"
+        "skiPass": []
     },
     {
         "resortName": "Svartbäcksmåla",
@@ -413,8 +396,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/clh12qda0cv1r3v31dp0mvv4pnjb"
+        "skiPass": []
     },
     {
         "resortName": "Spökbacken",
@@ -435,8 +417,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/no5a4rb1bpfzjg1r44vfafhce6wx"
+        "skiPass": []
     },
     {
         "resortName": "Ekebyhovsbacken",
@@ -457,8 +438,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gfeoy9fakhmgkyszof7jdmcy95aj"
+        "skiPass": []
     },
     {
         "resortName": "Ski Sunne",
@@ -479,8 +459,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0mzgqt8az7igtbrhjwacgrcm1ypn"
+        "skiPass": []
     },
     {
         "resortName": "Kappruet",
@@ -501,8 +480,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xheldblr803lynrysx1n1kmgnvuc"
+        "skiPass": []
     },
     {
         "resortName": "Valfjället",
@@ -523,8 +501,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uz3j1n4uwwtdmu4yqnhzckamrrk6"
+        "skiPass": []
     },
     {
         "resortName": "Säfsen",
@@ -545,8 +522,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/67wlgwlcgkry760jwj947qdr4w32"
+        "skiPass": []
     },
     {
         "resortName": "Källviksbacken",
@@ -567,8 +543,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3lf86szv8vuywvgzlkz6q0l28b33"
+        "skiPass": []
     },
     {
         "resortName": "Orsa Grönklitt",
@@ -589,8 +564,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vgj9sp0dkc0lphes438g40bkyxvn"
+        "skiPass": []
     },
     {
         "resortName": "Almåsa",
@@ -611,8 +585,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3c51wmnm1sw58cmnwvl9ovxxu4rw"
+        "skiPass": []
     },
     {
         "resortName": "Skulebacken (Höga Kusten Liften)",
@@ -633,8 +606,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/iro3ex2yz08xfr8l8xowxdoz6q3w"
+        "skiPass": []
     },
     {
         "resortName": "Solbergsbacken",
@@ -655,8 +627,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zc6lp70y6yecf219bq6z0nwd7aay"
+        "skiPass": []
     },
     {
         "resortName": "Bubergsgården",
@@ -677,8 +648,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yvm3alxan4wgb3qgpniigoe16i7d"
+        "skiPass": []
     },
     {
         "resortName": "Nalovardo",
@@ -699,8 +669,7 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/527a9wioil3p4n93mrbn0m020rv3"
+        "skiPass": []
     },
     {
         "resortName": "Tjamstan",
@@ -721,7 +690,6 @@ var swedenData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/82vjvf3bijsvrw8xijsxedha873l"
+        "skiPass": []
     }
 ];

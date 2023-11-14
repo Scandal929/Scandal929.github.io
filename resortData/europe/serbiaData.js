@@ -18,8 +18,7 @@ var serbiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0sxc8alje75mpmzprtgnzxe536zk"
+        "skiPass": []
     },
     {
         "resortName": "Tornik (Zlatibor)",
@@ -40,7 +39,6 @@ var serbiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zm951j8fjw0pvi1x18ajbs8kexxw"
+        "skiPass": []
     }
 ];

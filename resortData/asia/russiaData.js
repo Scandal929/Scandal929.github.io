@@ -18,8 +18,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m9rlrr7977apn34pmz3puz452ais"
+        "skiPass": []
     },
     {
         "resortName": "Шерегеш (Sheregesh)",
@@ -40,8 +39,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/n4onz42qcpyskv5wcdtysvqssoo0"
+        "skiPass": []
     },
     {
         "resortName": "Завьялиха (Zavyalikha)",
@@ -62,8 +60,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8pp2o6xrrwlkij1bljplacrtlfx2"
+        "skiPass": []
     },
     {
         "resortName": "Цей (Tsey)",
@@ -84,8 +81,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/846wry4uwth287zloutcrq9lta3y"
+        "skiPass": []
     },
     {
         "resortName": "Сорочаны (Sorochany)",
@@ -106,8 +102,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dppvsj2iph7g1l1twsfofgdz003k"
+        "skiPass": []
     },
     {
         "resortName": "Абзаково (Abzakovo)",
@@ -128,8 +123,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vb3e11t46pv24r0bcp9jvrqaui67"
+        "skiPass": []
     },
     {
         "resortName": "Альпика-Сервис (Alpika Service, Sochi 2014)",
@@ -150,8 +144,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2lzr4inopdqz0viltc3zhj5zli94"
+        "skiPass": []
     },
     {
         "resortName": "Золотая Долина (Zolotaya Dolina)",
@@ -172,8 +165,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z2pv1v8ucv7a8cp60olyoujz5rxm"
+        "skiPass": []
     },
     {
         "resortName": "Большой Вудъявр (Big Wood, Kirovsk)",
@@ -194,8 +186,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/r15pmebo48vnx84kw1208kpe8wc2"
+        "skiPass": []
     },
     {
         "resortName": "Роза Хутор (Rosa Khutor, Krasnaya Polyana, Sochi)",
@@ -216,8 +207,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/x5q1cz7mzzl26g6ft21h48flu3uq"
+        "skiPass": []
     },
     {
         "resortName": "Солнечная Долина (Solnechnaya Dolina)",
@@ -238,8 +228,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ggkms1c1fx23il2aarff7w2t8l3s"
+        "skiPass": []
     },
     {
         "resortName": "Гранд Отель Поляна | Gazprom Mountain Resort (Laura) (Krasnaya Polyana, Sochi)",
@@ -260,8 +249,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gbjrbdsvonpftqvf3093medpl1pv"
+        "skiPass": []
     },
     {
         "resortName": "Кукисвумчорр (Kirovsk)",
@@ -282,8 +270,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/u8lw8wlofyqhirdo32dpqk4uip9a"
+        "skiPass": []
     },
     {
         "resortName": "Малахово (Malahovo)",
@@ -304,8 +291,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rm03bf447sg2yb36i8u8ui0mlnqi"
+        "skiPass": []
     },
     {
         "resortName": "Горная Карусель (Gornaya Karusel, Krasnaya Polyana, Sochi 2014)",
@@ -326,8 +312,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/x8jb08ov9y3ue3iux2cf5woa0fue"
+        "skiPass": []
     },
     {
         "resortName": "Коласпортланд (Mount Aykuayvenchorr, Kolasportland, Kirovsk)",
@@ -348,8 +333,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ocq1qpza09c5ywavhtsjxnstiike"
+        "skiPass": []
     },
     {
         "resortName": "Красное озеро (Krasnoye Ozero)",
@@ -370,8 +354,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xvrmza3tyrad1fpugb5eevi91i8x"
+        "skiPass": []
     },
     {
         "resortName": "Фанпарк Бобровый лог (Fanpark Bobrovy Log)",
@@ -392,8 +375,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/27etuvsk8dlfnibyn87ewnyef6wk"
+        "skiPass": []
     },
     {
         "resortName": "Туутари-Парк (Tuutari-park)",
@@ -414,8 +396,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wqa5hkkmfwtv6locz61mr9uobq1e"
+        "skiPass": []
     },
     {
         "resortName": "Нечкино (Nechkino)",
@@ -436,8 +417,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6qu78jgcqjl0nra35tk59pfofamg"
+        "skiPass": []
     },
     {
         "resortName": "Армхи (Armkhi)",
@@ -458,8 +438,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/litm69e10uv4i05g43i3duff1ozf"
+        "skiPass": []
     },
     {
         "resortName": "Норд Стар (Nord Star)",
@@ -501,8 +480,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/oiph7n8zis2zl1p9tci6icog9o0l"
+        "skiPass": []
     },
     {
         "resortName": "Боровской курган (Borovskoy kurgan)",
@@ -523,8 +501,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wyupwxmcsc61bxk4k41tuw2ms0dn"
+        "skiPass": []
     },
     {
         "resortName": "Кант (Kant)",
@@ -545,8 +522,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qauucf1zfn3khulmktm4pz3hz6bw"
+        "skiPass": []
     },
     {
         "resortName": "Лата-Трэк (Lata-Track)",
@@ -567,8 +543,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/twoo83ec8nqgv17au38uu8tgm5d2"
+        "skiPass": []
     },
     {
         "resortName": "Лисья гора (Fox hill)",
@@ -589,8 +564,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8gc6pv95q4zlfqyg1svf1jnfgzsv"
+        "skiPass": []
     },
     {
         "resortName": "Лоза (Loza)",
@@ -611,8 +585,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zmmvdfk482qmk53g8nyju47pkru5"
+        "skiPass": []
     },
     {
         "resortName": "Степаново (Stepanovo)",
@@ -633,8 +606,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m6mynk0wfh3lzz64ggc219ptz3qz"
+        "skiPass": []
     },
     {
         "resortName": "Волен (Volen)",
@@ -655,8 +627,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/45v4oafirpbeggeo7me02wedhvyx"
+        "skiPass": []
     },
     {
         "resortName": "Шуколово (Shukolovo)",
@@ -677,8 +648,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1faeh8hsaf6krdl2s0wk3gp6zh2u"
+        "skiPass": []
     },
     {
         "resortName": "Яхрома (Yakhroma)",
@@ -699,8 +669,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6fmcfkpkj57xzjtcp6vmdd9o9an9"
+        "skiPass": []
     },
     {
         "resortName": "Арсгора (Arsgora)",
@@ -721,8 +690,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vdpne8ph5cj4nu176152sa5s3rv5"
+        "skiPass": []
     },
     {
         "resortName": "Горный Воздух (Gorny Vozdukh Mountain Air)",
@@ -743,8 +711,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z9arysjo3p3r5ikszkylbl2r1h31"
+        "skiPass": []
     },
     {
         "resortName": "Комета (Kometa)",
@@ -765,8 +732,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9x3dkeve0bri3jqbnzurzo7a7kxf"
+        "skiPass": []
     },
     {
         "resortName": "Медвежья долина (Medvezhya dolina)",
@@ -787,8 +753,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3n0rd1oles6a2lq5su56fp58zv5p"
+        "skiPass": []
     },
     {
         "resortName": "Эдельвейс (Edelweis)",
@@ -830,8 +795,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wji61wogpb5jblg357okb59zkkap"
+        "skiPass": []
     },
     {
         "resortName": "Малиновка (Malinovka)",
@@ -852,8 +816,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uxazo4ugcmi2yf4ofq24iombdjik"
+        "skiPass": []
     },
     {
         "resortName": "Мечка (Mechka)",
@@ -874,8 +837,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/79lnfvz9jemf0ns75714zelxqliw"
+        "skiPass": []
     },
     {
         "resortName": "Ялгора (Yalgora)",
@@ -896,8 +858,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/u695v53qk95mt3objlh0fc3ggq6b"
+        "skiPass": []
     },
     {
         "resortName": "Авальман (Avalman)",
@@ -918,8 +879,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zs0tpqqs5ckdy100qvzprywryjwb"
+        "skiPass": []
     },
     {
         "resortName": "Бирюзовая Катунь (Biryuzovaya Katun)",
@@ -940,8 +900,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/t3qhmyqpyyyo4jy0qjsk8q8d0mu9"
+        "skiPass": []
     },
     {
         "resortName": "Горная Саланга (Gornaya Salanga)",
@@ -962,8 +921,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/agvv38yoh3nlbfpah90rjymusr6m"
+        "skiPass": []
     },
     {
         "resortName": "Гора Соболиная (Sobolinaya)",
@@ -984,8 +942,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/759eie74ok5pse41zs9z8okwdmdr"
+        "skiPass": []
     },
     {
         "resortName": "Гора Золотая (Mt. Zolotaya or Gold Mt.)",
@@ -1006,8 +963,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qgi2g1oj2brpmp8w3hx2krkxswge"
+        "skiPass": []
     },
     {
         "resortName": "Гладенькая (Gladenkaya)",
@@ -1028,8 +984,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ta4qzizbb6ifsr41hgswic22gwwy"
+        "skiPass": []
     },
     {
         "resortName": "Дивный (Divnyi)",
@@ -1050,8 +1005,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/p87vlsj6ygyrpcq6a3hlyd7jzciw"
+        "skiPass": []
     },
     {
         "resortName": "Ергаки (Ergaki)",
@@ -1072,8 +1026,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/aav56bla8ts23th3bxolpcisfsz6"
+        "skiPass": []
     },
     {
         "resortName": "Истлэнд (Eastland)",
@@ -1094,8 +1047,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/iymaj4vc12wmikezcc0fciy0erud"
+        "skiPass": []
     },
     {
         "resortName": "Манжерок (Manzherok)",
@@ -1116,8 +1068,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kndrk9jqkt8wi9d7io52oocu3h9t"
+        "skiPass": []
     },
     {
         "resortName": "Новососедово (Novososedovo)",
@@ -1138,8 +1089,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dbghxsdmiqb636i8lri1t4rikkvy"
+        "skiPass": []
     },
     {
         "resortName": "Танай (Tanay)",
@@ -1160,8 +1110,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sd8q2u3jvomeheggyt7h6ooayh73"
+        "skiPass": []
     },
     {
         "resortName": "Трехгорье (Trehgorye)",
@@ -1182,8 +1131,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mny4wmvjd8h305zcreaiudct7hgd"
+        "skiPass": []
     },
     {
         "resortName": "Юрманка (Urmanka)",
@@ -1204,8 +1152,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/t3li2b8dwlh5yohcmoc0sdyp95n7"
+        "skiPass": []
     },
     {
         "resortName": "Гора Вишневая (Gora Vishnevaya)",
@@ -1226,8 +1173,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/r0z920kcg4lg8n1o6p0s66rx5vrx"
+        "skiPass": []
     },
     {
         "resortName": "Гора Волчиха (Volchikha)",
@@ -1248,8 +1194,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/bp3m1gringhwpqesdi6j945qhu1p"
+        "skiPass": []
     },
     {
         "resortName": "Гора Белая (Belaya)",
@@ -1270,8 +1215,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/j3gwiogqq7v4jxg2fvichfyr78yk"
+        "skiPass": []
     },
     {
         "resortName": "Глушата (Glushata)",
@@ -1292,8 +1236,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9ddz0h5art97ljwn5xkcftthxhbi"
+        "skiPass": []
     },
     {
         "resortName": "Ашатли (Ashatly)",
@@ -1314,8 +1257,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xn6dpi634fx08xfztprbt28i9hy8"
+        "skiPass": []
     },
     {
         "resortName": "Аджигардак (Adzhigardak)",
@@ -1336,8 +1278,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uwlh5onenihvopflrhkliu5lqjjh"
+        "skiPass": []
     },
     {
         "resortName": "Ак-Йорт (Ak-Yort)",
@@ -1358,8 +1299,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wx1iawft1e1edw4lbo5n0c7o9i2i"
+        "skiPass": []
     },
     {
         "resortName": "Гора Ежовая (Ezhovaya)",
@@ -1380,8 +1320,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5ucq7dnwxgg4f6t4g32xp01bv3hv"
+        "skiPass": []
     },
     {
         "resortName": "Гора Лиственная (Gora Listvennaya)",
@@ -1423,8 +1362,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/p71g6j0pd6z2y0zd7o532444rkc3"
+        "skiPass": []
     },
     {
         "resortName": "Долина (Dolina)",
@@ -1445,8 +1383,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/570hqvslirc3eftscios29p35sur"
+        "skiPass": []
     },
     {
         "resortName": "Евразия (Euroasia)",
@@ -1467,8 +1404,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wyk8op39q9vtscvad8cgw45gvjsm"
+        "skiPass": []
     },
     {
         "resortName": "Исеть (Iset)",
@@ -1489,8 +1425,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cuwv5p5hewimg74ah06t4xau00by"
+        "skiPass": []
     },
     {
         "resortName": "Каменный мыс (Kamennyi mys)",
@@ -1511,8 +1446,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2f8sk9a3rw64096ac6y3ddfod8k6"
+        "skiPass": []
     },
     {
         "resortName": "Красный Ключ (Krasnyy Klyuch)",
@@ -1554,8 +1488,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0mbn9pp3thbq50hlxz5u2gu357p2"
+        "skiPass": []
     },
     {
         "resortName": "Полазна (Polazna)",
@@ -1576,8 +1509,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/45rvlo73rputckm0554uwkvjzumq"
+        "skiPass": []
     },
     {
         "resortName": "Такман (Takman)",
@@ -1598,8 +1530,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wtvn75414lv5janrkqjoghng8zxq"
+        "skiPass": []
     },
     {
         "resortName": "Уктус (Uktus)",
@@ -1620,8 +1551,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ppgbl7f3wvbk00gpceipuc2ebhpv"
+        "skiPass": []
     },
     {
         "resortName": "Уязы-Тау (Uyazy-Tau)",
@@ -1642,8 +1572,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/h7n8q7hpx0j3zqdp7juw5fuj42qp"
+        "skiPass": []
     },
     {
         "resortName": "Чекерил (Chekeril)",
@@ -1664,8 +1593,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/c3rvs50cihskrhygoxsye8kqg7ix"
+        "skiPass": []
     },
     {
         "resortName": "Ассоль (Assol volsk)",
@@ -1686,8 +1614,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lsy81fu5j2023yooad0pb3vudhco"
+        "skiPass": []
     },
     {
         "resortName": "Большая Кузьминка (Bolshaya Kuzminka)",
@@ -1729,8 +1656,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/46ni72swt7aiqhtnhztmg8wckf92"
+        "skiPass": []
     },
     {
         "resortName": "Горка (Gorka)",
@@ -1772,8 +1698,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ubfc430qncsh0ahxrm2g8vgo31ye"
+        "skiPass": []
     },
     {
         "resortName": "Красная Глинка (Krasnaya Glinka)",
@@ -1794,8 +1719,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kvojqiuqtfqj8p0db9l44mkfrtyh"
+        "skiPass": []
     },
     {
         "resortName": "Казань (Kazan)",
@@ -1816,8 +1740,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sfspmvmq63aihcfukizwuivkjywc"
+        "skiPass": []
     },
     {
         "resortName": "Зеленецкие Альпы (Zeleneckii Alps)",
@@ -1859,8 +1782,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z2zrqu0ks6fddpuqzivb81dogagb"
+        "skiPass": []
     },
     {
         "resortName": "Горки (Gorki)",
@@ -1881,8 +1803,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rv0n8po5kjr21djs3kglcw7spslp"
+        "skiPass": []
     },
     {
         "resortName": "Николина гора (Nikolina Gora)",
@@ -1924,8 +1845,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/w0b76iyq4t1k6zhlo8jkwg82m4vt"
+        "skiPass": []
     },
     {
         "resortName": "Пужалова гора (Puzhalova gora)",
@@ -1946,8 +1866,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0neuhpoqic2dxx4m1c6yc86a49dn"
+        "skiPass": []
     },
     {
         "resortName": "Спин-Спорт (Spin-Sport)",
@@ -1968,8 +1887,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0rbplxg0vlw1ksg0jqmeik2kxyvw"
+        "skiPass": []
     },
     {
         "resortName": "Хабарское (Khabarskoe)",
@@ -1990,8 +1908,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gufd1qme5633kqqhib7l72lfvvc6"
+        "skiPass": []
     },
     {
         "resortName": "Хвалынский (Hvalin)",
@@ -2012,8 +1929,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qp713iv5vpqq4czuhlfpl43axuyq"
+        "skiPass": []
     },
     {
         "resortName": "Шакша (Shaksha)",
@@ -2034,8 +1950,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/smxy2png5nd1rzywwyxr26juu3kk"
+        "skiPass": []
     },
     {
         "resortName": "Ян (Yan)",
@@ -2056,8 +1971,7 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yl89a0iq552yts2dki908phkmkn6"
+        "skiPass": []
     },
     {
         "resortName": "Ключи - Klyuchi",
@@ -2099,7 +2013,6 @@ var russiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lrk5o6fyopgtntjgd9j7ez2gw5yx"
+        "skiPass": []
     }
 ];

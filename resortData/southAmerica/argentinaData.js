@@ -18,8 +18,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uynit6twdc4zzdizas44zh3gf8og"
+        "skiPass": []
     },
     {
         "resortName": "Cerro Bayo",
@@ -40,8 +39,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/k1wpx49r0ltzmkq2lutfeeob9nh5"
+        "skiPass": []
     },
     {
         "resortName": "Cerro Catedral",
@@ -62,8 +60,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fxbflsr020nnol5bb6jts55weco5"
+        "skiPass": []
     },
     {
         "resortName": "Cerro Castor",
@@ -84,8 +81,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yif0ieu7rdgk1btetbhlbvnfs12w"
+        "skiPass": []
     },
     {
         "resortName": "Chapelco",
@@ -106,8 +102,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yom0q30gne6v34kuou0uszrydm34"
+        "skiPass": []
     },
     {
         "resortName": "Glacier El Martial",
@@ -128,8 +123,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9jkmpp90ji5qac8a8nh3vto0zjbk"
+        "skiPass": []
     },
     {
         "resortName": "La Hoya",
@@ -150,8 +144,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zdcijoxgo1qtv1ptxwspuzwjemd2"
+        "skiPass": []
     },
     {
         "resortName": "Las Leñas",
@@ -172,8 +165,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/55bk3nwg3wsa29y9c36bsl5qk0tk"
+        "skiPass": []
     },
     {
         "resortName": "Los Penitentes",
@@ -194,8 +186,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dk8zv21bf7834q3kapo1pajgsbao"
+        "skiPass": []
     },
     {
         "resortName": "Perito Moreno",
@@ -216,8 +207,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/07gxb2a10lkixwwcgzm9gih06uvd"
+        "skiPass": []
     },
     {
         "resortName": "Valdelen",
@@ -238,8 +228,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/evmn9b0qdiztxcl1cb7zzd7c06xu"
+        "skiPass": []
     },
     {
         "resortName": "Vallecitos",
@@ -260,8 +249,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pp9ofg7ut6gguqvhqmlz6fjmkfo2"
+        "skiPass": []
     },
     {
         "resortName": "Batea Mahuida",
@@ -282,8 +270,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3vfujh04nz44y7c5787le7f49xwq"
+        "skiPass": []
     },
     {
         "resortName": "Los Puquios (Aconcagua Park)",
@@ -304,8 +291,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2osued6yl2xckbsjtm6njls2k4y7"
+        "skiPass": []
     },
     {
         "resortName": "Piedras Blancas",
@@ -326,8 +312,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/712zbphm2o8lbfl1713x18xqw37p"
+        "skiPass": []
     },
     {
         "resortName": "Complejo Turístico Teleférico Cerro Otto",
@@ -348,8 +333,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9llfy3hvss4ygeqoj74pen0sdk50"
+        "skiPass": []
     },
     {
         "resortName": "Primeros Pinos",
@@ -391,8 +375,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ne7wyuso39btefzqxgu7854ppjiv"
+        "skiPass": []
     },
     {
         "resortName": "Baguales Mountain Reserve",
@@ -413,8 +396,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jfr6jie2doc2dznb4nj978yefkcu"
+        "skiPass": []
     },
     {
         "resortName": "Monte Bianco",
@@ -435,8 +417,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qv4prvmgianwq8nmogp6om9ax2w7"
+        "skiPass": []
     },
     {
         "resortName": "Parque de Nieve El Llano",
@@ -520,8 +501,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/bf96v6f1iylb6cn2kbowbvla1u4g"
+        "skiPass": []
     },
     {
         "resortName": "Lago Hermoso Mountain Park",
@@ -542,8 +522,7 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/i2xcsjnxkytn7ss7ekjjqexwrpre"
+        "skiPass": []
     },
     {
         "resortName": "Arroyo Partido Parque de Nieve",
@@ -627,7 +606,6 @@ var argentinaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lpc5w06o301azayua2jmqxj9125p"
+        "skiPass": []
     }
 ];

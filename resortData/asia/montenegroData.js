@@ -18,8 +18,7 @@ var montenegroData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/98uhr26i9olz3fw22g8lfthb2qha"
+        "skiPass": []
     },
     {
         "resortName": "Lokve",

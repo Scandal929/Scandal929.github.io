@@ -18,8 +18,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2sbl3za34zhlxvsxal0cvkvr53lo"
+        "skiPass": []
     },
     {
         "resortName": "Azuga",
@@ -40,8 +39,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kwlb6lzj7ftbfigz0575odvrcycn"
+        "skiPass": []
     },
     {
         "resortName": "Predeal",
@@ -62,8 +60,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/59lqptm6apqj5nqk7ucdce7vqdez"
+        "skiPass": []
     },
     {
         "resortName": "Poiana Braşov",
@@ -84,8 +81,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/l6eobwdylnmju8nak6kv7ttvpfmw"
+        "skiPass": []
     },
     {
         "resortName": "Păltiniş",
@@ -106,8 +102,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9j9oea2b3xwine6lqzs63ewh6tqw"
+        "skiPass": []
     },
     {
         "resortName": "Straja",
@@ -128,8 +123,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/g11x4hyirt3zixhtmunammdmg6b7"
+        "skiPass": []
     },
     {
         "resortName": "Arieşeni",
@@ -150,8 +144,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/c5vl12ffr3hrm5mu0rgapiulkjgo"
+        "skiPass": []
     },
     {
         "resortName": "Rânca",
@@ -172,8 +165,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4owbz6xsxv27pi51tloton4b4t92"
+        "skiPass": []
     },
     {
         "resortName": "Vidra - Transalpina",
@@ -194,8 +186,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2w3gw58wvx05l49sio0mw0pnpdhr"
+        "skiPass": []
     },
     {
         "resortName": "Vatra Dornei",
@@ -216,8 +207,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rtpbhlyiszl3lloyibywv13ocxbi"
+        "skiPass": []
     },
     {
         "resortName": "Arena Platos",
@@ -238,8 +228,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8ugykzqsfbilhno9kgkt16axwdqb"
+        "skiPass": []
     },
     {
         "resortName": "Buscat / Băișoara",
@@ -260,8 +249,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zhhhwc2arbp8nqj75fydo1vhhfld"
+        "skiPass": []
     },
     {
         "resortName": "Icoana Cavnic",
@@ -282,8 +270,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pfp228r5cjliochrvf1j7u5v7yba"
+        "skiPass": []
     },
     {
         "resortName": "Harghita Băi",
@@ -304,8 +291,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/up9g9d3l0o80nnlsocv0q2lwwjja"
+        "skiPass": []
     },
     {
         "resortName": "Madarasi Hargita",
@@ -326,8 +312,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/v7zeegdcqsy7gjsuyqwip70u0588"
+        "skiPass": []
     },
     {
         "resortName": "Havas Bucsin",
@@ -369,8 +354,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3kagr1pq6qynxkvi57fmze5cqrtd"
+        "skiPass": []
     },
     {
         "resortName": "Sovata - Alunis",
@@ -391,8 +375,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pffym4s429dw17jdr3p9qg811ug9"
+        "skiPass": []
     },
     {
         "resortName": "Bánffydongó - Dangau Mare",
@@ -413,8 +396,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/k48jcbhrcfzlenc4wn3wh0o2xg47"
+        "skiPass": []
     },
     {
         "resortName": "Parâng",
@@ -435,8 +417,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ys9fx1dvs4k7vyer2zg9xrihbmgf"
+        "skiPass": []
     },
     {
         "resortName": "Izvoare (Ivófalu)",
@@ -478,8 +459,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/34yllrg8zea8x5oc2lzvg8ustn8r"
+        "skiPass": []
     },
     {
         "resortName": "Mălini - Valeni village",
@@ -521,8 +501,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z5y06tcqqg8c7iuye16b3lxty9mc"
+        "skiPass": []
     },
     {
         "resortName": "Feleacu (Cluj-Napoca)",
@@ -543,8 +522,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1z08rjdfah6y2zctnr9hjlswkous"
+        "skiPass": []
     },
     {
         "resortName": "Şuior - Mogoşa",
@@ -565,8 +543,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xqulgnf1a4jt0x24iepzwfw3my1a"
+        "skiPass": []
     },
     {
         "resortName": "Şureanu",
@@ -587,8 +564,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pi2tcpdocwxhmseoo09bgpvu4vjs"
+        "skiPass": []
     },
     {
         "resortName": "Baile Tusnad",
@@ -609,8 +585,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/l7pxfr48lxbldkvgkh3d9nctygmj"
+        "skiPass": []
     },
     {
         "resortName": "Balea Lac",
@@ -652,8 +627,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4wa6egofa2xjrzg0n69nvl07cqen"
+        "skiPass": []
     },
     {
         "resortName": "Borsafüred",
@@ -674,8 +648,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4bnzd610r739u7a5zjoxqnza58bc"
+        "skiPass": []
     },
     {
         "resortName": "Borsec",
@@ -696,8 +669,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ad1898ypwaky8idrhnb8uck862df"
+        "skiPass": []
     },
     {
         "resortName": "Bunloc",
@@ -739,8 +711,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fikejtagrdys64ymgwtb805xgpra"
+        "skiPass": []
     },
     {
         "resortName": "Campulung Moldovenesc",
@@ -782,8 +753,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xfs3pd7trikz6intp5eppt8tawlr"
+        "skiPass": []
     },
     {
         "resortName": "Iasi",
@@ -825,8 +795,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/16tvleqssp62ogxcc8va8rcb20xw"
+        "skiPass": []
     },
     {
         "resortName": "Nemira",
@@ -868,8 +837,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/eyagt84rzynnt9959rzb24vmif8n"
+        "skiPass": []
     },
     {
         "resortName": "Smart Ski Slopes",
@@ -932,8 +900,7 @@ var romaniaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rm7yqkknoeuwuj70ejkfy9l4olo1"
+        "skiPass": []
     },
     {
         "resortName": "Veresvirág",

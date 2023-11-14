@@ -18,8 +18,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9svwof5dwh8zczlkihofomkgnfpg"
+        "skiPass": []
     },
     {
         "resortName": "Astún",
@@ -40,8 +39,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cnm10wl2z3xqaza2ma0cl3v5sehg"
+        "skiPass": []
     },
     {
         "resortName": "Baqueira-Beret",
@@ -62,8 +60,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2fpm58apsmru4618oelc16img4mv"
+        "skiPass": []
     },
     {
         "resortName": "Boí-Taüll",
@@ -84,8 +81,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4olujvkiri08s5ipqal23553ksct"
+        "skiPass": []
     },
     {
         "resortName": "Candanchú",
@@ -106,8 +102,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mq8u5c52qzegoh9jm30x5qifldlh"
+        "skiPass": []
     },
     {
         "resortName": "Cerler",
@@ -128,8 +123,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hj4jwa6bbdi8i7u1wavz8p3khwm7"
+        "skiPass": []
     },
     {
         "resortName": "Formigal",
@@ -150,8 +144,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b45r64xiv7alekmjzkstkk56wj0w"
+        "skiPass": []
     },
     {
         "resortName": "Panticosa-Los Lagos",
@@ -172,8 +165,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nonhjp2br0d3odhoilazeew2h9qc"
+        "skiPass": []
     },
     {
         "resortName": "Port del Comte",
@@ -194,8 +186,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xn9faizx96d3l45u0wo5oe1y22ni"
+        "skiPass": []
     },
     {
         "resortName": "Vallter 2000",
@@ -216,8 +207,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uy64uuej5rxgivc5etpkys57spq3"
+        "skiPass": []
     },
     {
         "resortName": "Vall de Núria",
@@ -238,8 +228,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/geo91fdehoom06sgnr1amss2rsrf"
+        "skiPass": []
     },
     {
         "resortName": "Alto Campoo",
@@ -260,8 +249,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0weyg17827mmx86vj4j7eizfongd"
+        "skiPass": []
     },
     {
         "resortName": "Manzaneda",
@@ -282,8 +270,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b7g6x0d1xw3xx5sxdse6oto41j4g"
+        "skiPass": []
     },
     {
         "resortName": "Valgrande-Pajares",
@@ -304,8 +291,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/egc7m3jcu1n3jax6477sgcfwdvdu"
+        "skiPass": []
     },
     {
         "resortName": "San Isidro",
@@ -326,8 +312,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dyvhy23tnaanl27lzpqb6r9uroqo"
+        "skiPass": []
     },
     {
         "resortName": "La Covatilla",
@@ -348,8 +333,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7ml0k4w5ih6ot9210wubla4awh55"
+        "skiPass": []
     },
     {
         "resortName": "La Pinilla",
@@ -370,8 +354,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/s95kxod4bg4r1jqy9j72zbkdfu0z"
+        "skiPass": []
     },
     {
         "resortName": "Puerto de Navacerrada",
@@ -392,8 +375,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xutmecq27znlyife8bw2da5z6o7c"
+        "skiPass": []
     },
     {
         "resortName": "Valdesqui",
@@ -414,8 +396,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/x1rqf1fd9o56w31ex62lgqb6umrh"
+        "skiPass": []
     },
     {
         "resortName": "Javalambre",
@@ -436,8 +417,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/061yt8c1p5i0a4tea06leies0kb2"
+        "skiPass": []
     },
     {
         "resortName": "Valdelinares",
@@ -458,8 +438,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zneobbukmxrwq3nrteoq60pxd85o"
+        "skiPass": []
     },
     {
         "resortName": "Valdezcaray",
@@ -480,8 +459,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uzdh9mkzfkrvghlqumwcvsv47tno"
+        "skiPass": []
     },
     {
         "resortName": "Sierra Nevada",
@@ -502,8 +480,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3w49h0efj59c2sv7epz7fhubytkx"
+        "skiPass": []
     },
     {
         "resortName": "Leitariegos",
@@ -524,8 +501,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/n5iq70byexve1cuy3513ps9sot2x"
+        "skiPass": []
     },
     {
         "resortName": "Fuentes de Invierno",
@@ -546,8 +522,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0g5ltew9fezbreowbdk1y0o12z70"
+        "skiPass": []
     },
     {
         "resortName": "Tavascan",
@@ -568,8 +543,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vq2hfhegln0adg5zvzvlsby82a5l"
+        "skiPass": []
     },
     {
         "resortName": "Espot",
@@ -590,8 +564,7 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1nijdc47ayxpsab8gmsig8m6qlvf"
+        "skiPass": []
     },
     {
         "resortName": "Port Ainé",
@@ -612,7 +585,6 @@ var spainData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mmgoczi8sq3ahux913dksg9p9eyd"
+        "skiPass": []
     }
 ];

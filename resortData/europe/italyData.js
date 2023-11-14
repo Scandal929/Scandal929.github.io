@@ -20,8 +20,7 @@ var italyData = [
         },
         "skiPass": [
             "Ikon"
-        ],
-        "mapLink": "https://files.skimap.org/507r4fbiax8wzm7btr4mwjle8ver"
+        ]
     },
     {
         "resortName": "Alpe Ciamporino",
@@ -42,8 +41,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/28n07238983atw2c9wkf0vy38dyn"
+        "skiPass": []
     },
     {
         "resortName": "Alta Badia - Corvara - La Villa - San Cassiano",
@@ -64,8 +62,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gf9pje5x431s2oegyd5rawq395wn"
+        "skiPass": []
     },
     {
         "resortName": "Aprica",
@@ -86,8 +83,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/g5f727c0pd33b5ahdy67av6up4jw"
+        "skiPass": []
     },
     {
         "resortName": "Bardonecchia",
@@ -108,8 +104,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mx2exgtdh6duh3va8kolx70f411z"
+        "skiPass": []
     },
     {
         "resortName": "Bormio",
@@ -130,8 +125,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wvr4l5646crbbvg8r5lcixuyh6zy"
+        "skiPass": []
     },
     {
         "resortName": "Campitello Matese",
@@ -152,8 +146,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/i2yb02oon7y21dtxkn33g17tvfn0"
+        "skiPass": []
     },
     {
         "resortName": "Val di Fassa - Canazei",
@@ -174,8 +167,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m2p8um5jsxj8fisgp35vzmd6jkcx"
+        "skiPass": []
     },
     {
         "resortName": "Cavalese (Alpe Cermis)",
@@ -196,8 +188,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tq5o9xr9lmuqvexa8l2548hggma6"
+        "skiPass": []
     },
     {
         "resortName": "Cortina d'Ampezzo (Faloria - Cristallo - Mietres - Tofana)",
@@ -218,8 +209,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ojp6ye93bz3kaj5o4orqzhjrwkey"
+        "skiPass": []
     },
     {
         "resortName": "Courmayeur",
@@ -240,8 +230,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/17cd7buyighoxpk7ynhdp8g6x5dx"
+        "skiPass": []
     },
     {
         "resortName": "3 Zinnen Dolomites (Dobbiaco - San Candido - Braies - Sesto - Alta Pusteria)",
@@ -262,8 +251,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/is6mg48kj8or93xzttooth6w3mam"
+        "skiPass": []
     },
     {
         "resortName": "Dolomiti Superski",
@@ -287,8 +275,7 @@ var italyData = [
         "skiPass": [
             "Epic",
             "Ikon"
-        ],
-        "mapLink": "https://files.skimap.org/scaxspk06vf6wflrjzsef9wr3ezr"
+        ]
     },
     {
         "resortName": "Etna",
@@ -309,8 +296,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4piq0ak5ax8sebj4lggb7ych0oin"
+        "skiPass": []
     },
     {
         "resortName": "Livigno",
@@ -331,8 +317,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tov1c9m31yep40ro1rwwav10ojec"
+        "skiPass": []
     },
     {
         "resortName": "Malcesine - Monte Baldo",
@@ -353,8 +338,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/419omb5xnyqel3s6egh1ehg3g08t"
+        "skiPass": []
     },
     {
         "resortName": "Macugnaga",
@@ -375,8 +359,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/u8hp120zvji3msb9t243rx4fw71c"
+        "skiPass": []
     },
     {
         "resortName": "Madonna di Campiglio / Folgarida-Marilleva / Pinzolo",
@@ -397,8 +380,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/x8odq4wpod0mfpx88dw6txheh47p"
+        "skiPass": []
     },
     {
         "resortName": "Meran 2000",
@@ -419,8 +401,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xnaddqicsx1frf3k0ch711vdkk7m"
+        "skiPass": []
     },
     {
         "resortName": "Monte Bondone",
@@ -441,8 +422,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pm2ll2hmoyihfb5ey655hpcduxzi"
+        "skiPass": []
     },
     {
         "resortName": "Montecampione",
@@ -463,8 +443,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/trjqawkl7d9zyuqlcej3g96ncw6o"
+        "skiPass": []
     },
     {
         "resortName": "Monte Cimone",
@@ -485,8 +464,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lvb8924n1pjm43dbpnoji8a8uj51"
+        "skiPass": []
     },
     {
         "resortName": "San Martino di Castrozza (Passo Rolle)",
@@ -507,8 +485,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3vj6um0g4mo8pjf86sqfkzbo8l3m"
+        "skiPass": []
     },
     {
         "resortName": "Kaberlaba",
@@ -529,8 +506,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jt9qhy7epitqzaoyb2iuez7ehat3"
+        "skiPass": []
     },
     {
         "resortName": "Biancoia di Conco",
@@ -572,8 +548,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/f5wqp0ma73jh46i51nhmj0ig6g20"
+        "skiPass": []
     },
     {
         "resortName": "Pila",
@@ -594,8 +569,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yohm91enthlguu0obig40qdddq7e"
+        "skiPass": []
     },
     {
         "resortName": "Plan de Corones (Kronplatz)",
@@ -616,8 +590,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/99k977gknwp3uzgma7hw3y8f855m"
+        "skiPass": []
     },
     {
         "resortName": "Pontechianale",
@@ -638,8 +611,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/xe0ulwm4kfe85sy8f1ihbp61zjto"
+        "skiPass": []
     },
     {
         "resortName": "Prato Nevoso - Frabosa - Artesina",
@@ -660,8 +632,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/spw29ldc9tbek5rmqvdedmn2gy9z"
+        "skiPass": []
     },
     {
         "resortName": "Roccaraso - Rivisondoli",
@@ -682,8 +653,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/s05zfwyq9l0r49kfkcgz8jcjait4"
+        "skiPass": []
     },
     {
         "resortName": "Schnalstal",
@@ -704,8 +674,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kfssl346flhdax9z8zvzcztw3s1t"
+        "skiPass": []
     },
     {
         "resortName": "Sella Nevea / Kanin",
@@ -726,8 +695,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/exwf8yh7pfukcaltp00msmb9gmki"
+        "skiPass": []
     },
     {
         "resortName": "Sulden-Solda",
@@ -748,8 +716,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gdgebahz2dwnfdwndts29ipd26jc"
+        "skiPass": []
     },
     {
         "resortName": "Latemar (Val di Fiemme, Obereggen)",
@@ -770,8 +737,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/eegkwwcl9v9jwtny5iekama4dfta"
+        "skiPass": []
     },
     {
         "resortName": "Val Gardena - Ortisei - Selva - Santa Cristina",
@@ -792,8 +758,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yjz6fm42gtomp37fz6derkms3l0y"
+        "skiPass": []
     },
     {
         "resortName": "Via Lattea - Montgenèvre (Sestriere, Sauze d'Oulx, Sansicario, Claviere)",
@@ -814,8 +779,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hhvt75ncx79bvmhc2qmyqdjx1ctn"
+        "skiPass": []
     },
     {
         "resortName": "Rosskopf (Vipiteno)",
@@ -836,8 +800,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pmnniyaj0ji6fl7xzjziekqm9rw0"
+        "skiPass": []
     },
     {
         "resortName": "Abetone",
@@ -858,8 +821,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0msqhmubankugxe0enrkc0g9jf8x"
+        "skiPass": []
     },
     {
         "resortName": "Rittnerhorn",
@@ -880,8 +842,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nxono2ux3cl4ch3ol35cuykrst3n"
+        "skiPass": []
     },
     {
         "resortName": "Reinswald (Pichlberg, Sarentino)",
@@ -902,8 +863,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/n34gnv8gvteto78ot085yv47pd8f"
+        "skiPass": []
     },
     {
         "resortName": "Pfelders",
@@ -924,8 +884,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jpiedgh9co27bqdhb21k5210kac8"
+        "skiPass": []
     },
     {
         "resortName": "Ladurns",
@@ -946,8 +905,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2kqg0zu4oqbxcywwfox3x7aft0nb"
+        "skiPass": []
     },
     {
         "resortName": "Foppolo - San Simone",
@@ -968,8 +926,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1a9p353danw8moy616vybc3att0s"
+        "skiPass": []
     },
     {
         "resortName": "Monesi",
@@ -990,8 +947,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qxkda42o37yl0hr1j0im6l400cyq"
+        "skiPass": []
     },
     {
         "resortName": "Madesimo",
@@ -1012,8 +968,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cm3oh05xu7spohgmpvq1m7xl65ix"
+        "skiPass": []
     },
     {
         "resortName": "Santo Stefano D'Aveto",
@@ -1034,8 +989,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pl7go7uvt1p0ayte1zj76vru4ipo"
+        "skiPass": []
     },
     {
         "resortName": "Chamois",
@@ -1056,8 +1010,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/luf6xkbakxna926adzjez8o2kohc"
+        "skiPass": []
     },
     {
         "resortName": "La Magdeleine",
@@ -1078,8 +1031,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/idhe7dp30xof76slzg22kple0vpp"
+        "skiPass": []
     },
     {
         "resortName": "Val Gerola",
@@ -1100,8 +1052,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/908u067dhoampxh5ycg3i3zjwnc3"
+        "skiPass": []
     },
     {
         "resortName": "Torgnon",
@@ -1122,8 +1073,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/i4sxl7wgeio5mzwtbbc1xyjmwqd8"
+        "skiPass": []
     },
     {
         "resortName": "La Thuile",
@@ -1144,8 +1094,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4j8skvaw4rtpm3hbsonp1g09nqr3"
+        "skiPass": []
     },
     {
         "resortName": "Mottarone",
@@ -1166,8 +1115,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3bcruiac4erk5q24dleqpi0cq9vy"
+        "skiPass": []
     },
     {
         "resortName": "San Primo",
@@ -1188,8 +1136,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vlllwymkwov2q859f6wqv0x4i6rj"
+        "skiPass": []
     },
     {
         "resortName": "Tarvisio",
@@ -1210,8 +1157,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z6277uryytl368z7g7ypp4x0a4ng"
+        "skiPass": []
     },
     {
         "resortName": "Brixen Plose",
@@ -1232,8 +1178,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0zyisgdnjl05lmct6mpek8xs8kn0"
+        "skiPass": []
     },
     {
         "resortName": "Passo Brocon",
@@ -1254,8 +1199,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6r45dofyjts4nwu06n5yf6wkofh8"
+        "skiPass": []
     },
     {
         "resortName": "Piancavallo",
@@ -1276,8 +1220,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dc8buqme4wmq6agi8vp7i9hrjtp2"
+        "skiPass": []
     },
     {
         "resortName": "Bruncu Spina",
@@ -1298,8 +1241,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tzpnicdixu18u9phpop6eam9ll74"
+        "skiPass": []
     },
     {
         "resortName": "Champorcher",
@@ -1320,8 +1262,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1szigpwa47ubsh3551zs62f0926o"
+        "skiPass": []
     },
     {
         "resortName": "Gressoney Saint Jean",
@@ -1342,8 +1283,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/byvtqpqw44upsatsfxk7fck7xdat"
+        "skiPass": []
     },
     {
         "resortName": "Antagnod",
@@ -1364,8 +1304,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/byvtqpqw44upsatsfxk7fck7xdat"
+        "skiPass": []
     },
     {
         "resortName": "Brusson",
@@ -1386,8 +1325,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/byvtqpqw44upsatsfxk7fck7xdat"
+        "skiPass": []
     },
     {
         "resortName": "Col de Joux",
@@ -1408,8 +1346,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/a687wgfa8k0qi3tr1xmlctn3y6pc"
+        "skiPass": []
     },
     {
         "resortName": "Cogne",
@@ -1430,8 +1367,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mymg04v7y5ji4k8p7s8j4x2llthg"
+        "skiPass": []
     },
     {
         "resortName": "Rhemes - Notre Dame",
@@ -1452,8 +1388,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/chugnkn8wflhf2i60pa1oi7myltu"
+        "skiPass": []
     },
     {
         "resortName": "Ollomont",
@@ -1474,8 +1409,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rixm78azj4fe4x723f5g8rjf31xz"
+        "skiPass": []
     },
     {
         "resortName": "Valgrisenche",
@@ -1496,8 +1430,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/t6i5wkknypzjhp9cmn7k6gwljhbs"
+        "skiPass": []
     },
     {
         "resortName": "Limone Piemonte",
@@ -1518,8 +1451,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yll7471l8ziplw949mphy33nk5x6"
+        "skiPass": []
     },
     {
         "resortName": "Monterosa Ski (Alagna Valsesia, ​Gressoney-La-Trinité, Champoluc, Frachey)",
@@ -1540,8 +1472,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zjvstk1k3b9o0118j8q2kpf2zo0o"
+        "skiPass": []
     },
     {
         "resortName": "Valsavarenche",
@@ -1583,8 +1514,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cwz4ktc26yfl5jysr7mjqkkrr7ls"
+        "skiPass": []
     },
     {
         "resortName": "Chiesa Valmalenco",
@@ -1605,8 +1535,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uobu1tl78nay9894qe72ufk3dj0y"
+        "skiPass": []
     },
     {
         "resortName": "Santa Caterina Valfurva",
@@ -1627,8 +1556,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/emosomsc9mypvtzdmzbr7bqwxlw5"
+        "skiPass": []
     },
     {
         "resortName": "Arabba - Marmolada",
@@ -1649,8 +1577,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ipy1nod37vlymje3737x4t2c2ysg"
+        "skiPass": []
     },
     {
         "resortName": "Sappada",
@@ -1671,8 +1598,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ivh89uxcg4ww3yu3mmfmn1hldu88"
+        "skiPass": []
     },
     {
         "resortName": "Auronzo di Cadore",
@@ -1693,8 +1619,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hygwvqt0jiwddrt4xhbb2vjfzzph"
+        "skiPass": []
     },
     {
         "resortName": "Falcade - Passo San Pellegrino",
@@ -1715,8 +1640,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/i875vudc1brxax69fz5orp8rbmps"
+        "skiPass": []
     },
     {
         "resortName": "Alba di Canazei - Ciampac",
@@ -1737,8 +1661,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/l0ikajug3sekjd5qgfb0xsi6u0dp"
+        "skiPass": []
     },
     {
         "resortName": "Andalo - Fai della Paganella",
@@ -1759,8 +1682,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/j4dcxhwdka89bts0cdse5yiezgv1"
+        "skiPass": []
     },
     {
         "resortName": "Bellamonte - Alpe Lusia",
@@ -1781,8 +1703,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ggjuubhyrby4nkdafr53y0vf639f"
+        "skiPass": []
     },
     {
         "resortName": "Folgaria",
@@ -1803,8 +1724,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/i4toarc1sndjd7iei3qs9n8nvitp"
+        "skiPass": []
     },
     {
         "resortName": "Pampeago - Predazzo - Obereggen",
@@ -1825,8 +1745,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/i2py8dao7wupci1v4uohcklhrfac"
+        "skiPass": []
     },
     {
         "resortName": "Vigo di Fassa - Pera - Ciampedie",
@@ -1847,8 +1766,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/acj10xod53qhj2andaow29ikzpci"
+        "skiPass": []
     },
     {
         "resortName": "Pozza di Fassa - Buffaure",
@@ -1869,8 +1787,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vfhwlddkngdsoom5d2cd5vri718w"
+        "skiPass": []
     },
     {
         "resortName": "Pejo",
@@ -1891,8 +1808,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vi5jr28b9gqip9d7if0hbu4c2jip"
+        "skiPass": []
     },
     {
         "resortName": "Alpe di Siusi - Seiser Alm",
@@ -1913,8 +1829,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/22ppuk1v37do5axvgmfp2ilcimzs"
+        "skiPass": []
     },
     {
         "resortName": "Carezza - Karersee - Rosengarten - Passo di Costalunga",
@@ -1935,8 +1850,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lrh9e8lbq5n1t9ah8bfhwq8azvoz"
+        "skiPass": []
     },
     {
         "resortName": "Val Senales",
@@ -1957,8 +1871,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nxco6b8epcfbfhweawevdy5vmpjg"
+        "skiPass": []
     },
     {
         "resortName": "Val d'Ultimo - Ultental",
@@ -1979,8 +1892,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0qrcuax7dcjrpy53yhvdyu36o34t"
+        "skiPass": []
     },
     {
         "resortName": "Maranza - Gitschberg - Valles",
@@ -2001,8 +1913,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/psm108v5noq8nnsuvy8mj8t8q34a"
+        "skiPass": []
     },
     {
         "resortName": "Ravascletto - Zoncolan",
@@ -2023,8 +1934,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/oac2jiqdv1qfqe30ctkz7cagznei"
+        "skiPass": []
     },
     {
         "resortName": "Forni di sopra - Sauris",
@@ -2045,8 +1955,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wmegqhxt71mg5fcseftfrawz9scq"
+        "skiPass": []
     },
     {
         "resortName": "Domobianca",
@@ -2067,8 +1976,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/oaf0cw32pky2igmddc2vmegezccp"
+        "skiPass": []
     },
     {
         "resortName": "Nevegal",
@@ -2089,8 +1997,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ffofqowdea5jcmqa871r6tntsovj"
+        "skiPass": []
     },
     {
         "resortName": "Monte Avena",
@@ -2111,8 +2018,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/aig4scp1meed2ogpo5vf4lhhk7dm"
+        "skiPass": []
     },
     {
         "resortName": "Forcella Aurine",
@@ -2133,8 +2039,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8zcsebvmrx45yt9to2r02kd677bx"
+        "skiPass": []
     },
     {
         "resortName": "Sella Ciampigotto - Casera Razzo",
@@ -2155,8 +2060,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hlqh68kc91crw8ly0dk2z73shkxa"
+        "skiPass": []
     },
     {
         "resortName": "Padola",
@@ -2177,8 +2081,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/er3o51hklucnk364ghkukemkav2g"
+        "skiPass": []
     },
     {
         "resortName": "San Vito di Cadore",
@@ -2199,8 +2102,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/a0hu9g8z0w7c69vqd4vfgqn83cpk"
+        "skiPass": []
     },
     {
         "resortName": "Ski Civetta",
@@ -2221,8 +2123,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jobc6m8m0dq6j5kmlgf4ao5xjsiq"
+        "skiPass": []
     },
     {
         "resortName": "Lavarone Ski",
@@ -2243,8 +2144,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/m3u9o67i0oavlt138fwboapfvuz8"
+        "skiPass": []
     },
     {
         "resortName": "Panarotta",
@@ -2265,8 +2165,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/h8lajsuf7l8g36087ogdqra4afi1"
+        "skiPass": []
     },
     {
         "resortName": "Recoaro Mille",
@@ -2287,8 +2186,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qyhbcbuuljww8nwka5otqjebb1ta"
+        "skiPass": []
     },
     {
         "resortName": "Malga San Giorgio",
@@ -2309,8 +2207,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/h0m92adx6nitpd2f1egv71ptfonu"
+        "skiPass": []
     },
     {
         "resortName": "Brentonico Ski",
@@ -2331,8 +2228,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/n6hjlc62s282n6u1eizoa5g9bync"
+        "skiPass": []
     },
     {
         "resortName": "Passo Mendola - Ruffrè",
@@ -2353,8 +2249,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0mhe4yzlbi3v60o4d5hqqz2xw2bm"
+        "skiPass": []
     },
     {
         "resortName": "Ahrntal Ski World (Speikboden - Klausberg)",
@@ -2375,8 +2270,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/zairyclmbaqhcbc51yorzgd8jo6v"
+        "skiPass": []
     },
     {
         "resortName": "Watles",
@@ -2397,8 +2291,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nq1olvn5x3y5gbm2kkvbre5oqom4"
+        "skiPass": []
     },
     {
         "resortName": "Schöneben - Haideralm",
@@ -2419,8 +2312,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ka7kudya3t2bu760en0bb6ka0bwk"
+        "skiPass": []
     },
     {
         "resortName": "Trafoi",
@@ -2441,8 +2333,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0sreoxys0th96esh2nwrgmqxthyg"
+        "skiPass": []
     },
     {
         "resortName": "Borno",
@@ -2463,8 +2354,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2vb7f2dydgty076id6n53ycgxx1d"
+        "skiPass": []
     },
     {
         "resortName": "Colere",
@@ -2485,8 +2375,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7r6ep7g5b46f1jrp86nqtqrr91rj"
+        "skiPass": []
     },
     {
         "resortName": "Schilpario",
@@ -2507,8 +2396,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wkv8506dcocfzz0jkio8wrn1d8hi"
+        "skiPass": []
     },
     {
         "resortName": "Teglio",
@@ -2529,8 +2417,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dbm1ejqc0aq0rfirnos8y1bvoakf"
+        "skiPass": []
     },
     {
         "resortName": "Melette 2000",
@@ -2551,8 +2438,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/bpxie39hjgjjrlg9nmhuyab8gmat"
+        "skiPass": []
     },
     {
         "resortName": "Sangiacomo Cardini ski",
@@ -2573,8 +2459,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rub8kpqom6xcxtfzwysuxflwwtuv"
+        "skiPass": []
     },
     {
         "resortName": "Presolana Monte Pora",
@@ -2595,8 +2480,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8my24g5and549ehd24u0cewb2hoh"
+        "skiPass": []
     },
     {
         "resortName": "Spiazzi di Gromo",
@@ -2617,8 +2501,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2s5wz4h82sulzz77b5zgip4un62h"
+        "skiPass": []
     },
     {
         "resortName": "Lizzola",
@@ -2639,8 +2522,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gb6u6aejcv7br8wcyv2o3wkwnprq"
+        "skiPass": []
     },
     {
         "resortName": "Val Serina",
@@ -2661,8 +2543,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hrct8v11ta7nanmk1lkwaqz9poww"
+        "skiPass": []
     },
     {
         "resortName": "Selvino",
@@ -2704,8 +2585,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fkhqd8zhi4plp7khtqk56zqnugha"
+        "skiPass": []
     },
     {
         "resortName": "Piani di Bobbio",
@@ -2726,8 +2606,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sq10mhmj7ja4bzz64o770grw1u5l"
+        "skiPass": []
     },
     {
         "resortName": "Maniva",
@@ -2748,8 +2627,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kzj852l3fz35477mg8460t67or3q"
+        "skiPass": []
     },
     {
         "resortName": "Piana di Vigezzo",
@@ -2770,8 +2648,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ytta6n01wvdpfjdw5rwfizh2c4pi"
+        "skiPass": []
     },
     {
         "resortName": "Formazza Ski",
@@ -2792,8 +2669,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vq3n4df04lfun9kvnmx8q20clj5t"
+        "skiPass": []
     },
     {
         "resortName": "Alpe di Mera ",
@@ -2814,8 +2690,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gvr4yqbzixj1t858bpi44mremipl"
+        "skiPass": []
     },
     {
         "resortName": "Oropa",
@@ -2836,8 +2711,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/wojealpc9xnali5n0as1z85vlpmw"
+        "skiPass": []
     },
     {
         "resortName": "Pian Benot",
@@ -2858,8 +2732,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/whatjtv1j84t2giiccjbqvwj7f7d"
+        "skiPass": []
     },
     {
         "resortName": "Prali",
@@ -2880,8 +2753,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rp31fmkgflyhajldxnfgffd50gzg"
+        "skiPass": []
     },
     {
         "resortName": "Sampeyre",
@@ -2902,8 +2774,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/w70x4jwqklvttef6d0xay50optkc"
+        "skiPass": []
     },
     {
         "resortName": "Bersezio - Argentera",
@@ -2924,8 +2795,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cnciyophcjilm3svf4syym1bs7sl"
+        "skiPass": []
     },
     {
         "resortName": "St. Gree di Viola",
@@ -2946,8 +2816,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/li2r8q8bw9v2vqia20qcrorxzjyg"
+        "skiPass": []
     },
     {
         "resortName": "Garessio 2000",
@@ -2968,8 +2837,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jcbsbnca0nmoszfvcvpxnjcliv75"
+        "skiPass": []
     },
     {
         "resortName": "Prato Spilla",
@@ -2990,8 +2858,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sp6dn0dk7wma6cjhjwks2067wih8"
+        "skiPass": []
     },
     {
         "resortName": "Zum Zeri",
@@ -3012,8 +2879,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mobk4x3ywzxbju9uhsnwf96bzwvv"
+        "skiPass": []
     },
     {
         "resortName": "Cerreto Laghi",
@@ -3034,8 +2900,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/11k9xw2lno1trx9nykbxmz1ciu4c"
+        "skiPass": []
     },
     {
         "resortName": "Febbio",
@@ -3056,8 +2921,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/yhzbcncfew1xh7ay1ps9g8ahtwev"
+        "skiPass": []
     },
     {
         "resortName": "Sant'Annapelago",
@@ -3078,8 +2942,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pwcnacpeevi0m4h5niuyooj720wb"
+        "skiPass": []
     },
     {
         "resortName": "Corno alle Scale",
@@ -3100,8 +2963,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/bwwao9d4a8j20b8a09a0uuzd6aej"
+        "skiPass": []
     },
     {
         "resortName": "Monte Carpegna",
@@ -3122,8 +2984,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/nbaq8gczox8m4t238ylu50zzp6rc"
+        "skiPass": []
     },
     {
         "resortName": "Monte Catria",
@@ -3144,8 +3005,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/5l8oi4snco3bc9853u02ud29e2xf"
+        "skiPass": []
     },
     {
         "resortName": "Ussita - Frontignano",
@@ -3166,8 +3026,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cu8dtna6j1f9fpt5njkhhk6jgeoj"
+        "skiPass": []
     },
     {
         "resortName": "Passo Lanciano - Majelletta",
@@ -3188,8 +3047,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8xvkc4jiauzulofrzo3yaq9yos43"
+        "skiPass": []
     },
     {
         "resortName": "Campo di Giove",
@@ -3210,8 +3068,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/oj725w4snyg6eqn80nhtxfgx0d40"
+        "skiPass": []
     },
     {
         "resortName": "Lago Laceno",
@@ -3232,8 +3089,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pa47pxliaofz2owfvkyqzdm9ocqh"
+        "skiPass": []
     },
     {
         "resortName": "Schia - Monte Caio",
@@ -3254,8 +3110,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/hzdgqu11rhjoe1qjmrxb03kog35s"
+        "skiPass": []
     },
     {
         "resortName": "Forca Canapine",
@@ -3276,8 +3131,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/sk5gcn618ob2ulpjxco3mqehq65n"
+        "skiPass": []
     },
     {
         "resortName": "Monte Nerone",
@@ -3298,8 +3152,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pf9i5v4zq55cfwh3dfhfvetwhs2d"
+        "skiPass": []
     },
     {
         "resortName": "Monte Piselli",
@@ -3320,8 +3173,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/1mwu73ss4eamyurv606202ksq5b3"
+        "skiPass": []
     },
     {
         "resortName": "Monte Prata",
@@ -3342,8 +3194,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/z20c3madfr80e833rdcfk24z3vvl"
+        "skiPass": []
     },
     {
         "resortName": "Pintura di Bolognola",
@@ -3364,8 +3215,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/aqrtapv9uky0g81wk0mzq7nyol14"
+        "skiPass": []
     },
     {
         "resortName": "Sarnano - Sassotetto",
@@ -3386,8 +3236,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3hd6gtrclbpql5oy6ayyi3gkljs3"
+        "skiPass": []
     },
     {
         "resortName": "Lurisia - Monte Pigna",
@@ -3408,8 +3257,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/klmqwys71ipg3i4wjh1bn8y96gwn"
+        "skiPass": []
     },
     {
         "resortName": "Piane di Mocogno",
@@ -3430,8 +3278,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8xq2pksw7l610b5wezh8tbunqh9y"
+        "skiPass": []
     },
     {
         "resortName": "Sellata - Arioso",
@@ -3452,8 +3299,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b2afshiufivs2ku5wqe7qx4izeyc"
+        "skiPass": []
     },
     {
         "resortName": "Monte Sirino - Lauria",
@@ -3474,8 +3320,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/7rm68te1jl9suvllksfnr9ll085q"
+        "skiPass": []
     },
     {
         "resortName": "Viggiano",
@@ -3496,8 +3341,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0fmh3kzyqthnvgzm2j66uboim77n"
+        "skiPass": []
     },
     {
         "resortName": "Monte Volturino",
@@ -3518,8 +3362,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qg33rhvhto4rz6p96xwg10e6h0i9"
+        "skiPass": []
     },
     {
         "resortName": "Camigliatello Silano",
@@ -3540,8 +3383,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cq9imki1nls4r6zfq7llbgmgqdph"
+        "skiPass": []
     },
     {
         "resortName": "Lorica",
@@ -3562,8 +3404,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/oxtd0q1ju53aplwc2bkvjg3qby5m"
+        "skiPass": []
     },
     {
         "resortName": "Villaggio Palumbo",
@@ -3584,8 +3425,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rqpzfeeslya3kxf6m09suo4eepjz"
+        "skiPass": []
     },
     {
         "resortName": "Gambarie",
@@ -3606,8 +3446,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6gz8xmgrrsgybtuumxo6atw9oqsq"
+        "skiPass": []
     },
     {
         "resortName": "Fago del Soldato",
@@ -3628,8 +3467,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cfy9yjnv0sugv334898zlfde16dw"
+        "skiPass": []
     },
     {
         "resortName": "Piano Battaglia - Madonie",
@@ -3650,8 +3488,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/te7sszvywd81i24nhuzlandikuu7"
+        "skiPass": []
     },
     {
         "resortName": "Misurina",
@@ -3672,8 +3509,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uhk9asz7i6wxkcoulauk6gfi8pc4"
+        "skiPass": []
     },
     {
         "resortName": "Campocatino",
@@ -3694,8 +3530,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/g67napxyfa78yte7ft2k86t715an"
+        "skiPass": []
     },
     {
         "resortName": "Crissolo",
@@ -3716,8 +3551,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/w6qadmqdpm5luk1xe707riawbkza"
+        "skiPass": []
     },
     {
         "resortName": "Campo Staffi",
@@ -3738,8 +3572,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/i1on4sjiia0vxd59atxlv7p7k8ra"
+        "skiPass": []
     },
     {
         "resortName": "Scanno",
@@ -3760,8 +3593,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fqbse58e64mfg353u8munisopivq"
+        "skiPass": []
     },
     {
         "resortName": "Capracotta",
@@ -3782,8 +3614,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/9jeqmo0bfx85lz8du3szw63ssb9t"
+        "skiPass": []
     },
     {
         "resortName": "Selvarotonda",
@@ -3804,8 +3635,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rzzsuzwa7xohsc2fuyi3tzticlzq"
+        "skiPass": []
     },
     {
         "resortName": "Bielmonte",
@@ -3826,8 +3656,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fk3rrpnkw9usbgy56hom0po16cmx"
+        "skiPass": []
     },
     {
         "resortName": "Leonessa",
@@ -3848,8 +3677,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/v0ma0bq6doj58soqvi34vh87635v"
+        "skiPass": []
     },
     {
         "resortName": "Prati di Tivo",
@@ -3870,8 +3698,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/n1eankm01nhvbj1py8a5jyofb1xk"
+        "skiPass": []
     },
     {
         "resortName": "Livata",
@@ -3892,8 +3719,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/2834es3w8rgd9nczqlb1trfzf6vq"
+        "skiPass": []
     },
     {
         "resortName": "Campigna",
@@ -3914,8 +3740,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/fb3ee5y9m1i6gqgbi8ldalwvrtxo"
+        "skiPass": []
     },
     {
         "resortName": "Pescocostanzo",
@@ -3936,8 +3761,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8rxf78lof4sh4j1gles34qbtmaxv"
+        "skiPass": []
     },
     {
         "resortName": "Gaver",
@@ -3958,8 +3782,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/q0k8mx1b0i7o9g8viuowfolu0d6u"
+        "skiPass": []
     },
     {
         "resortName": "Doganaccia",
@@ -3980,8 +3803,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pg1rxhi1n0syswoyh1qjupiorv04"
+        "skiPass": []
     },
     {
         "resortName": "Ala di Stura",
@@ -4002,8 +3824,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/0rvwregno98an5l3e51wsx44vneh"
+        "skiPass": []
     },
     {
         "resortName": "Caldirola",
@@ -4024,8 +3845,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/611ex7o61xjwgz6fov1vu2aw0thn"
+        "skiPass": []
     },
     {
         "resortName": "Pian del Poggio",
@@ -4046,8 +3866,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/obvcb8mi11farn0uz6qu82ho7buf"
+        "skiPass": []
     },
     {
         "resortName": "Ventasso Laghi",
@@ -4068,8 +3887,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/3g6xpmd8krntqieov11kqjtq4uo0"
+        "skiPass": []
     },
     {
         "resortName": "Monte Fumaiolo",
@@ -4090,8 +3908,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/rcilbabh8iaykjsefxdeswz7wumh"
+        "skiPass": []
     },
     {
         "resortName": "Pian Munè",
@@ -4112,8 +3929,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/y8mqeaz9614fqfbh54te3ihgu1xu"
+        "skiPass": []
     },
     {
         "resortName": "Prato Selva",
@@ -4134,8 +3950,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/h3h8lob922t4t2tn597z3wjkvuef"
+        "skiPass": []
     },
     {
         "resortName": "Marsia",
@@ -4177,8 +3992,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/tpoinyg1oa5un8y8lqieyzh9jwpk"
+        "skiPass": []
     },
     {
         "resortName": "Pragelato Natural Terrain",
@@ -4199,8 +4013,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/osn5r9ygmmbaoehhjxifvlx5j8k1"
+        "skiPass": []
     },
     {
         "resortName": "Crévacol",
@@ -4221,8 +4034,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/olfb7wlvkqtneqlbwevetr6sefhl"
+        "skiPass": []
     },
     {
         "resortName": "Monte Verena",
@@ -4243,8 +4055,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dh5cxdumm6v8dkfm2rw2algbxskp"
+        "skiPass": []
     },
     {
         "resortName": "Marmolada/Malga",
@@ -4265,8 +4076,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dp1uaw21ykiah02ddzfom6w09wpd"
+        "skiPass": []
     },
     {
         "resortName": "Rucas di Bagnolo",
@@ -4287,8 +4097,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/d3kvehtqrkxejev2nm6xkqc3skjn"
+        "skiPass": []
     },
     {
         "resortName": "Monte Valbella (Asiago)",
@@ -4309,8 +4118,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/mle4h1nzd8p4y9zgmt5psa9hykf6"
+        "skiPass": []
     },
     {
         "resortName": "Alpe Cheggio",
@@ -4394,8 +4202,7 @@ var italyData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/b9bagsumq9w42y3gnquu76npuuuv"
+        "skiPass": []
     },
     {
         "resortName": "Entracque",

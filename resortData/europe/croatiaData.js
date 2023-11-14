@@ -18,8 +18,7 @@ var croatiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/jix98j4io7duqlp72zmejvk99a4t"
+        "skiPass": []
     },
     {
         "resortName": "Platak",
@@ -40,8 +39,7 @@ var croatiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/qk1o8o84qu3uadtb87favj3sci9z"
+        "skiPass": []
     },
     {
         "resortName": "Vučići",
@@ -62,7 +60,6 @@ var croatiaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/6fepet3fqkvd6bvb4l1r6fy3pox3"
+        "skiPass": []
     }
 ];

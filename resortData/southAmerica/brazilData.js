@@ -18,8 +18,7 @@ var brazilData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/dv7rtqd2j6vb19xmjjdkh86li2mb"
+        "skiPass": []
     },
     {
         "resortName": "Gramado Snowland (Serra Gaúcha)",
@@ -40,7 +39,6 @@ var brazilData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/o4vhmyq5mahx11n5u2sht3jop6sd"
+        "skiPass": []
     }
 ];

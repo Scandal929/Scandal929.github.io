@@ -18,7 +18,6 @@ var portugalData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/vgqsjsu1iqd748z7kstlvtmuejw7"
+        "skiPass": []
     }
 ];

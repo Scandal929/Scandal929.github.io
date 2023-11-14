@@ -18,8 +18,7 @@ var azerbaijanData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/kaqnekn55w7dhk07mvk7uq7ib7yk"
+        "skiPass": []
     },
     {
         "resortName": "Tufandag Mountain ",
@@ -40,7 +39,6 @@ var azerbaijanData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/t8gz4ordint1qsdnbw9wtss8h1kp"
+        "skiPass": []
     }
 ];

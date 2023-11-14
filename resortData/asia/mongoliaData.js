@@ -18,7 +18,6 @@ var mongoliaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/4dedokc6vlj7rtxfewmr652ob47o"
+        "skiPass": []
     }
 ];

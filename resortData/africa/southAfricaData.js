@@ -18,7 +18,6 @@ var southAfricaData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/8a72xvunaowp9wp3a4v98gvudxvf"
+        "skiPass": []
     }
 ];

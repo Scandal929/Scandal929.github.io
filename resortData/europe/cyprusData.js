@@ -18,7 +18,6 @@ var cyprusData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/pqseipc587kq55teouhs9ti4x5b3"
+        "skiPass": []
     }
 ];

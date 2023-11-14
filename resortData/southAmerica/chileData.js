@@ -18,8 +18,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/ark4ysb9npo7eahq1ubi7mol2hav"
+        "skiPass": []
     },
     {
         "resortName": "El Colorado-Farellones",
@@ -40,8 +39,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/e9fc7qi7k48oakhp6vedfy7dfggi"
+        "skiPass": []
     },
     {
         "resortName": "Lagunillas",
@@ -62,8 +60,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/cvi48khs2v3v7u6e5vc8ybw8bjte"
+        "skiPass": []
     },
     {
         "resortName": "Valle Nevado",
@@ -85,10 +82,8 @@ var chileData = [
             "note": ""
         },
         "skiPass": [
-            "Ikon",
-            "Mountain Collective"
-        ],
-        "mapLink": "https://files.skimap.org/f7dl4gz7x7uk47th503vvea7q07w"
+            "Ikon"
+        ]
     },
     {
         "resortName": "Antillanca",
@@ -109,8 +104,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/lbuz71mpjbr6xnq7qli93eqnovzh"
+        "skiPass": []
     },
     {
         "resortName": "Antuco",
@@ -131,8 +125,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/k0bapo2yp7le95yuz1y87uhb1xfw"
+        "skiPass": []
     },
     {
         "resortName": "Cerro Mirador",
@@ -153,8 +146,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/60p9tpe6ztrepjbq5qpqmx9iig8s"
+        "skiPass": []
     },
     {
         "resortName": "Nevados De Chillán",
@@ -175,8 +167,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/l3ast3s7u5wyowxo6oh70y5764oa"
+        "skiPass": []
     },
     {
         "resortName": "Pucón-Volcán Villarrica",
@@ -197,8 +188,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/829kn0arr9v1eegbn8u6rdj4egs8"
+        "skiPass": []
     },
     {
         "resortName": "Cerro El Fraile",
@@ -219,8 +209,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/uk73k548ag733aqtc0yegdu2o5lw"
+        "skiPass": []
     },
     {
         "resortName": "Corralco",
@@ -241,8 +230,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/gbcj61h4gium5snt2siyfljr05kv"
+        "skiPass": []
     },
     {
         "resortName": "Bosque Nevado",
@@ -263,8 +251,7 @@ var chileData = [
             "link": "",
             "note": ""
         },
-        "skiPass": [],
-        "mapLink": "https://files.skimap.org/eucom54zmesdi0pstxv5scdg2yo4"
+        "skiPass": []
     },
     {
         "resortName": "Quebrada Honda Ski & Snow",
