@@ -2437,7 +2437,7 @@ var unitedStatesData = [
     "website": "http://www.killington.com",
     "resortReview": {
       "score": 66,
-      "link": "ZKxshRQC66w",
+      "link": "",
       "note": "",
       "price": "4",
       "easeOfAccess": "4",
@@ -2665,7 +2665,7 @@ var unitedStatesData = [
     "website": "http://mountsnow.com/",
     "resortReview": {
       "score": 56,
-      "link": "SvYeSrOyf_c",
+      "link": "",
       "note": "",
       "price": "5",
       "easeOfAccess": "5",
@@ -3101,7 +3101,7 @@ var unitedStatesData = [
     "website": "https://www.bigsnowamericandream.com/",
     "resortReview": {
       "score": 47,
-      "link": "gpsfxa1XqPc",
+      "link": "",
       "note": "Scored this one out of 11 categories. He included 'fun' and 'parking' categories instead of an 'employees' category. Technically this should be scored 47/110 (or 42.7/100)",
       "price": "6",
       "easeOfAccess": "7",
@@ -3134,7 +3134,7 @@ var unitedStatesData = [
     "website": "https://www.skicampgaw.com/",
     "resortReview": {
       "score": 28,
-      "link": "_5cfWpVnvhY",
+      "link": "",
       "note": "",
       "price": "6",
       "easeOfAccess": "6",
@@ -3262,7 +3262,7 @@ var unitedStatesData = [
     "website": "http://www.belleayre.com/",
     "resortReview": {
       "score": 41,
-      "link": "vKl_mBCF6mU",
+      "link": "",
       "note": "",
       "price": "5",
       "easeOfAccess": "6",
@@ -3488,7 +3488,7 @@ var unitedStatesData = [
     "website": "http://www.goremountain.com",
     "resortReview": {
       "score": 45,
-      "link": "ALt-VpjRQew",
+      "link": "",
       "note": "Rated this 45/100 in the video, but the scores actually add up to 46.",
       "price": "5",
       "easeOfAccess": "4",
@@ -3682,7 +3682,7 @@ var unitedStatesData = [
     "website": "http://www.huntermtn.com/",
     "resortReview": {
       "score": 52,
-      "link": "mpoKns226DM",
+      "link": "",
       "note": "",
       "price": "6",
       "easeOfAccess": "5",
@@ -3780,7 +3780,7 @@ var unitedStatesData = [
     "website": "http://mtpeter.com/",
     "resortReview": {
       "score": 36,
-      "link": "bQaygJcxJKs",
+      "link": "",
       "note": "",
       "price": "6",
       "easeOfAccess": "6",
@@ -4072,7 +4072,7 @@ var unitedStatesData = [
     "website": "https://thunderridgeski.com/",
     "resortReview": {
       "score": 37,
-      "link": "1T4nnsYp-gI",
+      "link": "",
       "note": "",
       "price": "6",
       "easeOfAccess": "6",
@@ -4170,7 +4170,7 @@ var unitedStatesData = [
     "website": "https://westmountain.com/",
     "resortReview": {
       "score": 39,
-      "link": "1T4nnsYp-gI",
+      "link": "",
       "note": "",
       "price": "5",
       "easeOfAccess": "5",
@@ -4368,7 +4368,7 @@ var unitedStatesData = [
     "website": "https://westpoint.armymwr.com/programs/victor-constant-ski-area",
     "resortReview": {
       "score": 32,
-      "link": "4W_SmXNdUos",
+      "link": "",
       "note": "",
       "price": "9",
       "easeOfAccess": "5",
