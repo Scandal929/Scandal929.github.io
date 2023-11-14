@@ -2427,9 +2427,7 @@ var unitedStatesData = [
     "state": "Vermont",
     "region": "New England",
     "city": "Killington",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.626463482520855,
       "lng": -72.79673079000918
@@ -3192,9 +3190,7 @@ var unitedStatesData = [
     "state": "New Jersey",
     "region": "Mid-Atlantic",
     "city": "Vernon",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.181196331155085,
       "lng": -74.51322156175259
@@ -3258,9 +3254,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Highmount",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.14197859167307,
       "lng": -74.50222554454848
@@ -3486,9 +3480,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "North Creek",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.67414698551106,
       "lng": -74.00667386724834
@@ -3682,9 +3674,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Hunter",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 42.20377699301453,
       "lng": -74.22450818315733
@@ -3782,9 +3772,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Warwick",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.24854169492592,
       "lng": -74.29514441419944
@@ -4076,9 +4064,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Patterson",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.509190088831,
       "lng": -73.58532172149616
@@ -4176,9 +4162,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Glens Falls",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 43.286431660901286,
       "lng": -73.72507045205768
@@ -4244,9 +4228,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "Wilmington",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 44.35393325780303,
       "lng": -73.86172634787795
@@ -4380,9 +4362,7 @@ var unitedStatesData = [
     "state": "New York",
     "region": "Mid-Atlantic",
     "city": "West Point",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 41.39560173530888,
       "lng": -73.98356132208971
@@ -5368,9 +5348,7 @@ var unitedStatesData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Blowing Rock",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 36.173468638681165,
       "lng": -81.66401347733257
@@ -5468,9 +5446,7 @@ var unitedStatesData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Beech Mountain",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 36.195625208901824,
       "lng": -81.87785788527373
@@ -5502,9 +5478,7 @@ var unitedStatesData = [
     "state": "North Carolina",
     "region": "Southeast",
     "city": "Sugar Mountain",
-    "videos": [
-      ""
-    ],
+    "videos": [],
     "position": {
       "lat": 36.13369100484302,
       "lng": -81.86734557268886
