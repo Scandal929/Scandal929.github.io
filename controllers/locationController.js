@@ -176,7 +176,15 @@ app.controller('LocationController', function($scope, $location, myUtilities, le
 				iconAnchor: [12, 41],
 				popupAnchor: [1, -34],
 				shadowSize: [41, 41]
-			}
+			},
+			SkiOnlyIcon: {
+				iconUrl: `img/${iconPreference}/Ski_Only.png`,
+				shadowUrl: `img/marker_shadow.png`,
+				iconSize: !!localStorage.getItem('plainMarker') ? [25, 41] : [50, 45],
+				iconAnchor: [12, 41],
+				popupanchor: [1, -34],
+				shadowSize: [41, 41]
+			}	
 		};
 	
 		angular.extend($scope, {
@@ -201,8 +209,8 @@ app.controller('LocationController', function($scope, $location, myUtilities, le
 				circleColor = 'black';
 			}
 			else if (myData[i].skiOnly && myData[i].videos.length > 0) {
-				icon = 'greenSkiIcon'; // visited ski only resort
-				circleColor = 'green';
+				icon = 'Ski_Only'; // ski only resort
+				circleColor = 'blue';
 			}
 			else if (myData[i].skiOnly && myData[i].videos.length === 0) {
 				icon = 'redSkiIcon'; // not yet visited for ski only resort
