@@ -301,8 +301,8 @@ app.controller('LocationController', function($scope, $location, myUtilities, le
 
 	$scope.legend = {
 		position: 'bottomright',
-		colors: [ '#ff0000', '#28c9ff', '#0000ff', '#ecf386', '#ecf386', '#ecf386','#ecf386', '#ecf386'],
-		labels: [ '<b><i class="fa fa-trophy"></i> SQUAD Members</b>', 'Scandal929', 'E Storm', 'Haydo', 'Joe Joe', 'Shy Shy' ]
+		colors: [ '#ff0000', '#28c9ff', '#0000ff', '#ecf386', '#ecf386', '#ecf386','#ecf386', '#ecf386', '#ecf386' ],
+		labels: [ '<b><i class="fa fa-trophy"></i> DREAMER Memberships</b>', 'Scandal929', 'E Storm', 'Hayden', 'Joe-Joe', 'Shy Shy' ]
 	}
 
 	$scope.selected = undefined;
